@@ -1,6 +1,6 @@
 # Webscraping with spatial data - Bergfex
 
-![](Teaser_Bergfex.jpg)
+![](Teaser_Bergfex.png)
 
 This repository documents the webscraping of Bergfex webpage adding snow level information to each activity. It was elaborated by Malwina San José, Tiffany Carruthers and Sarah Dutschke. The information presented here is not approved for any kind of commercial use.
 
@@ -8,7 +8,7 @@ Project Team
 -----------
 
 [Sarah Dutschke](https://www.linkedin.com/in/sarah-dutschke/), 
-[Malwina San José](https://www.linkedin.com/in/malwina-san-josé/)
+[Malwina San José](https://www.linkedin.com/in/malwina-san-josé/),
 [Tiffany Carruthers](https://www.linkedin.com/in/tiffanycarruthers/)
 
 Partners
