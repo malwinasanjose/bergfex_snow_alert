@@ -50,16 +50,10 @@ Requirements
 The libraries required to run this product are the following (details in environment.yml and environment2.yml):
   - ipykernel
   - pandas
-  - plotly, version 4.14.3 or newer
-  - time
-  - xlwt
-  - scipy
-  - psutil
-  - requests
-  - plotly-orca
-  - pypardiso
-  - os
 
+XXX to update
+  
+  
 Repository Structure
 ------------
     ├── README.md       <- top-level README file for anybody interested in this project
