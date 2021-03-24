@@ -1,0 +1,701 @@
+title,difficulty,sport,length,time,climb,minmax,technique,fitness,ID
+"['Nebel im Tal, Schnee auf den Bergen']",['medium'],['Winter hiking'],8.77km,02:30h,360hm,694 - 945m,rating-4,rating-4,894840
+['Tour de Thurgau (Weinfelden – Fischingen)'],['difficult'],['Cycling'],109.83km,07:45h,800hm,386 - 625m,rating-4,rating-5,195068
+['Route des Staunens Flums'],['easy'],['Hiking'],5.01km,01:30h,71hm,435 - 492m,rating-1,rating-1,131494
+['Wanderung zum Muttsee'],['difficult'],['Hiking'],10.03km,04:30h,906hm,"1,871 - 2,570m",rating-,rating-5,251375
+['Etappe 16 Via Glaralpina - UNESCO Weltnaturerbe - aussergewöhnlich nah'],['difficult'],['Hiking'],17.81km,08:15h,"1,500hm","1,256 - 2,509m",rating-5,rating-5,336232
+['Rundwanderung Hemishofen (via Burg Hohenklingen)'],['medium'],['Hiking'],14.58km,04:45h,463hm,415 - 613m,rating-3,rating-4,238934
+['Von Vättis zur Walsersiedlung St.Martin'],['medium'],['Hiking'],8.06km,02:35h,447hm,"944 - 1,351m",rating-2,rating-3,286188
+['Gluristal'],['easy'],['Ski tour'],9.33km,02:05h,648hm,"892 - 2,042m",rating-2,rating-2,948833
+['Walensee-Trail 474'],['medium'],['Running'],13.83km,02:28h,405hm,422 - 664m,rating-3,rating-4,131518
+['Schleitheimer Randenturm'],['medium'],['Hiking'],11.98km,03:30h,477hm,472 - 896m,rating-2,rating-4,238944
+['Walk to Elm'],['difficult'],['Hiking'],24.25km,09:00h,"1,292hm","968 - 2,223m",rating-2,rating-6,219445
+['Die herbstliche Fülle des Altweibersommers'],['medium'],['Hiking'],8.74km,02:46h,420hm,668 - 856m,rating-3,rating-3,559480
+['Themenweg Wald'],['easy'],['Thematic route'],1.42km,00:30h,43hm,"1,339 - 1,390m",rating-1,rating-1,593361
+['Schaffhausen - Stein am Rhein (Via Rhenana)'],['medium'],['Hiking'],22.04km,05:35h,64hm,391 - 432m,rating-3,rating-3,276250
+['Thurgauer Thurweg (Weinfelden – Frauenfeld)'],['difficult'],['Hiking'],23.98km,05:45h,30hm,388 - 444m,rating-3,rating-6,318782
+['Glattrüti'],['easy'],['Hiking'],4.17km,01:18h,147hm,"904 - 1,051m",rating-1,rating-2,286205
+['Radtour zu den UNESCO-Welterbestätten am Bodensee'],['medium'],['Cycling'],84.53km,05:46h,98hm,392 - 685m,rating-,rating-3,292034
+['Panoramaweg Lustdorf – Lustdorf'],['easy'],['Hiking'],13.34km,03:45h,300hm,515 - 696m,rating-2,rating-2,250442
+['DenkWeg Glarus Nord'],['easy'],['Thematic route'],4.76km,01:29h,119hm,633 - 739m,rating-1,rating-1,264873
+['Thurgauer Rundwanderweg (Bischofszell – Hauptwil)'],['easy'],['Hiking'],2.8km,00:45h,110hm,506 - 614m,rating-1,rating-2,130710
+['Kleine Vorderland Rundtour'],['easy'],['Mountainbike'],13.73km,01:55h,442hm,"775 - 1,098m",rating-2,rating-2,1038359
+['Fridolinshütte-Claridenhütte (2-Tages-Tour)'],['difficult'],['Hiking'],21.13km,10:29h,"2,230hm","803 - 2,537m",rating-,rating-5,251374
+['Schlittelweg Stoss - Altstätten'],[],['Sledge'],4.43km,00:50h,-,463 - 947m,rating-,rating-0,966503
+['Lüsis Bike Nr. 475'],['medium'],['Mountainbike'],6.42km,02:00h,870hm,"425 - 1,272m",rating-3,rating-2,131402
+['Alp- und Kulturweg Schrina'],['medium'],['Thematic route'],7.75km,03:45h,565hm,"1,280 - 1,717m",rating-,rating-3,131538
+['Klimahörpfad St.Gallen'],['easy'],['Thematic route'],5.47km,02:00h,3hm,569 - 685m,rating-,rating-2,205033
+['Heidiland Wander Tour 3: Flumserberg - Kleinberg'],['difficult'],['Hiking'],15.08km,05:15h,856hm,"961 - 1,814m",rating-2,rating-5,131474
+['Mapragg Stausee'],['easy'],['Hiking'],9.34km,02:43h,241hm,766 - 975m,rating-2,rating-2,286190
+['Rundtour Palfries - Sennis'],['medium'],['Hiking'],15.6km,05:15h,611hm,"1,399 - 1,803m",rating-3,rating-4,354745
+['Alp Maton - Chimmispitz'],['medium'],['Hiking'],14.11km,04:24h,612hm,"1,189 - 1,802m",rating-2,rating-3,286174
+['5-Seen-Wanderung Pizol'],['medium'],['Hiking'],9.96km,04:30h,534hm,"1,858 - 2,507m",rating-3,rating-4,147768
+['Holzweg'],['medium'],['Hiking'],6.73km,03:00h,236hm,784 - 954m,rating-3,rating-3,848632
+"['Gufelstock, 2436 m']",[],['Hiking'],29.64km,13:30h,"2,230hm","519 - 2,435m",rating-,rating-0,110700
+['Tourenski-Angebot am Abend'],['medium'],['Ski tour'],4.84km,02:00h,527hm,"1,245 - 1,772m",rating-,rating-3,277588
+['Flawil - Magdenau - Tufertschwil - Lütisburg'],['medium'],['Hiking'],12.44km,04:00h,379hm,549 - 855m,rating-2,rating-4,130827
+['Panoramarundweg Homburg'],['easy'],['Hiking'],5.09km,01:15h,100hm,653 - 717m,rating-1,rating-1,130737
+['Genuss-Tour Goldingertal'],['easy'],['Cycling'],17.83km,01:28h,314hm,585 - 835m,rating-1,rating-1,613171
+['ViaRhenana: von Stein am Rhein nach Steckborn'],['medium'],['Hiking'],16.87km,04:30h,400hm,394 - 591m,rating-3,rating-3,82335
+['Winterwanderweg Tannenboden- Seebenalp'],['medium'],['Winter hiking'],3.82km,01:30h,328hm,"1,387 - 1,656m",rating-3,rating-3,277889
+['Herzroute Wattwil - Herisau'],['difficult'],['Cycling'],54.37km,04:07h,942hm,550 - 895m,rating-5,rating-5,202597
+['Warmes Wasser in düsterer Schlucht'],['medium'],['Hiking'],6.94km,02:02h,70hm,517 - 827m,rating-2,rating-4,131542
+['Rundweg Matt'],['easy'],['Winter hiking'],3.25km,01:00h,132hm,900 - 985m,rating-2,rating-2,278067
+['Ortstockhaus - Chatzenstafel'],['easy'],['Snowshoe'],1.18km,00:30h,16hm,"1,659 - 1,772m",rating-,rating-2,940342
+['Rossweidhöchi'],['difficult'],['Mountainbike'],37.56km,04:30h,"1,508hm","418 - 1,424m",rating-4,rating-5,795169
+['Segnespass'],['medium'],['Hiking'],17.37km,06:33h,"1,111hm","1,099 - 2,627m",rating-2,rating-4,179286
+['Am Klöntaler See'],[],['Hiking'],13.35km,03:45h,145hm,456 - 878m,rating-,rating-0,297002
+['Gufelstock'],['difficult'],['Hiking'],16.65km,07:15h,"1,627hm","632 - 2,429m",rating-4,rating-6,175673
+['Höhenweg Obererbs - Ämpächli'],['easy'],['Hiking'],5.69km,01:42h,135hm,"1,478 - 1,692m",rating-1,rating-1,174715
+['Wanderung zum Nussbüel'],['easy'],['Hiking'],3.63km,01:00h,97hm,"1,206 - 1,267m",rating-,rating-1,251393
+['Hasenboden Höhenweg – Hoch über dem Walensee'],['easy'],['Hiking'],5.99km,02:00h,210hm,"909 - 1,499m",rating-2,rating-2,209114
+['Täuferweg (Merishausen - Zelgli)'],['medium'],['Hiking'],5.67km,01:45h,335hm,534 - 869m,rating-,rating-3,229081
+['Hüttenwanderung Sardonahütte SAC'],['medium'],['Hiking'],26.23km,09:25h,"1,561hm","1,344 - 2,415m",rating-3,rating-4,839114
+['Alp Maton - Chimmispitz'],['medium'],['Hiking'],14.11km,04:24h,612hm,"1,189 - 1,802m",rating-2,rating-3,286174
+['Steiner Grenz- und Brückenwanderung'],[],['Hiking'],11.53km,03:53h,534hm,596 - 816m,rating-,rating-0,643465
+['Mostindien-Tour (Weinfelden – Romanshorn)'],['easy'],['Cycling'],33.75km,02:15h,100hm,399 - 530m,rating-2,rating-2,130581
+['Klimahörpfad St.Gallen'],['easy'],['Thematic route'],5.47km,02:00h,3hm,569 - 685m,rating-,rating-2,205033
+['Diepoldsau - Alter Rhein - Diepoldsau'],['medium'],['Hiking'],12.22km,03:30h,19hm,407 - 421m,rating-1,rating-3,130832
+['Appenzellerweg: Wattwil - Einsiedeln'],['difficult'],['Cycling'],44.75km,04:33h,"1,082hm",406 - 990m,rating-5,rating-4,156910
+['Etappe 17 Via Glaralpina - Chüebüch und Schoggigrat - süsse Versuchung für Bergwanderer'],['difficult'],['Hiking'],14km,06:00h,950hm,"1,389 - 2,435m",rating-5,rating-5,336264
+['Kulinarik-Tour Bad Ragaz - Walensee (E-Bike)'],['medium'],['Cycling'],37.56km,03:00h,238hm,423 - 716m,rating-2,rating-4,682761
+['Bluescht-Velotour Thurgau'],['easy'],['Cycling'],35.74km,02:30h,200hm,397 - 594m,rating-2,rating-2,172643
+"['Sardona-Welterbe-Weg Nr. 73, 3. Etappe']",['difficult'],['long-distance walking trail'],15.99km,05:30h,544hm,"998 - 2,393m",rating-3,rating-5,131546
+['St. Gallen - Mörschwil - Horn'],['easy'],['Hiking'],10.81km,03:30h,82hm,402 - 703m,rating-1,rating-2,130804
+['Durch den Reiat von Herblingen nach Thayngen'],['medium'],['Hiking'],18.01km,05:00h,370hm,424 - 739m,rating-3,rating-3,118091
+['Route Neuhausen am Rheinfall – Neunkirch'],['medium'],['Hiking'],14.82km,04:02h,296hm,377 - 655m,rating-3,rating-3,71488
+['Thurgauer Fabelweg'],['easy'],['Thematic route'],11.23km,03:00h,170hm,399 - 576m,rating-1,rating-2,130549
+['Thurgauer Rundwanderweg (Altnau – Siegershausen)'],['easy'],['Hiking'],10.99km,02:45h,160hm,409 - 571m,rating-2,rating-2,130721
+['Mädems Trail'],['medium'],['Snowshoe'],7.48km,03:30h,400hm,"1,427 - 1,785m",rating-,rating-3,523270
+"['Sardona-Welterbe-Weg Nr. 73, 2. Etappe']",['difficult'],['long-distance walking trail'],12.09km,05:30h,939hm,"1,765 - 2,420m",rating-3,rating-5,131558
+['St. Margrethen - Steiniger Tisch - Rheineck'],['medium'],['Hiking'],14.74km,05:00h,451hm,398 - 572m,rating-2,rating-4,130847
+['Blauburgunderpfad'],['easy'],['Hiking'],3.98km,01:00h,119hm,423 - 547m,rating-2,rating-2,238961
+"['Panixerpass, 2407 m']",[],['Hiking'],23.94km,08:00h,"1,725hm","973 - 2,623m",rating-,rating-0,110698
+['Weesen - Quinten: Wandern zwischen See und Berg'],['medium'],['Hiking'],10.66km,03:26h,414hm,419 - 720m,rating-4,rating-4,258552
+['Friedensweg'],['easy'],['Hiking'],11.73km,03:34h,405hm,571 - 808m,rating-,rating-2,556770
+['Pfarrer Künzle Weg Wangs'],['medium'],['Thematic route'],6.03km,01:47h,167hm,484 - 641m,rating-1,rating-3,131372
+['Goldige Aussichten - Rundtour ab Atzmännig'],['easy'],['Cycling'],38.21km,03:07h,686hm,585 - 937m,rating-1,rating-1,613155
+['Uferweg Stein am Rhein'],['easy'],['Hiking'],6.7km,01:40h,26hm,396 - 422m,rating-2,rating-2,276242
+['Mittelthurgauer Schlossweg (Weinfelden – Sulgen)'],['medium'],['Hiking'],17.79km,04:45h,320hm,429 - 677m,rating-3,rating-4,130559
+['Calfeisental-Rundtour im Welterbe Sardona'],['difficult'],['Hiking'],19.33km,07:17h,"1,254hm","1,339 - 2,160m",rating-4,rating-5,270380
+['Alfred Huggenberger und Bernhard Greuter'],['easy'],['Hiking'],10.69km,02:30h,180hm,404 - 560m,rating-2,rating-2,248599
+['Schanerberg'],['medium'],['Mountainbike'],21.02km,02:30h,808hm,"459 - 1,172m",rating-3,rating-3,129687
+['Fridolinshütte-Claridenhütte (2-Tages-Tour)'],['difficult'],['Hiking'],21.13km,10:29h,"2,230hm","803 - 2,537m",rating-,rating-5,251374
+"['Pfäfers, Rheintal pur']",['difficult'],['Mountainbike'],31.99km,04:16h,983hm,"502 - 1,413m",rating-4,rating-5,131394
+['Rundtour entlang des Rheins'],['medium'],['Cycling'],43.01km,02:30h,102hm,348 - 413m,rating-2,rating-4,238983
+['Hulftegg Rundweg'],['easy'],['Winter hiking'],8.2km,02:25h,243hm,"804 - 1,005m",rating-,rating-2,1002526
+['Arvenbüel – Schwaderloch – Zopf – Bärenegg – Flügenspitz – Looch – Rör - Arvenbüel'],['easy'],['Snowshoe'],8.5km,03:15h,505hm,"1,254 - 1,686m",rating-2,rating-2,1033111
+['Eggen Höhenweg'],['easy'],['Hiking'],6.37km,02:10h,326hm,"833 - 1,059m",rating-2,rating-2,76452
+['Familienroute Bodensee-Rhein'],['difficult'],['Cycling'],181.94km,04:00h,40hm,361 - 502m,rating-2,rating-6,197928
+['Rauf und Runter vor der Kulisse des Säntis'],['medium'],['Hiking'],10.55km,04:10h,807hm,"982 - 1,574m",rating-4,rating-4,798132
+['Unterwasser - Iltios - Selamatt - Starkenbach'],['difficult'],['Hiking'],16.95km,06:00h,858hm,"892 - 1,630m",rating-2,rating-5,130795
+['Textilweg St.Gallen West'],['easy'],['Thematic route'],7.39km,01:30h,23hm,586 - 681m,rating-,rating-2,130755
+['Chnobelweg'],['easy'],['Thematic route'],4.27km,01:18h,112hm,760 - 873m,rating-2,rating-2,243629
+['Rorschach - Heiden - Walzenhausen'],['difficult'],['Hiking'],17.51km,06:00h,715hm,397 - 945m,rating-2,rating-5,130809
+['Panüöl-Trail 465'],['medium'],['Running'],6.56km,00:45h,380hm,"1,576 - 1,957m",rating-,rating-3,131505
+['Heidiland Wein- und Kulturroute'],['medium'],['Cycling'],42.99km,03:30h,473hm,463 - 716m,rating-3,rating-4,131529
+['Ebnat-Kappel - Tanzboden - Ebnat-Kappel'],['difficult'],['Hiking'],13.61km,05:30h,875hm,"627 - 1,428m",rating-2,rating-5,130785
+['Hüttenwanderung Walensee'],['easy'],['Hiking'],19.74km,06:55h,786hm,"425 - 1,719m",rating-2,rating-2,434158
+['Neckiweg Abschnitt Brunnadern-Oberhelfenschwil'],['medium'],['Thematic route'],8.55km,03:00h,539hm,"652 - 1,082m",rating-1,rating-4,907682
+['Chrüzegg (Tour 17)'],['medium'],['Snowshoe'],7.9km,04:30h,538hm,"738 - 1,265m",rating-,rating-4,130058
+['St. Margrethen - Steiniger Tisch - Rheineck'],['medium'],['Hiking'],14.74km,05:00h,451hm,398 - 572m,rating-2,rating-4,130847
+['Thurgauer Velo-Genuss'],['easy'],['Cycling'],32.68km,02:15h,100hm,398 - 498m,rating-2,rating-2,315066
+['Schlittelweg Prodalp-Tannenheim'],['medium'],['Sledge'],2.22km,00:20h,-,"1,221 - 1,575m",rating-2,rating-3,277887
+['Wunderland Seerücken (Klingenzell – Wäldi)'],['medium'],['Hiking'],22.07km,05:45h,330hm,536 - 718m,rating-3,rating-4,215077
+['Vom Speicher nach Eggersriet'],['medium'],['Hiking'],10.03km,03:20h,485hm,"690 - 1,078m",rating-4,rating-4,824689
+['Am Klöntaler See'],[],['Hiking'],13.35km,03:45h,145hm,456 - 878m,rating-,rating-0,297002
+['Thurgauer Rundwanderweg  (Romanshorn – Altnau)'],['easy'],['Hiking'],12.18km,03:00h,20hm,396 - 414m,rating-2,rating-2,130719
+['Thurgauer Rundwanderweg (Stein am Rhein – Nussbaumen)'],['easy'],['Hiking'],6.02km,01:30h,200hm,412 - 633m,rating-2,rating-2,130686
+['Rüthi - Kastensattel - Hoher Kasten'],['difficult'],['Hiking'],9.58km,05:30h,"1,417hm","431 - 1,791m",rating-2,rating-5,130830
+['Thurgauer Rebenweg'],['easy'],['Hiking'],14.23km,03:45h,90hm,390 - 540m,rating-2,rating-2,869523
+['Segnespass'],['medium'],['Hiking'],17.37km,06:33h,"1,111hm","1,099 - 2,627m",rating-2,rating-4,179286
+['Hohe Buche mit Weitblick'],['medium'],['Hiking'],8.62km,02:40h,370hm,"859 - 1,122m",rating-,rating-3,557184
+['Chrüzegg - Rundtour ab Wattwil'],['medium'],['Mountainbike'],26.69km,02:30h,999hm,"603 - 1,265m",rating-4,rating-4,130091
+['Valens - Taminaschlucht'],['easy'],['Hiking'],3.54km,01:27h,307hm,680 - 915m,rating-1,rating-2,286207
+['Thurgauer Thurweg (Bischofszell – Weinfelden)'],['medium'],['Hiking'],18.56km,04:30h,-,428 - 506m,rating-2,rating-4,130611
+['Mazils'],['medium'],['Winter hiking'],1.77km,00:38h,46hm,"1,736 - 1,775m",rating-2,rating-4,278065
+['Fessis-Rundweg auf Aeugsten'],[],['Hiking'],9.06km,03:59h,850hm,"1,445 - 2,179m",rating-,rating-0,503058
+['E-Bike & Hike - Alp Maton'],['medium'],['Cycling'],30.96km,06:00h,"1,485hm","515 - 1,763m",rating-2,rating-4,767104
+['Route des Staunens Weisstannental'],['medium'],['Hiking'],8.25km,03:06h,530hm,"1,003 - 1,532m",rating-2,rating-4,131488
+['Calfeisental-Rundtour im Welterbe Sardona'],['difficult'],['Hiking'],19.33km,07:17h,"1,254hm","1,339 - 2,160m",rating-4,rating-5,270380
+['Säntis - Tierwis – Thurwis – Gamplüt – Wildhaus'],['medium'],['Hiking'],11.21km,04:00h,128hm,"1,008 - 2,495m",rating-,rating-4,798092
+['Tar da da Weg Schleitheim'],['easy'],['Hiking'],6.17km,01:45h,164hm,453 - 559m,rating-2,rating-2,220181
+['Appenzeller Witzanderweg 2015'],[],['Thematic route'],7.73km,02:24h,265hm,674 - 793m,rating-,rating-0,69988
+['Naturerlebnispfad Flums-Kleinberg'],['medium'],['Thematic route'],7.58km,03:00h,41hm,"632 - 1,491m",rating-3,rating-2,131536
+['Maschgenkamm - Murgsee'],['difficult'],['Hiking'],17.69km,06:00h,490hm,"1,157 - 2,285m",rating-4,rating-5,131418
+['Mostindien-Tour (2 Tage)'],['medium'],['Cycling'],101.74km,07:00h,420hm,397 - 621m,rating-2,rating-3,190739
+['Amden – Quinten: Dolcefarniente am Walensee'],['medium'],['Hiking'],9.42km,03:15h,286hm,425 - 909m,rating-4,rating-0,239085
+['Wunderland Seerücken (Gottlieben – Altnau)'],['medium'],['Hiking'],21.69km,05:30h,180hm,394 - 572m,rating-2,rating-4,215080
+['Walensee-Tour'],['difficult'],['Hiking'],26.66km,08:25h,918hm,419 - 843m,rating-2,rating-6,131552
+['Bettlerweg'],['medium'],['Hiking'],13.65km,05:09h,939hm,"858 - 1,778m",rating-3,rating-4,286204
+"['Sardona-Welterbe-Weg Nr. 73, 3. Etappe']",['difficult'],['long-distance walking trail'],15.99km,05:30h,544hm,"998 - 2,393m",rating-3,rating-5,131546
+['Selun'],['medium'],['Hiking'],7.64km,04:00h,867hm,"1,384 - 2,203m",rating-3,rating-4,239660
+['E-Bike Gigerwald - St. Martin'],['medium'],['Cycling'],48.64km,03:20h,"1,060hm","515 - 1,350m",rating-3,rating-4,216673
+['Schlösserrundweg im Rorschacherberg'],['medium'],['Thematic route'],9.27km,02:30h,166hm,422 - 586m,rating-,rating-3,240173
+['Salomonstempel - Rigelschwendi - Hemberg'],['medium'],['Winter hiking'],7.7km,03:00h,284hm,"946 - 1,139m",rating-3,rating-2,278070
+"['Jubiläumsweg 1250 Jahrfeier Flums, Mels, Sargans']",['medium'],['Thematic route'],11.71km,03:30h,470hm,438 - 584m,rating-1,rating-3,131589
+['Thurgauer Rundwanderweg (Fischingen – Münchwilen)'],['medium'],['Hiking'],9.44km,02:30h,100hm,512 - 674m,rating-4,rating-2,130699
+['Rundtour entlang des Rheins'],['medium'],['Cycling'],43.01km,02:30h,102hm,348 - 413m,rating-2,rating-4,238983
+['Spritzige Mosttour'],['medium'],['Cycling'],62.74km,15:30h,40hm,400 - 410m,rating-,rating-4,795273
+['Wil - Thurauen - Felsegg'],['medium'],['Hiking'],17.44km,04:36h,192hm,494 - 648m,rating-3,rating-3,563632
+['Rundum Oberegg'],['medium'],['Hiking'],7.94km,02:25h,262hm,"854 - 1,109m",rating-3,rating-3,557714
+['Themenweg Wald'],['easy'],['Thematic route'],1.42km,00:30h,43hm,"1,339 - 1,390m",rating-1,rating-1,593361
+['Thronfolgeweg'],['difficult'],['Hiking'],45.42km,12:00h,610hm,390 - 590m,rating-3,rating-6,586304
+['Von Vättis zur Walsersiedlung St.Martin'],['medium'],['Hiking'],8.06km,02:35h,447hm,"944 - 1,351m",rating-2,rating-3,286188
+['Leglerhütte SAC zur Skihütte Obererbs'],['medium'],['Hiking'],9.6km,03:40h,390hm,"1,702 - 2,491m",rating-,rating-4,174751
+['Hulftegg – Allenwinden – Hultegg «Hulftegg Rundweg»'],['easy'],['Hiking'],7.63km,02:00h,175hm,"866 - 1,005m",rating-2,rating-2,1002630
+['Huggenberger-Route'],['easy'],['Cycling'],19.26km,01:30h,240hm,403 - 574m,rating-2,rating-2,130556
+['Tar da da Weg Schleitheim'],['easy'],['Hiking'],6.17km,01:45h,164hm,453 - 559m,rating-2,rating-2,220181
+['Etappe 09 Via Glaralpina - Audienz beim höchsten Glarner'],['medium'],['Hiking'],7.09km,03:15h,430hm,"1,926 - 2,537m",rating-3,rating-4,336244
+['Heidiland Wein- und Kulturroute'],['medium'],['Cycling'],42.99km,03:30h,473hm,463 - 716m,rating-3,rating-4,131529
+['Wil SG – Kloten: «Mitelland-Route»'],['medium'],['Cycling'],51km,03:45h,221hm,435 - 619m,rating-3,rating-3,777835
+['Heidiland Wander Tour 5: Weisstannen - Pizol'],['difficult'],['Hiking'],15.55km,05:24h,"1,122hm","908 - 1,745m",rating-3,rating-6,131475
+['Lüsis Bike Nr. 475'],['medium'],['Mountainbike'],6.42km,02:00h,870hm,"425 - 1,272m",rating-3,rating-2,131402
+['St. Georgen-Trail 441'],['medium'],['Running'],7.03km,01:10h,158hm,435 - 584m,rating-3,rating-4,131566
+['In-Vino-Veritas Weg Hallau'],['medium'],['Hiking'],9.6km,02:32h,131hm,418 - 516m,rating-1,rating-3,220168
+['Altschen - Schneeschuhtour'],['medium'],['Snowshoe'],5.1km,01:47h,161hm,"1,255 - 1,407m",rating-2,rating-4,269621
+['Rorschacher Ast: Neuhaus - Siebnen'],['medium'],['Pilgrimage'],14.42km,03:46h,137hm,407 - 521m,rating-,rating-3,156744
+['Konzil-Rundfahrt um Frauenfeld'],['easy'],['Cycling'],45.84km,03:15h,360hm,386 - 613m,rating-2,rating-2,130532
+['Der mit dem Seeblick'],['medium'],['Hiking'],5.45km,01:42h,180hm,"792 - 1,121m",rating-3,rating-3,563605
+['Winterwanderweg Prodalp-Panüöl'],['medium'],['Winter hiking'],3.99km,01:30h,290hm,"1,572 - 1,865m",rating-2,rating-3,277888
+['Geoweg Chrüzegg'],['medium'],['Hiking'],9.19km,03:15h,640hm,"823 - 1,310m",rating-3,rating-3,66035
+['Fischingen – Hörnli – Steg: «Rucksack füll dich»'],['medium'],['Hiking'],9.77km,03:15h,507hm,"620 - 1,126m",rating-2,rating-3,136794
+['Seerenbachfälle und Rinquelle'],['easy'],['Hiking'],4.41km,01:30h,142hm,419 - 564m,rating-2,rating-1,131447
+['Libingen - Chrüzegg - Libingen'],['medium'],['Hiking'],10.24km,04:30h,639hm,"719 - 1,265m",rating-2,rating-4,130769
+['Mettmen - Kärpfscharte'],['difficult'],['Ski tour'],7.06km,04:30h,"1,098hm","1,599 - 2,649m",rating-4,rating-5,979151
+['Von der Ebenalp zum Schäfler'],[],['Hiking'],18.46km,08:00h,855hm,"785 - 1,919m",rating-,rating-0,588021
+['Steinzeitpfad Route Kesslerloch-Schweizersbild'],['medium'],['Thematic route'],11.18km,02:55h,111hm,433 - 504m,rating-2,rating-3,447812
+"['Skitour Firzstock, Obstalden']",['medium'],['Ski tour'],4.88km,03:00h,"1,237hm","685 - 1,923m",rating-3,rating-4,995253
+['Panixerpass'],['difficult'],['Hiking'],22.59km,08:10h,"1,540hm","960 - 2,404m",rating-3,rating-5,179284
+['Thurgauer Rundwanderweg'],['difficult'],['Hiking'],171.89km,45:00h,"2,190hm",396 - 822m,rating-2,rating-6,157757
+['Chüeweid'],['medium'],['Mountainbike'],14.47km,01:30h,651hm,"476 - 1,125m",rating-3,rating-2,129693
+['Kerenzerberg Bike Nr. 301'],['medium'],['Mountainbike'],22.37km,03:00h,917hm,"457 - 1,310m",rating-3,rating-3,894768
+['Panoramawanderung Winter'],['medium'],['Snowshoe'],8.83km,03:50h,439hm,"1,559 - 1,908m",rating-,rating-3,276231
+['Zwerg-Bartli-Erlebnisweg'],['easy'],['Thematic route'],8.28km,03:30h,85hm,"1,256 - 1,905m",rating-,rating-2,235159
+['Rhein-Route (Kreuzlingen – Schaffhausen)'],['easy'],['Cycling'],48.31km,03:15h,60hm,391 - 448m,rating-2,rating-2,130573
+['Thurgauer Tannzapfenweg'],['medium'],['Hiking'],11.44km,03:30h,470hm,616 - 994m,rating-2,rating-3,130513
+['Winterland am Fuss von Kronberg und Petersalp'],['difficult'],['Snowshoe'],11.25km,04:15h,445hm,"819 - 1,211m",rating-5,rating-5,1002727
+['Wil - Littenheid - Fischingen'],['medium'],['Hiking'],13.16km,04:00h,267hm,556 - 658m,rating-2,rating-3,130775
+['Glarina-Trail 417'],['medium'],['Running'],6.93km,01:13h,188hm,766 - 951m,rating-2,rating-3,131568
+['Gipfelhütte Alvier'],['medium'],['Climbing'],3.31km,02:45h,648hm,"1,687 - 2,335m",rating-,rating-4,428082
+['Gesundheitsweg - Appenzeller Hügelblick'],['easy'],['Hiking'],4.24km,01:15h,48hm,"879 - 1,014m",rating-,rating-2,925503
+['Schwarzenbach - Thurauen - Niederbüren'],['medium'],['Hiking'],14.92km,04:15h,188hm,478 - 594m,rating-1,rating-3,130778
+['Thurgauer Rebenweg'],['easy'],['Hiking'],14.23km,03:45h,90hm,390 - 540m,rating-2,rating-2,869523
+['Melser Alpenweg'],['easy'],['Thematic route'],2.34km,01:00h,76hm,"1,171 - 1,240m",rating-,rating-2,131432
+['Gams - Sommerigweid - Wildhaus'],['medium'],['Hiking'],11.33km,05:00h,852hm,"476 - 1,310m",rating-2,rating-4,130834
+['Klangweg Churfirsten'],['easy'],['Hiking'],5.16km,01:25h,120hm,"1,166 - 1,389m",rating-1,rating-2,69105
+['Frümsel'],['difficult'],['Hiking'],6.3km,03:25h,925hm,"1,388 - 2,261m",rating-5,rating-6,242416
+['Naturlehrpfad Merishausen: Route Braun'],['medium'],['Hiking'],11.42km,03:20h,369hm,534 - 901m,rating-2,rating-3,220179
+['Goldtoni - Alpenbogen A045 Braunwald-Urigen'],['easy'],['long-distance walking trail'],27.8km,07:25h,"1,245hm","1,205 - 1,957m",rating-2,rating-3,200553
+['Gold Trophy unterwegs – Wander-Route Goldingertal'],['easy'],['Hiking'],9.98km,02:55h,304hm,470 - 745m,rating-2,rating-2,574068
+['Achseli'],['medium'],['Mountainbike'],15.74km,04:14h,"1,129hm","520 - 1,533m",rating-4,rating-4,63683
+"['Sardona-Welterbe-Weg Nr. 73, 3. Etappe']",['difficult'],['long-distance walking trail'],15.99km,05:30h,544hm,"998 - 2,393m",rating-3,rating-5,131546
+['Kerenzerberg Bike'],['medium'],['Mountainbike'],20.47km,02:50h,922hm,"457 - 1,303m",rating-,rating-3,787146
+['Auf dem Firstweg von Stein am Rhein nach Bankholzen'],['medium'],['Hiking'],21.05km,06:00h,500hm,401 - 700m,rating-3,rating-4,112964
+['Oberseetal – Klöntal'],[],['Hiking'],17.37km,06:00h,872hm,"851 - 1,818m",rating-,rating-0,296998
+['Natur-Barfuss Kneippweg Gamplüt'],['easy'],['Thematic route'],2.38km,01:00h,263hm,"1,090 - 1,353m",rating-2,rating-2,190935
+['Schneeschuhtour Schilt'],['difficult'],['Snowshoe'],10.25km,05:00h,959hm,"1,328 - 2,287m",rating-,rating-5,995260
+['Toggenburger Höhenweg (1. Etappe)'],['medium'],['Hiking'],15.53km,06:10h,939hm,"1,015 - 1,671m",rating-2,rating-3,321339
+['Seerenbachfälle und Rinquelle'],['easy'],['Hiking'],4.41km,01:30h,142hm,419 - 564m,rating-2,rating-1,131447
+['Gulme'],['medium'],['Hiking'],10.42km,05:00h,966hm,"1,101 - 1,997m",rating-3,rating-4,239656
+['Flawil - Magdenau - Tufertschwil - Lütisburg'],['medium'],['Hiking'],12.44km,04:00h,379hm,549 - 855m,rating-2,rating-4,130827
+['MounTeens Detektiv-Weg'],['medium'],['Thematic route'],2.36km,00:48h,96hm,"1,495 - 1,592m",rating-3,rating-3,495388
+['Herzroute: Herisau - Altstätten'],['medium'],['Cycling'],31.07km,02:44h,607hm,434 - 963m,rating-4,rating-4,642013
+['Comicweg'],['easy'],['Thematic route'],4.15km,01:20h,166hm,677 - 807m,rating-1,rating-1,242408
+['Velotour mit Biergenuss'],['easy'],['Cycling'],36.21km,06:00h,210hm,397 - 515m,rating-2,rating-2,795279
+['Hulftegg – Chrüzegg: «Züri Oberland-Höhenweg – Etappe 3»'],['medium'],['Hiking'],11.08km,04:00h,681hm,"951 - 1,309m",rating-,rating-3,777800
+['Etappe 01 Via Glaralpina - Gipfelschnuppern hoch über der Linthebene'],['medium'],['Hiking'],13.07km,05:45h,"1,380hm","418 - 1,675m",rating-3,rating-3,318740
+['5-Seen-Wanderung - DER KLASSIKER'],['difficult'],['Hiking'],9.5km,04:30h,534hm,"1,843 - 2,526m",rating-3,rating-3,3029
+['Herzroute Wattwil - Herisau'],['difficult'],['Cycling'],56.02km,04:27h,"1,031hm",544 - 895m,rating-6,rating-6,642026
+['St. Gallen - Wittenbach - Winden'],['easy'],['Hiking'],9.84km,03:00h,168hm,512 - 782m,rating-1,rating-2,130840
+['Ämpächli - Bischofalp'],[],['Snowshoe'],5.31km,01:30h,299hm,"1,478 - 1,770m",rating-,rating-0,1002463
+"[""Alpöhi's Medium Trail""]",['easy'],['Trailrunning'],3.49km,00:49h,281hm,"1,993 - 2,224m",rating-1,rating-2,551070
+['Weesen - Quinten - Walenstadt'],['difficult'],['Hiking'],20.68km,07:00h,792hm,421 - 843m,rating-3,rating-6,131457
+['Taminaschlucht-Trail 412'],['easy'],['Running'],5.62km,01:30h,200hm,502 - 700m,rating-,rating-2,131562
+['Tour durchs Appenzeller Hinterland'],[],['Cycling'],43.86km,03:47h,968hm,"596 - 1,068m",rating-,rating-0,641996
+['Alp Ell - Krümmenswil'],['medium'],['Sledge'],3.09km,00:14h,-,"726 - 1,116m",rating-4,rating-2,279482
+['Rundwanderung Schiben Weissenberge'],['medium'],['Winter hiking'],4.82km,01:30h,214hm,"1,255 - 1,404m",rating-2,rating-3,286209
+['Steinzeitpfad Route Kesslerloch-Schweizersbild'],['medium'],['Thematic route'],11.18km,02:55h,111hm,433 - 504m,rating-2,rating-3,447812
+['Naturlehrpfad Merishausen: Route Braun'],['medium'],['Hiking'],11.42km,03:20h,369hm,534 - 901m,rating-2,rating-3,220179
+"['Mountainbike-Tour ""Sesemann"" Pizol']",['medium'],['Mountainbike'],5.64km,00:40h,92hm,"518 - 1,118m",rating-3,rating-1,885325
+['Märzeglöggli- / Gipsstollentour'],['easy'],['Hiking'],9.35km,02:30h,164hm,453 - 593m,rating-1,rating-2,238951
+"['Vorderglärnisch, 2327 m']",[],['Hiking'],12.7km,07:15h,"1,556hm","850 - 2,326m",rating-,rating-0,296997
+['Robert Walser-Pfad'],['medium'],['Hiking'],7.88km,02:25h,317hm,700 - 873m,rating-4,rating-4,714935
+['Napoleonroute am Untersee'],['easy'],['Cycling'],30.83km,02:15h,230hm,394 - 618m,rating-,rating-2,777872
+['Torloch mit Variante Ochsenhütte'],['medium'],['Mountainbike'],30.87km,04:15h,"1,068hm","905 - 1,784m",rating-3,rating-4,514912
+['Appenzell-Rheintal-Route'],['easy'],['Cycling'],17.13km,01:18h,182hm,453 - 914m,rating-,rating-1,210492
+['Längenegg Bike'],['difficult'],['Mountainbike'],40.3km,05:55h,"1,431hm","436 - 1,818m",rating-,rating-5,787145
+['Schmugglertour'],['easy'],['Hiking'],8.62km,02:30h,165hm,451 - 573m,rating-1,rating-2,238950
+['Thurgauer Rundwanderweg (Kartause Ittingen – Frauenfeld)'],['easy'],['Hiking'],4.53km,01:00h,20hm,387 - 420m,rating-2,rating-2,130693
+"[""E-Bike Alpen-Trophy - Ziel Reto's Älpli""]",['easy'],['Cycling'],18.24km,02:40h,923hm,"513 - 1,201m",rating-2,rating-2,645538
+['Schwägalp'],['difficult'],['Mountainbike'],33.23km,04:00h,"1,100hm","759 - 1,457m",rating-5,rating-5,130094
+"[""Heidi's Medium Trail""]",['medium'],['Trailrunning'],7.74km,01:45h,417hm,"1,602 - 1,908m",rating-1,rating-3,551073
+['Themenweg Moor'],['easy'],['Thematic route'],2.1km,00:37h,49hm,"1,278 - 1,320m",rating-,rating-2,593365
+['Tourenski-Angebot am Abend'],['medium'],['Ski tour'],4.84km,02:00h,527hm,"1,245 - 1,772m",rating-,rating-3,277588
+"['Linthwerk, Standardführung 3 - Escherkanal: Vrenelibrücke - Chli Gäsitschachen - Chupferensteg - Kundertriet']",['medium'],['Thematic route'],4.86km,02:00h,10hm,424 - 434m,rating-,rating-3,1034405
+['Naturbrücke in der Taminaschlucht'],['medium'],['Hiking'],5.64km,02:07h,372hm,753 - 980m,rating-2,rating-3,286211
+['MounTeens Detektiv-Weg'],['medium'],['Thematic route'],2.36km,00:48h,96hm,"1,495 - 1,592m",rating-3,rating-3,495388
+['Chrüzegg - Rundtour ab Wattwil'],['medium'],['Mountainbike'],26.69km,02:30h,999hm,"603 - 1,265m",rating-4,rating-4,130091
+['St. Gallen - Fünfländerblick - Rheineck'],['difficult'],['Hiking'],19.62km,06:00h,587hm,399 - 957m,rating-2,rating-5,130841
+['Gulme'],['difficult'],['Snowshoe'],11.56km,04:30h,956hm,"1,096 - 1,996m",rating-,rating-5,482948
+['Etappe 04 Via Glaralpina - Klöntal - Kraft und Magie'],['medium'],['Hiking'],17.51km,06:30h,"1,290hm","845 - 1,981m",rating-3,rating-4,318706
+['Sargans - Gonzen - Kurhaus Alvier - Oberschan'],['difficult'],['Hiking'],15.48km,06:15h,"1,348hm","481 - 1,830m",rating-3,rating-6,131434
+['Klimahörpfad St.Gallen'],['easy'],['Thematic route'],5.47km,02:00h,3hm,569 - 685m,rating-,rating-2,205033
+['Schibenstoll'],['medium'],['Hiking'],4.84km,03:00h,845hm,"1,389 - 2,234m",rating-3,rating-4,239614
+['Von der Ebenalp zum Schäfler'],[],['Hiking'],18.46km,08:00h,855hm,"785 - 1,919m",rating-,rating-0,588021
+['ViaRhenana: von Stein am Rhein nach Steckborn'],['medium'],['Hiking'],16.87km,04:30h,400hm,394 - 591m,rating-3,rating-3,82335
+"[""Alpöhi's Short Trail""]",['easy'],['Trailrunning'],2.84km,00:35h,145hm,"2,183 - 2,274m",rating-1,rating-2,551071
+['Weinweg Weinfelden'],['easy'],['Hiking'],8.25km,02:15h,110hm,428 - 540m,rating-2,rating-2,130599
+['E-Bike Heididorf'],['easy'],['Cycling'],15.32km,01:10h,210hm,494 - 696m,rating-1,rating-1,216682
+['Seez-Trail 443'],['medium'],['Running'],11.08km,01:37h,26hm,440 - 466m,rating-2,rating-3,131564
+"['Wiesen, Waldwege und Feldhase']",['medium'],['Hiking'],9.04km,02:57h,433hm,"784 - 1,126m",rating-2,rating-3,551093
+['Thurgauer Rundwanderweg (Hauptwil – Amriswil)'],['medium'],['Hiking'],13.48km,03:30h,140hm,437 - 589m,rating-3,rating-3,130704
+['Thurgauer Thurweg (Frauenfeld – Andelfingen)'],['difficult'],['Hiking'],24.18km,12:45h,80hm,359 - 421m,rating-3,rating-6,318779
+"['Amden, die Stille Nr. 472']",['medium'],['Mountainbike'],18.65km,03:11h,902hm,"422 - 1,324m",rating-4,rating-4,131384
+['Gartenroute Untersee 3/3'],['easy'],['Cycling'],20.61km,01:30h,141hm,397 - 464m,rating-2,rating-2,238959
+['Rundwanderung Berglimattsee'],['difficult'],['Hiking'],10.14km,03:57h,678hm,"1,560 - 2,168m",rating-4,rating-5,175679
+['Tanzboden Route 5'],['medium'],['Snowshoe'],11.49km,06:00h,817hm,"630 - 1,435m",rating-,rating-4,130057
+['Schänis - Oberbogmen - Rieden'],['difficult'],['Hiking'],13.81km,06:00h,"1,101hm","420 - 1,374m",rating-3,rating-5,130845
+['Schneit - Nesslau'],['medium'],['Sledge'],1.7km,00:05h,230hm,"814 - 1,041m",rating-,rating-3,919482
+['Rundtour vom Zürichsee via Sattelegg und Einsiedeln'],['medium'],['Racing'],65.13km,03:49h,"1,076hm","408 - 1,191m",rating-3,rating-4,180187
+['Risipass (Tour 9)'],['medium'],['Snowshoe'],7.75km,03:30h,434hm,"838 - 1,459m",rating-,rating-3,130067
+['Swiss fine wine trail - Région du Klettgau (côté suisse)'],['easy'],['Thematic route'],9.79km,02:34h,121hm,413 - 499m,rating-1,rating-2,114356
+['E-Bike & Hike - Chapfensee'],['medium'],['Cycling'],43.12km,04:50h,"1,087hm","475 - 1,184m",rating-2,rating-3,767106
+['Zweitägige Skitour von Maschgenkamm via Spitzmeilenhütte via Oxni nach Weisstannen'],['medium'],['Ski tour'],24km,06:45h,"1,195hm","1,000 - 2,371m",rating-3,rating-3,598331
+['Geo-Weg Schönholzerswilen'],['easy'],['Hiking'],9.39km,02:30h,150hm,478 - 590m,rating-2,rating-2,130536
+['Ramsen - Stein am Rhein'],['medium'],['Hiking'],15.97km,04:50h,505hm,397 - 681m,rating-3,rating-4,276249
+['Vögelinsegg - Über die Eggen - St. Gallen'],['easy'],['Hiking'],8.11km,02:30h,168hm,"739 - 1,024m",rating-2,rating-2,130839
+"['Wanderung zum Dreieckbaum Flawil - Egg - Alterschwil - Flawil, Sankt Gallen']",['easy'],['Hiking'],10.39km,02:28h,271hm,605 - 791m,rating-2,rating-3,302274
+['Rebkulturweg Thal'],['easy'],['Hiking'],2.99km,01:15h,102hm,415 - 523m,rating-1,rating-2,130757
+['Seerücken-Route (Siegershausen – Arbon)'],['easy'],['Cycling'],30.73km,02:00h,70hm,398 - 571m,rating-2,rating-2,130518
+['Seez-Trail 443'],['medium'],['Running'],11.08km,01:37h,26hm,440 - 466m,rating-2,rating-3,131564
+['Winterwanderweg Prodalp-Panüöl'],['medium'],['Winter hiking'],3.99km,01:30h,290hm,"1,572 - 1,865m",rating-2,rating-3,277888
+['Kulinarik-Wanderung Geniesser Route Flumserberg'],['easy'],['Hiking'],6.34km,02:00h,240hm,"1,381 - 1,630m",rating-1,rating-2,304861
+['Familienroute (Kreuzlingen – Stein am Rhein)'],['easy'],['Cycling'],27.95km,02:00h,30hm,394 - 427m,rating-2,rating-1,130750
+"['Jubiläumsweg 1250 Jahrfeier Flums, Mels, Sargans']",['medium'],['Thematic route'],11.71km,03:30h,470hm,438 - 584m,rating-1,rating-3,131589
+['Wunderland Seerücken (Gottlieben – Altnau)'],['medium'],['Hiking'],21.69km,05:30h,180hm,394 - 572m,rating-2,rating-4,215080
+['Wanderung rund um Wil'],['medium'],['Hiking'],34.22km,09:04h,481hm,510 - 775m,rating-2,rating-4,556760
+['Schwabenweg: Konstanz - Märstetten'],['easy'],['Pilgrimage'],13.66km,03:36h,196hm,403 - 551m,rating-,rating-1,156765
+['Mittelland Rundtour'],['medium'],['Mountainbike'],21.87km,02:20h,760hm,"777 - 1,138m",rating-4,rating-4,1038354
+['Murgweg'],['medium'],['Hiking'],20.72km,05:15h,180hm,399 - 575m,rating-2,rating-4,130603
+['Säntisalpen (Tour 11)'],['easy'],['Snowshoe'],6.5km,03:00h,10hm,"940 - 1,360m",rating-,rating-2,130071
+['Von der Ebenalp zum Schäfler'],[],['Hiking'],18.46km,08:00h,855hm,"785 - 1,919m",rating-,rating-0,588021
+['Breite Schaffhausen - Löhningen'],['medium'],['Hiking'],6.97km,02:05h,243hm,457 - 650m,rating-3,rating-4,229112
+['3-Dörfer-Trail 473'],['easy'],['Running'],8.19km,01:00h,152hm,421 - 572m,rating-,rating-2,131525
+['Zur Steinerburg'],['easy'],['Hiking'],12.42km,03:15h,89hm,396 - 482m,rating-,rating-1,365543
+['Neckertaler Höhenweg (Etappe 3)'],['difficult'],['Hiking'],20.37km,06:00h,585hm,"946 - 1,519m",rating-2,rating-5,130829
+['Tannenboden-Prodalp'],['easy'],['Winter hiking'],3.09km,01:30h,256hm,"1,348 - 1,576m",rating-2,rating-2,279728
+['Panoramarundweg Rosenboden'],['easy'],['Hiking'],2.91km,00:55h,128hm,"2,168 - 2,260m",rating-1,rating-1,242439
+['DenkWeg Glarus Nord'],['easy'],['Thematic route'],4.76km,01:29h,119hm,633 - 739m,rating-1,rating-1,264873
+['Orenplatte'],['easy'],['Hiking'],5.87km,02:00h,209hm,"1,026 - 1,389m",rating-,rating-2,335764
+['Alp Fursch Bike Nr. 478'],['difficult'],['Mountainbike'],36.1km,04:15h,"1,447hm","436 - 1,840m",rating-4,rating-5,131482
+['Altstätten - Höch Hirschberg - Gais'],['difficult'],['Hiking'],13.86km,05:30h,901hm,"429 - 1,167m",rating-2,rating-5,130850
+['Kulinarik-Tour Walensee (E-Bike)'],['easy'],['Cycling'],33.05km,02:45h,370hm,420 - 512m,rating-1,rating-2,185331
+['Rundwanderung zwischen Schleitheim und Beggingen'],['medium'],['Hiking'],11km,03:30h,301hm,473 - 625m,rating-1,rating-3,238939
+['Rorschacher Ast: Wattwil - Neuhaus'],['medium'],['Pilgrimage'],16.19km,04:50h,461hm,470 - 989m,rating-,rating-3,156743
+['Hörspielweg Elm – Schwanden'],['medium'],['Hiking'],15.56km,04:05h,70hm,521 - 980m,rating-3,rating-3,700211
+['Flugzeugfeeling auf dem Gulme'],['medium'],['Hiking'],11.36km,03:30h,"1,030hm","1,085 - 1,999m",rating-1,rating-3,274524
+['Tour Napoléon'],['medium'],['Hiking'],14.05km,03:45h,220hm,397 - 618m,rating-2,rating-3,171155
+['Tageswanderung Aeugstenhütte - Murgseen - Merlen'],[],['Hiking'],13.5km,05:13h,897hm,"1,099 - 2,345m",rating-,rating-0,274499
+['Romanshorner Wald-Tour'],['easy'],['Hiking'],5.92km,01:30h,60hm,396 - 452m,rating-2,rating-2,340852
+['Seen-Route Etappe 10: Buchs-Rorschach'],['easy'],['Cycling'],58.59km,04:03h,2hm,396 - 486m,rating-,rating-2,272140
+['E-Bike Alpen-Trophy - Ziel Alp Walabütz'],['medium'],['Cycling'],40.28km,03:30h,965hm,"479 - 1,359m",rating-1,rating-4,370267
+['Rüthi - Kastensattel - Hoher Kasten'],['difficult'],['Hiking'],9.58km,05:30h,"1,417hm","431 - 1,791m",rating-2,rating-5,130830
+['Murgseen-Rundtour'],['difficult'],['Hiking'],14.51km,05:15h,856hm,"1,123 - 1,983m",rating-3,rating-5,131454
+['Goldtoni - Alpenbogen A045 Braunwald-Urigen'],['easy'],['long-distance walking trail'],27.8km,07:25h,"1,245hm","1,205 - 1,957m",rating-2,rating-3,200553
+['Warmes Wasser in düsterer Schlucht'],['medium'],['Hiking'],6.94km,02:02h,70hm,517 - 827m,rating-2,rating-4,131542
+['Appenzeller Alpenweg – 1. Etappe'],['medium'],['Hiking'],15.15km,05:30h,991hm,"818 - 1,513m",rating-3,rating-4,79456
+['Familienroute Bodensee-Rhein'],['difficult'],['Cycling'],181.94km,04:00h,40hm,361 - 502m,rating-2,rating-6,197928
+['Kulinarik-Tour Bad Ragaz - Walensee (E-Bike)'],['medium'],['Cycling'],37.56km,03:00h,238hm,423 - 716m,rating-2,rating-4,682761
+['Schwabenweg: Märstetten - Tobel'],['easy'],['Pilgrimage'],11.75km,03:03h,184hm,414 - 544m,rating-,rating-1,208215
+['Goldtoni - Alpenbogen A043 Weisstannen-Elm (Hängstboden)'],['medium'],['long-distance walking trail'],29.8km,08:17h,"2,260hm","960 - 2,223m",rating-3,rating-3,200549
+['Altstätten - Höch Hirschberg - Gais'],['difficult'],['Hiking'],13.86km,05:30h,901hm,"429 - 1,167m",rating-2,rating-5,130850
+['Etappe 18 Via Glaralpina - Botanische Voralpen-Wander-Grattour'],['difficult'],['Hiking'],12.74km,05:30h,780hm,"703 - 1,905m",rating-4,rating-5,336226
+['Stein am Rhein - Wolkenstein - Burg Hohenklingen'],['medium'],['Hiking'],8.75km,02:50h,190hm,410 - 600m,rating-3,rating-0,80629
+['Atzmännig – Tweralpspitz – Atzmännig: «Goldinger Rundwanderung»'],['medium'],['Hiking'],9.3km,03:30h,603hm,"819 - 1,328m",rating-2,rating-3,136793
+['Kolumbansweg Schweiz - 10. Etappe Magdenau/Flawil - St.Gallen'],[],['Hiking'],21.56km,06:05h,521hm,594 - 866m,rating-,rating-0,953446
+['Familienroute (Stein am Rhein - Schaffhausen)'],['medium'],['Cycling'],23.17km,01:36h,52hm,361 - 448m,rating-2,rating-3,278519
+['Rundum zum Flügenspitz'],['medium'],['Hiking'],9.8km,03:19h,532hm,"1,236 - 1,700m",rating-4,rating-4,211522
+['Schabziger Höhenweg'],['easy'],['Thematic route'],6.69km,02:24h,349hm,"1,160 - 1,450m",rating-,rating-2,477513
+['St. Iddaburg'],['medium'],['Cycling'],24.03km,02:30h,580hm,608 - 966m,rating-3,rating-3,130033
+['Rapperswil - Wattwil: «Herzroute»'],['difficult'],['Cycling'],56.12km,04:30h,951hm,407 - 937m,rating-2,rating-5,136884
+['Schneeschuhtour  Skulpturenweg Niederurner Täli'],['medium'],['Snowshoe'],6.05km,03:00h,373hm,"981 - 1,288m",rating-,rating-3,995262
+['Wattwil - St. Gallenkappel - Schmerikon'],['difficult'],['Hiking'],17.81km,06:00h,561hm,408 - 990m,rating-2,rating-5,130786
+['Schwammkopf-Trail 461'],['medium'],['Running'],3.02km,00:30h,70hm,"1,381 - 1,450m",rating-2,rating-3,131504
+['Wäldler Wonderweg kurze Route'],['easy'],['Hiking'],6.75km,01:50h,164hm,"902 - 1,045m",rating-2,rating-2,718635
+['Von der Schwägalp auf den Kronberg'],['medium'],['Snowshoe'],5.16km,02:30h,460hm,"1,352 - 1,663m",rating-3,rating-3,11659
+['Fischingen – Allenwinden – Fischingen: «Thurgauer Tannzapfenweg»'],['medium'],['Hiking'],11.61km,03:40h,432hm,614 - 995m,rating-2,rating-3,777836
+['Schwägalp'],['difficult'],['Mountainbike'],33.23km,04:00h,"1,100hm","759 - 1,457m",rating-5,rating-5,130094
+['GeoGalerie Flumserberg'],['medium'],['Thematic route'],5.87km,02:00h,98hm,"1,930 - 2,012m",rating-2,rating-3,131392
+['Rundum zum Flügenspitz'],['medium'],['Hiking'],9.8km,03:19h,532hm,"1,236 - 1,700m",rating-4,rating-4,211522
+['Via Francisca: St. Gallen - Rüthi SG'],['difficult'],['Pilgrimage'],34.29km,10:26h,"1,129hm","424 - 1,089m",rating-,rating-6,156885
+['Märliweg Urnäsch'],['easy'],['Thematic route'],5.31km,01:42h,248hm,"823 - 1,062m",rating-2,rating-2,556802
+['Zur Steinerburg'],['easy'],['Hiking'],12.42km,03:15h,89hm,396 - 482m,rating-,rating-1,365543
+['Garten-Rendezvous Thurgauer Seerücken gross'],['difficult'],['Cycling'],59.1km,05:00h,711hm,394 - 622m,rating-4,rating-5,101921
+['Raiffeisen Wasserweg Goldach'],['easy'],['Hiking'],6.94km,01:45h,15hm,398 - 605m,rating-1,rating-1,130756
+['Rundwanderung Gamperdun - Ramin'],['difficult'],['Hiking'],16.92km,06:18h,"1,152hm","960 - 2,113m",rating-5,rating-6,174714
+['Schaffhausen - Rheinfall'],['easy'],['Hiking'],5.61km,01:25h,3hm,360 - 404m,rating-2,rating-2,246812
+['Rundwanderweg Thurberg'],['medium'],['Hiking'],17.86km,05:00h,380hm,429 - 631m,rating-2,rating-4,130595
+['Starkenbach - Selun - Sellamatt - Alt St. Johann'],['medium'],['Hiking'],14.66km,06:30h,"1,451hm","894 - 2,205m",rating-4,rating-4,130055
+['Planetenweg Kreuzlingen'],['easy'],['Thematic route'],11.37km,02:49h,2hm,394 - 546m,rating-,rating-2,458379
+['Säntis - Tierwis – Thurwis – Gamplüt – Wildhaus'],['medium'],['Hiking'],11.21km,04:00h,128hm,"1,008 - 2,495m",rating-,rating-4,798092
+['Unterwasser - Tierwis - Säntis'],['difficult'],['Hiking'],10.21km,06:00h,"1,598hm","905 - 2,502m",rating-4,rating-6,130799
+['Rorschacher Ast: Neuhaus - Siebnen'],['medium'],['Pilgrimage'],14.42km,03:46h,137hm,407 - 521m,rating-,rating-3,156744
+['Altschen - Schneeschuhtour'],['medium'],['Snowshoe'],5.1km,01:47h,161hm,"1,255 - 1,407m",rating-2,rating-4,269621
+['Via Jacobi (Weinfelden – Fischingen)'],['difficult'],['Hiking'],26.59km,07:00h,430hm,424 - 675m,rating-3,rating-6,130554
+['Flawil - Magdenau - Tufertschwil - Lütisburg'],['medium'],['Hiking'],12.44km,04:00h,379hm,549 - 855m,rating-2,rating-4,130827
+['Kartäuser-Fürstenland-Route'],['easy'],['Cycling'],87.53km,06:14h,629hm,386 - 695m,rating-,rating-2,207198
+['Weg des Wassers'],['medium'],['Hiking'],9.97km,02:44h,95hm,"891 - 1,407m",rating-2,rating-3,242407
+['Steiner Grenz- und Brückenwanderung'],[],['Hiking'],11.53km,03:53h,534hm,596 - 816m,rating-,rating-0,643465
+['Diepoldsau - Alter Rhein - Diepoldsau'],['medium'],['Hiking'],12.22km,03:30h,19hm,407 - 421m,rating-1,rating-3,130832
+['Thurgauer Rundwanderweg (Ermatingen – Steckborn)'],['easy'],['Hiking'],9.39km,02:30h,140hm,397 - 474m,rating-2,rating-2,130687
+['Etappe 14 Via Glaralpina - Vorab - für Grenzgänger und Gratschlängler'],['difficult'],['Hiking'],10.93km,06:00h,870hm,"2,001 - 3,025m",rating-4,rating-5,336243
+['Auf dem Thurweg'],[],['Hiking'],34.42km,09:25h,130hm,"614 - 1,437m",rating-,rating-0,613207
+['Mostindien-Tour (Weinfelden – Arbon)'],['easy'],['Cycling'],39.93km,02:45h,180hm,398 - 530m,rating-2,rating-2,130732
+['Herzroute - Etappe 13: Altstätten-Rorschach'],['medium'],['Cycling'],39.15km,03:00h,824hm,"394 - 1,110m",rating-,rating-3,207196
+['Rundwanderung Mülibachtal'],['difficult'],['Hiking'],13.15km,05:15h,"1,047hm","812 - 1,861m",rating-,rating-5,175671
+['Wil - Kirchberg - Bazenheid'],['medium'],['Hiking'],12.55km,04:00h,287hm,554 - 768m,rating-2,rating-3,130780
+['Rhein-Route (Kreuzlingen – Schaffhausen)'],['easy'],['Cycling'],48.31km,03:15h,60hm,391 - 448m,rating-2,rating-2,130573
+['Flawiler Buureweg'],['easy'],['Thematic route'],3.6km,01:01h,147hm,609 - 755m,rating-,rating-1,232749
+['ViaRhenana: von Stein am Rhein nach Steckborn'],['medium'],['Hiking'],16.87km,04:30h,400hm,394 - 591m,rating-3,rating-3,82335
+['Löffelsberg'],['medium'],['Cycling'],19.65km,03:00h,690hm,585 - 863m,rating-2,rating-3,130036
+['Pizolgipfel'],['difficult'],['Hiking'],4.64km,02:33h,626hm,"2,213 - 2,839m",rating-6,rating-6,495387
+['Weissenberge - Engi'],['medium'],['Hiking'],4.84km,01:58h,239hm,"826 - 1,497m",rating-2,rating-3,174684
+['Mostindien-Tour (3 Tage)'],['medium'],['Cycling'],77.94km,05:30h,540hm,386 - 601m,rating-3,rating-3,190737
+['Tour zum Martinsloch'],['difficult'],['Hiking'],7km,-,"1,095hm","1,507 - 2,594m",rating-3,rating-5,81926
+['Großer Ruinenweg bei Kradolf-Schönenberg'],['medium'],['Hiking'],11.95km,03:30h,268hm,451 - 562m,rating-2,rating-3,107984
+['Rundtour Palfries - Sennis'],['medium'],['Hiking'],15.6km,05:15h,611hm,"1,399 - 1,803m",rating-3,rating-4,354745
+['Spaziergang am See'],['easy'],['Hiking'],4.63km,01:00h,10hm,397 - 403m,rating-2,rating-1,340858
+['Textilweg St.Gallen West'],['easy'],['Thematic route'],7.39km,01:30h,23hm,586 - 681m,rating-,rating-2,130755
+['Vorderland Rundtour'],['difficult'],['Mountainbike'],27.9km,04:10h,970hm,"666 - 1,071m",rating-4,rating-5,1038358
+['Thurgauer Panoramaweg (Amriswil – Bischofszell)'],['medium'],['Hiking'],16.39km,04:30h,360hm,437 - 614m,rating-3,rating-4,173890
+['Via Rhenana Etappe 4'],['medium'],['Hiking'],14.29km,03:55h,49hm,353 - 409m,rating-3,rating-3,247308
+['Heidiland Bike Tour 4: Rundtour Kunkelspass'],['medium'],['Mountainbike'],61.74km,06:24h,"1,122hm","503 - 1,358m",rating-3,rating-4,131414
+['Rhein-Trail 414'],['medium'],['Running'],11.32km,01:40h,23hm,499 - 521m,rating-2,rating-3,131561
+['Gufelstock'],['difficult'],['Hiking'],16.65km,07:15h,"1,627hm","632 - 2,429m",rating-4,rating-6,175673
+['St.Martin - Weisstannen'],['difficult'],['Hiking'],14.66km,05:42h,"1,045hm","1,003 - 2,388m",rating-5,rating-5,286187
+['Kolumbansweg Schweiz - 11. Etappe St. Gallen - Rorschach'],[],['Hiking'],21.74km,05:35h,97hm,397 - 671m,rating-,rating-0,953447
+['Thurgauer Rundwanderweg (Steckborn – Mammern)'],['medium'],['Hiking'],7.98km,02:15h,160hm,402 - 508m,rating-2,rating-3,130690
+['ViaRhenana: von Stein am Rhein nach Steckborn'],['medium'],['Hiking'],16.87km,04:30h,400hm,394 - 591m,rating-3,rating-3,82335
+['Alp- und Kulturweg Schrina'],['medium'],['Thematic route'],7.75km,03:45h,565hm,"1,280 - 1,717m",rating-,rating-3,131538
+['Klettgauer Wein-Route'],['medium'],['Cycling'],14.71km,01:00h,45hm,403 - 491m,rating-3,rating-3,229130
+['Kleine Vorderland Rundtour'],['easy'],['Mountainbike'],13.73km,01:55h,442hm,"775 - 1,098m",rating-2,rating-2,1038359
+['Seen-Route Etappe 10: Buchs-Rorschach'],['easy'],['Cycling'],58.59km,04:03h,2hm,396 - 486m,rating-,rating-2,272140
+['Schleitheimer Randenturm'],['medium'],['Hiking'],11.98km,03:30h,477hm,472 - 896m,rating-2,rating-4,238944
+['Winterwanderweg Tannenboden- Seebenalp'],['medium'],['Winter hiking'],3.82km,01:30h,328hm,"1,387 - 1,656m",rating-3,rating-3,277889
+['Kulinarik-Tour Bad Ragaz - Walensee (E-Bike)'],['medium'],['Cycling'],37.56km,03:00h,238hm,423 - 716m,rating-2,rating-4,682761
+['Schwabenweg: Rapperswil-Jona - Einsiedeln'],['difficult'],['Pilgrimage'],16.83km,05:00h,656hm,407 - 947m,rating-,rating-6,156746
+['Höhenluft und Seeluft - Heiden'],['medium'],['Hiking'],8.47km,02:45h,435hm,589 - 808m,rating-,rating-3,551102
+['Kunkelspass im Welterbe Sardona'],['medium'],['Hiking'],14.7km,04:20h,424hm,"595 - 1,358m",rating-3,rating-4,270381
+['Planetenweg St.Gallen'],['easy'],['Thematic route'],6.49km,02:00h,47hm,425 - 675m,rating-,rating-2,130766
+['Calfeisental-Rundtour im Welterbe Sardona'],['difficult'],['Hiking'],19.33km,07:17h,"1,254hm","1,339 - 2,160m",rating-4,rating-5,270380
+['Geologischer Wanderweg zum Hohen Kasten'],['difficult'],['Hiking'],20.47km,07:30h,"1,350hm","924 - 1,817m",rating-3,rating-5,725959
+['St. Margrethen - Steiniger Tisch - Rheineck'],['medium'],['Hiking'],14.74km,05:00h,451hm,398 - 572m,rating-2,rating-4,130847
+['Sargans - Oberschan - Buchs'],['difficult'],['Hiking'],19.92km,06:30h,581hm,447 - 720m,rating-2,rating-5,131436
+"['Schneeschuhtour Habergschwänd - Nüenalp, Filzbach']",['medium'],['Snowshoe'],5.18km,02:30h,380hm,"1,275 - 1,589m",rating-,rating-4,995268
+['Breite Schaffhausen - Löhningen'],['medium'],['Hiking'],6.97km,02:05h,243hm,457 - 650m,rating-3,rating-4,229112
+['E-Bike Beizen-Trophy - Ziel Berghotel Furt am Pizol'],['medium'],['Cycling'],18.48km,02:20h,"1,080hm","511 - 1,520m",rating-3,rating-3,212806
+['Bischofszell & Sitterfähre'],['medium'],['Cycling'],59.85km,04:19h,466hm,398 - 560m,rating-1,rating-4,309499
+['BikerTrail RedRock'],['medium'],['Mountainbike'],5.18km,00:20h,1hm,"1,384 - 1,938m",rating-3,rating-4,316225
+['Tanzboden'],['medium'],['Ski tour'],6.87km,02:40h,799hm,"636 - 1,435m",rating-3,rating-3,279535
+['Route des Staunens Pfäfers'],['medium'],['Hiking'],10.25km,03:16h,327hm,500 - 827m,rating-2,rating-4,131523
+['Hulftegg – Allenwinden – Hultegg «Hulftegg Rundweg»'],['easy'],['Hiking'],7.63km,02:00h,175hm,"866 - 1,005m",rating-2,rating-2,1002630
+['Höhentour Altstätten - St. Anton'],['medium'],['Mountainbike'],7.9km,01:30h,679hm,"466 - 1,107m",rating-4,rating-3,129685
+['Von Weissbad auf den Fähnerenspitz'],['medium'],['Hiking'],17.07km,06:00h,850hm,"804 - 1,506m",rating-3,rating-3,795201
+['Geoweg Chrüzegg'],['medium'],['Hiking'],12.82km,04:30h,673hm,"614 - 1,265m",rating-2,rating-4,130066
+['Schlittelweg Wissboden - Chatzenschwanz - Schönenberg'],['medium'],['Sledge'],2.93km,01:05h,239hm,"867 - 1,181m",rating-,rating-3,920851
+['Reformationsweg Stadt St.Gallen'],['easy'],['Pilgrimage'],2km,00:45h,1hm,663 - 674m,rating-,rating-2,130752
+['Bodensee-Radweg Etappe 5/5'],['medium'],['Cycling'],45.85km,03:00h,257hm,392 - 505m,rating-3,rating-4,238938
+['Trübliweg'],['easy'],['Thematic route'],3.33km,01:30h,142hm,456 - 564m,rating-,rating-2,174260
+['Löffelsberg'],['medium'],['Cycling'],19.65km,03:00h,690hm,585 - 863m,rating-2,rating-3,130036
+['Sandgrueb-Trail 415'],['medium'],['Running'],4.06km,00:44h,125hm,"904 - 1,027m",rating-3,rating-3,131575
+['Thurgauer Thurweg (Frauenfeld – Andelfingen)'],['difficult'],['Hiking'],24.18km,12:45h,80hm,359 - 421m,rating-3,rating-6,318779
+['Dörferwanderung Linthal-Schwanden'],['easy'],['Hiking'],12.37km,03:00h,33hm,521 - 646m,rating-,rating-1,251372
+['Gossau - Wissbachschlucht - Flawil'],['medium'],['Hiking'],11.64km,04:00h,346hm,606 - 795m,rating-2,rating-3,130808
+['Schneeschuhtour Oberblegisee'],['medium'],['Snowshoe'],2.76km,01:00h,336hm,"1,095 - 1,432m",rating-,rating-3,939951
+['Stein - Gulmen - Stein'],['difficult'],['Hiking'],15.29km,06:00h,997hm,"836 - 1,789m",rating-2,rating-5,130798
+['Seez-Trail 443'],['medium'],['Running'],11.08km,01:37h,26hm,440 - 466m,rating-2,rating-3,131564
+['Randen Rundfahrt'],['difficult'],['Mountainbike'],44.11km,03:45h,"1,159hm",441 - 910m,rating-2,rating-5,238977
+['Appenzeller Alpenweg von Urnäsch über das Ofenloch zur Schwägalp'],['medium'],['Hiking'],17.08km,06:00h,"1,150hm","819 - 1,521m",rating-3,rating-3,733492
+['Von Heiden nach Gais'],['difficult'],['Hiking'],16.74km,05:14h,725hm,"779 - 1,240m",rating-5,rating-5,563610
+['477 Palfries-Panoramabike'],['difficult'],['Mountainbike'],42.09km,04:00h,"1,250hm","456 - 1,720m",rating-3,rating-5,71211
+['E-Bike Pfäfers - Heididorf'],['easy'],['Cycling'],32.6km,02:20h,525hm,490 - 820m,rating-2,rating-2,216671
+['Magdenau - Wolfensberg - Degersheim (Tour 18)'],['easy'],['Snowshoe'],5.89km,03:00h,299hm,733 - 895m,rating-,rating-2,130056
+['Winterland am Fuss von Kronberg und Petersalp'],['difficult'],['Snowshoe'],11.25km,04:15h,445hm,"819 - 1,211m",rating-5,rating-5,1002727
+['Ausblicke ins Appenzeller Hinterland'],['medium'],['Snowshoe'],6.7km,02:44h,345hm,"822 - 1,211m",rating-4,rating-4,603133
+"['Aufstieg zum ""schönsten Ort der Welt"", dem Aescher-Wildkirchli']",['medium'],['Hiking'],11.21km,05:30h,"1,350hm","857 - 1,924m",rating-3,rating-4,812628
+['Montlinger Schwamm'],['medium'],['Mountainbike'],19.58km,03:00h,783hm,"425 - 1,194m",rating-3,rating-3,129683
+"['MOUNTAINBIKE-TOUR ""FEIERABENDERLEBNIS""']",['easy'],['Mountainbike'],17.05km,02:00h,730hm,"486 - 1,220m",rating-1,rating-1,131400
+['Wattwil - Köbelisberg - Scherrer - Wattwil'],['medium'],['Hiking'],15.24km,05:00h,567hm,"612 - 1,166m",rating-2,rating-4,130788
+['St. Gallen - Ruine Ramschwag - Muolen'],['difficult'],['Hiking'],22.12km,06:30h,348hm,479 - 635m,rating-1,rating-5,130835
+['St. Margrethen - Steiniger Tisch - Rheineck'],['medium'],['Hiking'],14.74km,05:00h,451hm,398 - 572m,rating-2,rating-4,130847
+['Alp Ell - Krümmenswil'],['medium'],['Sledge'],3.09km,00:14h,-,"726 - 1,116m",rating-4,rating-2,279482
+['Rhein-Route: Etappe 4 Buchs (SG) - St.Margrethen'],['medium'],['Cycling'],47.77km,03:00h,80hm,401 - 464m,rating-3,rating-4,129682
+['Calfeisental-Rundtour im Welterbe Sardona'],['difficult'],['Hiking'],19.33km,07:17h,"1,254hm","1,339 - 2,160m",rating-4,rating-5,270380
+['Mettmen - Kärpfscharte'],['difficult'],['Ski tour'],7.06km,04:30h,"1,098hm","1,599 - 2,649m",rating-4,rating-5,979151
+"['Sardona-Welterbe-Weg Nr. 73, 4. Etappe']",['difficult'],['long-distance walking trail'],15.48km,07:00h,"1,672hm","1,001 - 2,419m",rating-3,rating-6,131548
+['Thurgauer Rundwanderweg'],['difficult'],['Hiking'],171.89km,45:00h,"2,190hm",396 - 822m,rating-2,rating-6,157757
+['Auf dem Thurweg'],[],['Hiking'],34.42km,09:25h,130hm,"614 - 1,437m",rating-,rating-0,613207
+['Schatzsuche: Amdo Mungg und Walis Schatz'],['easy'],['Thematic route'],3.47km,02:00h,130hm,432 - 562m,rating-2,rating-2,270369
+['Säntis  - Rotsteinpass – Altmannsattel – Zwinglipass – Mutschen – Saxer Lücke – Bollenwees – Plattenbödeli – Brüllisau'],['difficult'],['Hiking'],17.44km,06:05h,478hm,"923 - 2,460m",rating-,rating-5,713162
+['Weinweg Weinfelden'],['easy'],['Hiking'],8.25km,02:15h,110hm,428 - 540m,rating-2,rating-2,130599
+['ViaRhenana: von Stein am Rhein nach Steckborn'],['medium'],['Hiking'],16.87km,04:30h,400hm,394 - 591m,rating-3,rating-3,82335
+"['Schaffhausen – Pfäffikon ZH: «Vom Rheinfall ins Zürioberland, Etappe 1»']",['medium'],['Cycling'],70.77km,05:00h,428hm,356 - 641m,rating-2,rating-4,136908
+['Chrüzegg - Rundtour ab Wattwil'],['medium'],['Mountainbike'],26.69km,02:30h,999hm,"603 - 1,265m",rating-4,rating-4,130091
+['Ämpächli - Bischofalp'],[],['Snowshoe'],5.31km,01:30h,299hm,"1,478 - 1,770m",rating-,rating-0,1002463
+['Wanderung zwischen See und Wald'],['medium'],['Hiking'],16.5km,04:00h,110hm,396 - 502m,rating-3,rating-4,340854
+['Ahornenrundweg'],['medium'],['Hiking'],10.69km,03:48h,558hm,"983 - 1,470m",rating-,rating-3,335718
+"['Gufelstock, 2436 m']",[],['Hiking'],29.64km,13:30h,"2,230hm","519 - 2,435m",rating-,rating-0,110700
+['Thurgauer Rundwanderweg  (Mammern – Stein am Rhein)'],['easy'],['Hiking'],6.78km,02:00h,160hm,397 - 560m,rating-2,rating-2,130684
+['Unterwasser - Gräppelensee - Alt St. Johann'],['easy'],['Hiking'],7.35km,03:00h,477hm,"890 - 1,346m",rating-1,rating-2,242441
+['Herzroute Wattwil - Herisau'],['difficult'],['Cycling'],54.37km,04:07h,942hm,550 - 895m,rating-5,rating-5,202597
+['E-Bike Beizen Trophy - Ziel Berggasthaus Sennis Alp'],['medium'],['Cycling'],24.85km,03:50h,"1,072hm","426 - 1,400m",rating-3,rating-3,619523
+['Rundwanderung Schiben Weissenberge'],['medium'],['Winter hiking'],4.82km,01:30h,214hm,"1,255 - 1,404m",rating-2,rating-3,286209
+['Gluristal'],['easy'],['Ski tour'],9.33km,02:05h,648hm,"892 - 2,042m",rating-2,rating-2,948833
+['Kulturweg Buchs'],[],['Thematic route'],3.77km,00:38h,20hm,446 - 455m,rating-,rating-0,190499
+"['Nebel im Tal, Schnee auf den Bergen']",['medium'],['Winter hiking'],8.77km,02:30h,360hm,694 - 945m,rating-4,rating-4,894840
+['Bergli'],['medium'],['Cycling'],31.05km,04:00h,920hm,"642 - 1,045m",rating-3,rating-4,130040
+['Thurgauer Panoramaweg (Amriswil – Bischofszell)'],['medium'],['Hiking'],16.39km,04:30h,360hm,437 - 614m,rating-3,rating-4,173890
+"[""Alpöhi's Long Trail""]",['difficult'],['Trailrunning'],9.89km,02:15h,702hm,"1,662 - 2,243m",rating-3,rating-6,551075
+['Skitour Schilt: DER Klassiker in Glarus Nord'],['medium'],['Ski tour'],10.25km,02:50h,959hm,"1,328 - 2,287m",rating-3,rating-4,995232
+['Genuss-Tour Goldingertal'],['easy'],['Cycling'],17.83km,01:28h,314hm,585 - 835m,rating-1,rating-1,613171
+['Märzeglöggli- / Gipsstollentour'],['easy'],['Hiking'],9.35km,02:30h,164hm,453 - 593m,rating-1,rating-2,238951
+['Spielweg Rotmonten'],['easy'],['Thematic route'],4.2km,01:14h,117hm,671 - 787m,rating-1,rating-2,338388
+['Märliweg Urnäsch'],['easy'],['Thematic route'],5.31km,01:42h,248hm,"823 - 1,062m",rating-2,rating-2,556802
+['Panoramaweg Müllheim – Steckborn'],['easy'],['Hiking'],10.31km,03:00h,280hm,402 - 694m,rating-,rating-2,250443
+['Starkenbach - Selun - Sellamatt - Alt St. Johann'],['medium'],['Hiking'],14.66km,06:30h,"1,451hm","894 - 2,205m",rating-4,rating-4,130055
+['Kolumbansweg Schweiz - 9. Etappe Wattwil - Magdenau/Flawil'],[],['Hiking'],18.9km,05:45h,688hm,604 - 899m,rating-,rating-0,953445
+['Bergaufwärts'],['difficult'],['Snowshoe'],5.18km,02:21h,430hm,"1,304 - 1,645m",rating-5,rating-5,603138
+['E-Bike Beizen-Trophy - Ziel Bergrestaurant Eggwald'],['medium'],['Cycling'],41.78km,02:50h,850hm,"515 - 1,133m",rating-1,rating-3,212753
+['Neckiweg Abschnitt Mogelsberg - Dicken'],['medium'],['Thematic route'],9.84km,03:30h,512hm,"721 - 1,171m",rating-1,rating-3,907676
+['Naturparadies Seebachtal'],['easy'],['Hiking'],12.69km,03:15h,70hm,434 - 501m,rating-2,rating-2,408837
+['Heidipfad - Alp Schwarzbüel'],['easy'],['Thematic route'],4.04km,02:30h,121hm,"1,621 - 1,742m",rating-2,rating-0,131478
+['Velotour mit Biergenuss'],['easy'],['Cycling'],36.21km,06:00h,210hm,397 - 515m,rating-2,rating-2,795279
+['Appenzeller Whiskytrek'],[],['Hiking'],25.29km,12:35h,"2,733hm","868 - 2,485m",rating-,rating-0,67411
+['Thurgauer Rundwanderweg  (Mammern – Stein am Rhein)'],['easy'],['Hiking'],6.78km,02:00h,160hm,397 - 560m,rating-2,rating-2,130684
+['Thurgauer Rundwanderweg (Neukirch – Arbon)'],['easy'],['Hiking'],7.15km,01:45h,10hm,398 - 462m,rating-2,rating-2,130714
+['Unterwasser - Gräppelensee - Windenpass -Schwägalp'],['difficult'],['Hiking'],12.45km,04:45h,"1,067hm","905 - 1,630m",rating-3,rating-5,130052
+['Kolumbansweg Schweiz - 16b. Etappe Sargans - Chur'],[],['Hiking'],34.13km,08:35h,210hm,480 - 598m,rating-,rating-0,1002439
+['SNOOC - Schlittelweg Prodalp-Tannenheim'],['easy'],['Sledge'],2.22km,00:05h,-,"1,221 - 1,574m",rating-2,rating-2,978204
+['Kulinarik-Wanderung Geniesser Route Flumserberg'],['easy'],['Hiking'],6.34km,02:00h,240hm,"1,381 - 1,630m",rating-1,rating-2,304861
+['Zeitige Frühjahreswanderung am Walenseeufer'],['medium'],['Hiking'],11.74km,03:40h,359hm,421 - 713m,rating-2,rating-3,1038377
+['Zelgli'],['easy'],['Hiking'],10.74km,03:00h,342hm,586 - 876m,rating-2,rating-2,110875
+['Urnäsch entdecken'],['easy'],['Winter hiking'],6.6km,01:43h,63hm,822 - 881m,rating-2,rating-2,595623
+['Von Heiden auf den Kaienspitz'],['medium'],['Hiking'],9.07km,03:00h,454hm,"778 - 1,122m",rating-4,rating-4,894820
+['Weesen - Quinten: Wandern zwischen See und Berg'],['medium'],['Hiking'],10.66km,03:26h,414hm,419 - 720m,rating-4,rating-4,258552
+['Hinter Höhi - Winterwanderung'],['medium'],['Winter hiking'],1.81km,00:34h,126hm,"1,292 - 1,418m",rating-3,rating-3,269628
+['Iltios - Ruggschopf - Chäserrugg'],['medium'],['Hiking'],5.42km,03:00h,913hm,"1,347 - 2,260m",rating-2,rating-3,244022
+['Alp Fursch Bike Nr. 478'],['difficult'],['Mountainbike'],36.1km,04:15h,"1,447hm","436 - 1,840m",rating-4,rating-5,131482
+['Murgseen-Rundwanderung'],['medium'],['Hiking'],14.54km,05:30h,864hm,"1,121 - 1,985m",rating-3,rating-4,129160
+['Pizol-Challenge Nr. 474'],['easy'],['Mountainbike'],21.07km,03:35h,"1,127hm","500 - 1,627m",rating-2,rating-2,131532
+['Kulturweg St.Peterzell'],['medium'],['Thematic route'],6.1km,02:00h,184hm,669 - 820m,rating-1,rating-3,907672
+['Hirzli-Planggenstock-Rundwanderung'],['medium'],['Hiking'],10.99km,05:07h,759hm,"983 - 1,675m",rating-3,rating-4,1017146
+['Walk to Urnerboden'],['medium'],['Hiking'],13.6km,04:00h,385hm,"1,215 - 1,482m",rating-2,rating-3,219497
+['St. Gallen Neudorf - Solitüde - St.Gallen Haggen'],['medium'],['Hiking'],10.17km,03:30h,413hm,660 - 873m,rating-1,rating-3,130836
+['Gämspfad (Mettmen)'],[],['Snowshoe'],2.12km,01:00h,91hm,"1,560 - 1,625m",rating-,rating-0,943083
+['Pfarrer Künzle Weg Wangs'],['medium'],['Thematic route'],6.03km,01:47h,167hm,484 - 641m,rating-1,rating-3,131372
+['Zuzwil - Zuckenriet - Oberbüren'],['medium'],['Hiking'],12.2km,03:45h,302hm,488 - 622m,rating-2,rating-3,130781
+['Alp Babental - Juliomagustour'],['medium'],['Hiking'],11.36km,03:00h,228hm,467 - 633m,rating-1,rating-3,238946
+['Rhein-Route (Kreuzlingen – Schaffhausen)'],['easy'],['Cycling'],48.31km,03:15h,60hm,391 - 448m,rating-2,rating-2,130573
+['Alp Mädems Bike'],['medium'],['Mountainbike'],29.67km,04:40h,"1,340hm","445 - 1,785m",rating-4,rating-4,131574
+['Herbstlaub und Sitzbänkli mit Fernsicht'],['medium'],['Hiking'],12.64km,03:40h,570hm,"755 - 1,084m",rating-4,rating-4,894831
+['Winterwanderweg Pardiel - Laufböden am Pizol'],['easy'],['Winter hiking'],3.32km,01:45h,598hm,"1,627 - 2,224m",rating-2,rating-2,935554
+['Spielweg Berneggwald'],['easy'],['Thematic route'],3.42km,01:04h,161hm,667 - 796m,rating-,rating-2,338391
+['Walensee Bike Nr. 476'],['medium'],['Mountainbike'],26.39km,03:30h,809hm,"422 - 1,039m",rating-3,rating-3,131398
+['DreiWelten Radweg / Rheinfall-Runde'],['easy'],['Cycling'],43.55km,11:02h,271hm,390 - 494m,rating-,rating-2,72190
+"[""Alpöhi's Short Trail""]",['easy'],['Trailrunning'],2.84km,00:35h,145hm,"2,183 - 2,274m",rating-1,rating-2,551071
+['Bischofszell & Sitterfähre'],['medium'],['Cycling'],59.85km,04:19h,466hm,398 - 560m,rating-1,rating-4,309499
+['Kolumbansweg Schweiz - 8a. Etappe Rapperswil - Wattwil'],[],['Hiking'],26.21km,07:25h,766hm,408 - 989m,rating-,rating-0,953444
+['Weg des Wassers'],['medium'],['Hiking'],9.97km,02:44h,95hm,"891 - 1,407m",rating-2,rating-3,242407
+['Steinzeitpfad - Grosse Runde'],['medium'],['Thematic route'],15.49km,04:00h,103hm,421 - 500m,rating-2,rating-3,447791
+['Valens - Pizolhütte'],['difficult'],['Hiking'],21.33km,07:51h,"1,403hm","859 - 2,243m",rating-4,rating-5,286208
+['Wunderland Seerücken'],['medium'],['Hiking'],50.32km,13:30h,550hm,394 - 718m,rating-3,rating-4,215078
+['Themenweg Moor'],['easy'],['Thematic route'],2.1km,00:37h,49hm,"1,278 - 1,320m",rating-,rating-2,593365
+['Seeblick Bänkliweg'],['medium'],['Hiking'],6.98km,02:20h,319hm,459 - 725m,rating-,rating-4,834947
+['St. Gallen - Wittenbach - Winden'],['easy'],['Hiking'],9.84km,03:00h,168hm,512 - 782m,rating-1,rating-2,130840
+['Etappe 15 Via Glaralpina - Munter rauf und runter - nur umgekehrt und bunter'],['difficult'],['Hiking'],17.96km,08:30h,"1,380hm","1,041 - 2,231m",rating-4,rating-5,336251
+['Mittelthurgauer Schlossweg'],['medium'],['Hiking'],34.18km,09:00h,440hm,429 - 677m,rating-3,rating-4,157760
+['Von Turm zu Turm über den Randen'],['difficult'],['Hiking'],22.45km,06:30h,600hm,441 - 890m,rating-3,rating-5,165242
+['Reiatweg'],['medium'],['Hiking'],18.82km,05:20h,447hm,444 - 685m,rating-3,rating-4,171425
+['Seerenbachfälle und Rinquelle'],['easy'],['Hiking'],4.41km,01:30h,142hm,419 - 564m,rating-2,rating-1,131447
+['Nordspitze Panoramaweg'],['medium'],['Hiking'],13.69km,03:55h,376hm,603 - 893m,rating-3,rating-4,171426
+"['Von Kriegern, Molchen und Flachmooren']",['medium'],['Hiking'],10.11km,03:10h,372hm,"804 - 1,059m",rating-,rating-4,1040645
+['Wolzen'],['medium'],['Mountainbike'],24.46km,03:00h,710hm,"711 - 1,122m",rating-3,rating-3,130038
+['Raiffeisen Wasserweg Goldach'],['easy'],['Hiking'],6.94km,01:45h,15hm,398 - 605m,rating-1,rating-1,130756
+['Tscherlach-Trail 452'],['easy'],['Running'],8.55km,01:00h,139hm,425 - 533m,rating-,rating-2,131511
+['DenkWeg Glarus Nord'],['easy'],['Thematic route'],4.76km,01:29h,119hm,633 - 739m,rating-1,rating-1,264873
+['Hulftegg Rundweg'],['easy'],['Winter hiking'],8.2km,02:25h,243hm,"804 - 1,005m",rating-,rating-2,1002526
+['Glarina'],['easy'],['Hiking'],6.78km,01:59h,185hm,766 - 951m,rating-1,rating-1,286210
+"[""Alpöhi's Long Trail""]",['difficult'],['Trailrunning'],9.89km,02:15h,702hm,"1,662 - 2,243m",rating-3,rating-6,551075
+['Weisswandweg Filzbach'],['easy'],['Hiking'],2.36km,00:45h,89hm,633 - 722m,rating-,rating-2,798114
+['Etappe 15 Via Glaralpina - Munter rauf und runter - nur umgekehrt und bunter'],['difficult'],['Hiking'],17.96km,08:30h,"1,380hm","1,041 - 2,231m",rating-4,rating-5,336251
+['Herzroute Wattwil - Herisau'],['difficult'],['Cycling'],54.37km,04:07h,942hm,550 - 895m,rating-5,rating-5,202597
+['Rundtour zur Hundwiler Höhe'],['medium'],['Hiking'],8.82km,03:06h,550hm,"801 - 1,284m",rating-2,rating-3,78599
+['Bernhalden - Risipass - Stockberg - Nesslau'],['medium'],['Hiking'],11.43km,04:30h,761hm,"759 - 1,781m",rating-3,rating-4,130049
+['Route Gumen – Braunwald'],['medium'],['Hiking'],7.29km,02:21h,50hm,"1,257 - 1,903m",rating-3,rating-3,63720
+['Zanuzwald'],['medium'],['Hiking'],7.72km,03:23h,761hm,"903 - 1,664m",rating-3,rating-4,307033
+['Maschgenkamm - Panüöl'],['medium'],['Winter hiking'],1.95km,00:45h,30hm,"1,804 - 2,018m",rating-3,rating-4,279721
+['Kulinarische Wanderung «Von Gang zu Gang»'],['medium'],['Hiking'],17.93km,05:34h,616hm,399 - 957m,rating-,rating-3,322390
+['Vilters - Wildboden - Valens - Bad Ragaz'],['difficult'],['Hiking'],15.66km,05:00h,654hm,492 - 984m,rating-2,rating-5,131453
+['Ölberg Bike'],['difficult'],['Mountainbike'],33.78km,03:00h,"1,109hm","509 - 1,428m",rating-5,rating-5,130042
+['Kulturpfad Münsterlingen'],['easy'],['Thematic route'],7.84km,02:02h,104hm,398 - 490m,rating-2,rating-2,292875
+['Ausblicke ins Appenzeller Hinterland'],['medium'],['Snowshoe'],6.7km,02:44h,345hm,"822 - 1,211m",rating-4,rating-4,603133
+['Panoramatour Braunwald - Grosstal'],['medium'],['Cycling'],45.33km,05:11h,"1,506hm","526 - 1,590m",rating-3,rating-4,494772
+"['Hirzli, 1641 m']",[],['Hiking'],17.06km,06:00h,"1,237hm","417 - 1,632m",rating-,rating-0,297000
+['Arbon - Rorschach - Rheineck'],['medium'],['Hiking'],16.37km,05:00h,227hm,396 - 557m,rating-2,rating-4,130810
+['Stoss'],['medium'],['Mountainbike'],13.44km,01:30h,553hm,461 - 967m,rating-3,rating-2,129686
+['Via GeoAlpina Tektonikarena Sardona (Etappe 1: Weisstannen - Elm)'],['medium'],['long-distance walking trail'],22.32km,07:49h,"1,262hm","974 - 2,223m",rating-3,rating-4,504692
+['Hinter Höhi - Winterwanderung'],['medium'],['Winter hiking'],1.81km,00:34h,126hm,"1,292 - 1,418m",rating-3,rating-3,269628
+['Appenzeller Whiskytrek'],[],['Hiking'],25.29km,12:35h,"2,733hm","868 - 2,485m",rating-,rating-0,67411
+"[""Heidi's Short Trail""]",['easy'],['Trailrunning'],4.26km,00:50h,272hm,"1,619 - 1,850m",rating-1,rating-2,551076
+['Route des Staunens Taminaschlucht'],['medium'],['Hiking'],10.97km,02:58h,190hm,500 - 687m,rating-2,rating-4,131496
+['BikerTrail BlueSalamander'],['easy'],['Mountainbike'],3.34km,00:12h,-,"1,221 - 1,575m",rating-2,rating-2,316223
+['Säntis Panoramablick'],['medium'],['Winter hiking'],4.8km,01:20h,114hm,822 - 935m,rating-3,rating-4,559474
+['Aewil'],['easy'],['Cycling'],17.57km,02:00h,363hm,565 - 844m,rating-2,rating-2,130031
+['Leglerhütte SAC zur Skihütte Obererbs'],['medium'],['Hiking'],9.6km,03:40h,390hm,"1,702 - 2,491m",rating-,rating-4,174751
+['Salaz - Zweierspitz - Maton'],['difficult'],['Hiking'],13.93km,04:43h,785hm,"1,188 - 1,857m",rating-2,rating-5,286189
+['Libingen - Chrüzegg - Libingen'],['medium'],['Hiking'],10.24km,04:30h,639hm,"719 - 1,265m",rating-2,rating-4,130769
+['Appenzeller Alpenweg von Urnäsch über das Ofenloch zur Schwägalp'],['medium'],['Hiking'],17.08km,06:00h,"1,150hm","819 - 1,521m",rating-3,rating-3,733492
+['Thurgauer Thurweg'],['difficult'],['Hiking'],66.81km,16:30h,80hm,359 - 506m,rating-3,rating-6,318776
+['Winterwanderweg Pardiel - Laufböden am Pizol'],['easy'],['Winter hiking'],3.32km,01:45h,598hm,"1,627 - 2,224m",rating-2,rating-2,935554
+['Heidiland Wander Tour 6: Pizol - Bad Ragaz'],['medium'],['Hiking'],12.25km,03:37h,61hm,"502 - 1,506m",rating-2,rating-3,131410
+['Zur Osteregg'],['medium'],['Hiking'],8.08km,02:46h,436hm,"820 - 1,211m",rating-3,rating-3,563611
+['Textilland Explorer Tour Süd'],[],['Hiking'],86.5km,01:30h,"1,383hm","498 - 1,057m",rating-,rating-0,946912
+['Toggenburger Höhenweg (Etappe 6)'],['difficult'],['Hiking'],19.58km,05:45h,501hm,554 - 964m,rating-1,rating-5,130828
+['Winkelzahn-Trail 463'],['easy'],['Running'],4.87km,01:00h,230hm,"1,392 - 1,629m",rating-,rating-2,131595
+['Frümsel'],['difficult'],['Hiking'],6.3km,03:25h,925hm,"1,388 - 2,261m",rating-5,rating-6,242416
+['Von Vättis zur Walsersiedlung St.Martin'],['medium'],['Hiking'],8.06km,02:35h,447hm,"944 - 1,351m",rating-2,rating-3,286188
+['Höhenwanderung Rietstöckli'],['medium'],['Hiking'],14.63km,05:00h,399hm,"1,215 - 1,912m",rating-3,rating-0,251424
+['Wattwil -  Regulastein -  Wattwil: «Chrüzegg II»'],['difficult'],['Mountainbike'],43.23km,06:00h,"1,514hm","611 - 1,313m",rating-5,rating-6,136865
+['Rüthi - Kastensattel - Hoher Kasten'],['difficult'],['Hiking'],9.58km,05:30h,"1,417hm","431 - 1,791m",rating-2,rating-5,130830
+['Rundwanderung Chüebodensee'],['medium'],['Hiking'],8.08km,04:00h,660hm,"1,468 - 2,116m",rating-,rating-4,174757
+['Walensee'],['difficult'],['Hiking'],24.09km,05:00h,431hm,419 - 706m,rating-2,rating-5,131477
+['Kerenzerberg Bike'],['medium'],['Mountainbike'],20.47km,02:50h,922hm,"457 - 1,303m",rating-,rating-3,787146
+['Flawil - Magdenau - Tufertschwil - Lütisburg'],['medium'],['Hiking'],12.44km,04:00h,379hm,549 - 855m,rating-2,rating-4,130827
+['Albert Böni-Opawsky-Weg: Tiefgründige Blicke inklusive'],['easy'],['Hiking'],3.56km,01:15h,232hm,"822 - 1,020m",rating-1,rating-2,203866
+['2-Dörfer-Trail 442'],['medium'],['Running'],7.62km,01:08h,27hm,431 - 454m,rating-2,rating-3,131592
+['Thurgauer Rundwanderweg (Nussbaumen – Kartause Ittingen)'],['easy'],['Hiking'],11.14km,02:45h,90hm,415 - 521m,rating-2,rating-2,130692
+['Westlicher Untersee - Steckborn - Stein am Rhein'],['easy'],['Cycling'],29.53km,02:06h,79hm,394 - 440m,rating-,rating-2,124337
+['Themenweg Moor'],['easy'],['Thematic route'],2.1km,00:37h,49hm,"1,278 - 1,320m",rating-,rating-2,593365
+['Panixerpass'],['difficult'],['Hiking'],22.59km,08:10h,"1,540hm","960 - 2,404m",rating-3,rating-5,179284
+['Wildhaus - Gamserrugg - Voralp'],['difficult'],['Hiking'],13.78km,06:00h,"1,071hm","1,016 - 1,946m",rating-3,rating-5,130793
+['Mühlrüti - Schnebelhorn - Meiersalp - Libingen'],['medium'],['Hiking'],11.65km,04:00h,367hm,"747 - 1,292m",rating-2,rating-3,130767
+"[""Peter's Medium Trail""]",['medium'],['Trailrunning'],11.51km,02:36h,861hm,"1,452 - 2,012m",rating-3,rating-3,551082
+['Thurgauer Velo-Genuss'],['easy'],['Cycling'],32.68km,02:15h,100hm,398 - 498m,rating-2,rating-2,315066
+['Der mit dem Seeblick'],['medium'],['Hiking'],5.45km,01:42h,180hm,"792 - 1,121m",rating-3,rating-3,563605
+['Rapperswil - Wattwil: «Herzroute»'],['difficult'],['Cycling'],56.12km,04:30h,951hm,407 - 937m,rating-2,rating-5,136884
+['Jental - Rietbach (Tour 14)'],['medium'],['Snowshoe'],12.73km,05:00h,765hm,"746 - 1,420m",rating-,rating-4,130060
+['Toggenburger Höhenweg (2. Etappe)'],['difficult'],['Hiking'],15.07km,06:25h,824hm,"1,365 - 1,827m",rating-4,rating-5,321345
+['Egg - Schneeschuhtour'],['medium'],['Snowshoe'],4.25km,01:48h,253hm,"1,237 - 1,470m",rating-2,rating-4,269624
+['WasserWeltenSteig 6. Etappe: Siblinger Randenhaus - Neuhausen am Rheinfall'],['medium'],['Hiking'],14.63km,03:54h,171hm,378 - 844m,rating-2,rating-3,340210
+['Spielweg Guggeien'],['easy'],['Thematic route'],4.55km,01:11h,27hm,651 - 679m,rating-,rating-2,338386
+['Barfuss- und Panoramaweg Nollen'],['easy'],['Thematic route'],6.99km,02:00h,175hm,597 - 734m,rating-1,rating-2,130515
+['Wattwil - Köbelisberg - Scherrer - Wattwil'],['medium'],['Hiking'],15.24km,05:00h,567hm,"612 - 1,166m",rating-2,rating-4,130788
+['Pizol Panorama Höhenweg'],['easy'],['Hiking'],3.99km,01:00h,90hm,"2,199 - 2,274m",rating-1,rating-2,131581
+['Route des Staunens Pizol Gaffia'],['difficult'],['Hiking'],9.42km,04:00h,691hm,"1,856 - 2,454m",rating-2,rating-5,131520
+['Speer – König der Voralpen'],['medium'],['Hiking'],15.3km,05:05h,703hm,"907 - 1,942m",rating-4,rating-4,255944
+['Herzroute - Etappe 13: Altstätten-Rorschach'],['medium'],['Cycling'],39.15km,03:00h,824hm,"394 - 1,110m",rating-,rating-3,207196
+"['Sardona-Welterbe-Weg Nr. 73, 5. Etappe']",['difficult'],['long-distance walking trail'],19.62km,07:00h,787hm,"960 - 2,419m",rating-3,rating-6,131549
+['E-Bike Heidialp - Regitzerspitze'],['medium'],['Cycling'],31.86km,03:20h,"1,160hm","498 - 1,123m",rating-3,rating-4,216669
+"[""Heidi's Long Trail""]",['medium'],['Trailrunning'],12.24km,03:00h,839hm,"1,602 - 2,224m",rating-3,rating-3,551074
+['Rundwanderung Firstboden (Expedition Tschinglen)'],['medium'],['Thematic route'],6.43km,02:35h,317hm,"1,041 - 1,748m",rating-,rating-4,174758
+['Altschen - Schneeschuhtour'],['medium'],['Snowshoe'],5.1km,01:47h,161hm,"1,255 - 1,407m",rating-2,rating-4,269621
+['Rundwanderung Hemishofen (via Burg Hohenklingen)'],['medium'],['Hiking'],14.58km,04:45h,463hm,415 - 613m,rating-3,rating-4,238934
+['Murgsee-Geniessertour'],['medium'],['Hiking'],9.83km,03:30h,575hm,"1,250 - 1,825m",rating-2,rating-3,131587
+['Lauras Lieblingsplätze entdecken'],['medium'],['Hiking'],9.95km,03:09h,440hm,"917 - 1,231m",rating-2,rating-3,78005
+['Märzeglöggli- / Gipsstollentour'],['easy'],['Hiking'],9.35km,02:30h,164hm,453 - 593m,rating-1,rating-2,238951
+"['MOUNTAINBIKE-TOUR ""ALP GAMIDAUR BIKE"" Nr. 471']",['medium'],['Mountainbike'],35.39km,05:00h,"1,314hm","486 - 1,683m",rating-2,rating-3,131430
+['Pizol - Batöni - Weisstannen'],['difficult'],['Hiking'],11.71km,04:30h,368hm,"1,002 - 2,588m",rating-,rating-5,665018
+['Pizalun-Rundtour'],['easy'],['Hiking'],7.18km,02:15h,277hm,"1,191 - 1,468m",rating-2,rating-2,131582
+['Sandgrueb-Trail 415'],['medium'],['Running'],4.06km,00:44h,125hm,"904 - 1,027m",rating-3,rating-3,131575
+['Familienroute (Altstätten-Arbon)'],['easy'],['Cycling'],45.72km,03:05h,2hm,396 - 430m,rating-,rating-1,232768
+['Kneippweg Hemberg'],['easy'],['Thematic route'],2.69km,01:00h,68hm,"947 - 1,014m",rating-,rating-2,907664
+['Etappe 14 Via Glaralpina - Vorab - für Grenzgänger und Gratschlängler'],['difficult'],['Hiking'],10.93km,06:00h,870hm,"2,001 - 3,025m",rating-4,rating-5,336243
+['Train to Sargans and walk to Weisstannen'],['medium'],['Hiking'],12.65km,04:00h,641hm,"479 - 1,046m",rating-2,rating-3,219443
+['Sargans - Oberschan - Buchs'],['difficult'],['Hiking'],19.92km,06:30h,581hm,447 - 720m,rating-2,rating-5,131436
+['Heidiland Wander Tour 1: Weesen - Amden'],['medium'],['Hiking'],13.37km,05:19h,"1,289hm","421 - 1,652m",rating-4,rating-4,131471
+['Winterwanderweg Fürggli - Golerberg'],['medium'],['Winter hiking'],5.38km,01:30h,151hm,"1,334 - 1,485m",rating-1,rating-3,972290
+['Wunderland Seerücken (Gottlieben – Altnau)'],['medium'],['Hiking'],21.69km,05:30h,180hm,394 - 572m,rating-2,rating-4,215080
+['Tannenboden-Prodalp'],['easy'],['Winter hiking'],3.09km,01:30h,256hm,"1,348 - 1,576m",rating-2,rating-2,279728
+['Kunkelspass im Welterbe Sardona'],['medium'],['Hiking'],14.7km,04:20h,424hm,"595 - 1,358m",rating-3,rating-4,270381
+['Neckiweg Abschnitt Hemberg-Brunnadern'],['easy'],['Thematic route'],10.4km,03:30h,182hm,647 - 947m,rating-1,rating-2,907681
+['Silberen (2319 m.ü.M.)'],['medium'],['Ski tour'],14.59km,04:00h,"1,180hm","1,129 - 2,318m",rating-3,rating-2,503824
+['Gams - Sommerigweid - Wildhaus'],['medium'],['Hiking'],11.33km,05:00h,852hm,"476 - 1,310m",rating-2,rating-4,130834
+['Schwabenweg: Tobel - Fischingen'],['medium'],['Pilgrimage'],16.32km,04:21h,271hm,501 - 676m,rating-1,rating-3,156767
+['Natur- und Kulturperlen am Untersee'],['medium'],['Cycling'],86.56km,04:30h,440hm,394 - 622m,rating-3,rating-4,315024
+['Toggenburger Höhenweg (Etappe 2)'],['difficult'],['Hiking'],16.04km,05:45h,784hm,"1,362 - 1,826m",rating-3,rating-5,130854
+"['Wiesen, Waldwege und Feldhase']",['medium'],['Hiking'],9.04km,02:57h,433hm,"784 - 1,126m",rating-2,rating-3,551093
+['Von der Schwägalp auf den Kronberg'],['medium'],['Snowshoe'],5.16km,02:30h,460hm,"1,352 - 1,663m",rating-3,rating-3,11659
+['Hermann-Knecht-Kunstroute Stein am Rhein'],['easy'],['Thematic route'],5.14km,01:30h,95hm,394 - 472m,rating-,rating-1,67705
+['Glarina'],['easy'],['Hiking'],6.78km,01:59h,185hm,766 - 951m,rating-1,rating-1,286210
+['Brunnadern - St. Peterzell - Brunnadern'],['medium'],['Hiking'],12.16km,04:30h,450hm,647 - 918m,rating-2,rating-4,130791
+['5-Seen-Wanderung Pizol'],['medium'],['Hiking'],9.96km,04:30h,534hm,"1,858 - 2,507m",rating-3,rating-4,147768
+['Via Francisca: St. Gallen - Rüthi SG'],['difficult'],['Pilgrimage'],34.29km,10:26h,"1,129hm","424 - 1,089m",rating-,rating-6,156885
+['Schwabenweg: Konstanz - Märstetten'],['easy'],['Pilgrimage'],13.66km,03:36h,196hm,403 - 551m,rating-,rating-1,156765
+['Alp Fursch Bike Nr. 478'],['difficult'],['Mountainbike'],36.1km,04:15h,"1,447hm","436 - 1,840m",rating-4,rating-5,131482
+['Walensee Bike Nr. 476'],['medium'],['Mountainbike'],26.39km,03:30h,809hm,"422 - 1,039m",rating-3,rating-3,131398
+['Gufelstock'],['difficult'],['Hiking'],16.65km,07:15h,"1,627hm","632 - 2,429m",rating-4,rating-6,175673
+['Panoramaweg Lustdorf – Lustdorf'],['easy'],['Hiking'],13.34km,03:45h,300hm,515 - 696m,rating-2,rating-2,250442
+['Alfred Huggenberger und Bernhard Greuter'],['easy'],['Hiking'],10.69km,02:30h,180hm,404 - 560m,rating-2,rating-2,248599
+['Vättis - Vättnerberg - Ladils - Vättis'],['difficult'],['Hiking'],11.98km,04:49h,"1,081hm","943 - 1,896m",rating-4,rating-5,131445
+['Schwägalp Rundtour'],['difficult'],['Mountainbike'],45.53km,05:55h,"1,204hm","776 - 1,399m",rating-4,rating-6,1038360
+['Tour de Thurgau'],['difficult'],['Cycling'],153.7km,10:58h,965hm,386 - 625m,rating-,rating-5,198034
+['Libingen - Chrüzegg - Libingen'],['medium'],['Hiking'],10.24km,04:30h,639hm,"719 - 1,265m",rating-2,rating-4,130769
+['Bluescht-Velotour Thurgau'],['easy'],['Cycling'],35.74km,02:30h,200hm,397 - 594m,rating-2,rating-2,172643
+['Hemberg - St. Peterzell - Wilkethöchi - Degersheim'],['medium'],['Hiking'],14.26km,05:00h,772hm,"685 - 1,170m",rating-2,rating-4,130790
+['Hochrhein von Stein am Rhein - Rheinfall'],['easy'],['Cycling'],51.02km,07:04h,461hm,359 - 447m,rating-,rating-2,124369
+['Höhentour Altstätten - St. Anton'],['medium'],['Mountainbike'],7.9km,01:30h,679hm,"466 - 1,107m",rating-4,rating-3,129685
+['Toggenburger Höhenweg (Etappe 2)'],['difficult'],['Hiking'],16.04km,05:45h,784hm,"1,362 - 1,826m",rating-3,rating-5,130854
+['Torloch mit Variante Ochsenhütte'],['medium'],['Mountainbike'],30.87km,04:15h,"1,068hm","905 - 1,784m",rating-3,rating-4,514912
+['Mürtschenfurggel - Fronalp'],['medium'],['Hiking'],19.15km,04:56h,790hm,"1,091 - 1,864m",rating-4,rating-4,870413
+['Heidiland Bike Tour 1: Rundtour Weesen - Amden'],['medium'],['Mountainbike'],22.84km,03:43h,"1,071hm","422 - 1,324m",rating-3,rating-4,131408
+['Tanzboden Route 5'],['medium'],['Snowshoe'],11.49km,06:00h,817hm,"630 - 1,435m",rating-,rating-4,130057
+['Von der Alp auf den Gipfel'],['difficult'],['Hiking'],11.72km,06:30h,"1,660hm","1,143 - 2,485m",rating-6,rating-6,864947
+['Fischingen – Allenwinden – Fischingen: «Thurgauer Tannzapfenweg»'],['medium'],['Hiking'],11.61km,03:40h,432hm,614 - 995m,rating-2,rating-3,777836
+['Ostschweizer Wein-Route (Schaffhausen - Weinfelden)'],['medium'],['Cycling'],51.87km,04:30h,280hm,370 - 500m,rating-2,rating-3,130570
+['Chapfensee Rundtour'],['easy'],['Hiking'],4.29km,01:20h,135hm,"1,017 - 1,128m",rating-2,rating-2,131590
+['Speer – König der Voralpen'],['medium'],['Hiking'],15.3km,05:05h,703hm,"907 - 1,942m",rating-4,rating-4,255944
+['Beeriweg'],['easy'],['Hiking'],24.79km,05:45h,190hm,390 - 560m,rating-,rating-2,869515
+['Kerenzerberg Rundwanderung'],['medium'],['Hiking'],12.71km,04:10h,442hm,420 - 758m,rating-,rating-4,812721
+['Drachenloch'],['difficult'],['Hiking'],9.35km,04:47h,"1,477hm","943 - 2,420m",rating-4,rating-5,286193
+['Seerücken-Route (Siegershausen – Arbon)'],['easy'],['Cycling'],30.73km,02:00h,70hm,398 - 571m,rating-2,rating-2,130518
+['Rheintaler Höhenweg'],['medium'],['Hiking'],126.07km,38:16h,"4,177hm","398 - 1,642m",rating-,rating-4,205113
+['Winterwanderweg Tannenboden- Seebenalp'],['medium'],['Winter hiking'],3.82km,01:30h,328hm,"1,387 - 1,656m",rating-3,rating-3,277889
+['Grabser Voralp - Margelchopf - Grabser Voralp'],['difficult'],['Hiking'],9.43km,05:30h,"1,120hm","1,140 - 2,163m",rating-3,rating-5,130837
+['Wunderland Seerücken (Klingenzell – Wäldi)'],['medium'],['Hiking'],22.07km,05:45h,330hm,536 - 718m,rating-3,rating-4,215077
+['Mit Schiff und Bergbahn zum Witzwanderweg'],['easy'],['Hiking'],8.05km,02:30h,236hm,671 - 803m,rating-2,rating-2,130763
+['E-Bike Gigerwald - St. Martin'],['medium'],['Cycling'],48.64km,03:20h,"1,060hm","515 - 1,350m",rating-3,rating-4,216673
+['Bernhalden - Tierwis - Schwägalp'],['difficult'],['Hiking'],11.75km,05:30h,"1,232hm","1,025 - 2,125m",rating-4,rating-6,130801
+['Thurgauer Rundwanderweg'],['difficult'],['Hiking'],171.89km,45:00h,"2,190hm",396 - 822m,rating-2,rating-6,157757
+['Zelgli'],['easy'],['Hiking'],10.74km,03:00h,342hm,586 - 876m,rating-2,rating-2,110875
+['Tour Napoléon'],['medium'],['Hiking'],14.05km,03:45h,220hm,397 - 618m,rating-2,rating-3,171155
+['Wil - Zuzwil - Bischofszell'],['difficult'],['Hiking'],22.18km,06:30h,412hm,462 - 696m,rating-2,rating-5,130777
+['Randen Rundfahrt'],['difficult'],['Mountainbike'],44.11km,03:45h,"1,159hm",441 - 910m,rating-2,rating-5,238977
+['Talalpsee'],['medium'],['Mountainbike'],22.61km,03:00h,839hm,"704 - 1,304m",rating-1,rating-3,894767
+['Walk to Urnerboden'],['medium'],['Hiking'],13.6km,04:00h,385hm,"1,215 - 1,482m",rating-2,rating-3,219497
+['Seen-Route Etappe 10: Buchs-Rorschach'],['easy'],['Cycling'],58.59km,04:03h,2hm,396 - 486m,rating-,rating-2,272140
+['Steiner Grenz- und Brückenwanderung'],[],['Hiking'],11.53km,03:53h,534hm,596 - 816m,rating-,rating-0,643465
+['Neckertal'],[],['Hiking'],15.64km,05:13h,654hm,"610 - 1,171m",rating-,rating-0,602757
+['Degersheim - Dicken (Tour 19)'],['easy'],['Snowshoe'],5.59km,04:00h,324hm,"798 - 1,077m",rating-,rating-2,130059
+['Panoramaweg Müllheim – Steckborn'],['easy'],['Hiking'],10.31km,03:00h,280hm,402 - 694m,rating-,rating-2,250443
+['Oberschan - Alvier - Oberschan'],['difficult'],['Hiking'],20.09km,08:11h,"1,753hm","668 - 2,342m",rating-4,rating-6,131446
+['Speer – König der Voralpen'],['medium'],['Hiking'],15.3km,05:05h,703hm,"907 - 1,942m",rating-4,rating-4,255944
+"[""Alpöhi's Short Trail""]",['easy'],['Trailrunning'],2.84km,00:35h,145hm,"2,183 - 2,274m",rating-1,rating-2,551071
+['Radtour zu den UNESCO-Welterbestätten am Bodensee'],['medium'],['Cycling'],84.53km,05:46h,98hm,392 - 685m,rating-,rating-3,292034
+['Churfirsten Panoramabike Nr. 479'],['difficult'],['Mountainbike'],28.35km,05:30h,"1,244hm","420 - 1,540m",rating-5,rating-5,131485
+"['Wiesen, Waldwege und Feldhase']",['medium'],['Hiking'],9.04km,02:57h,433hm,"784 - 1,126m",rating-2,rating-3,551093
+['Berglimatt'],['medium'],['Hiking'],11.03km,04:19h,581hm,"834 - 2,168m",rating-3,rating-4,175670
+['Klettgau Tour Beringen-Schleitheim'],['medium'],['Cycling'],28.35km,02:00h,178hm,427 - 580m,rating-2,rating-3,238948
+['Braunwald - Klöntal'],['medium'],['Hiking'],17.88km,05:50h,440hm,"853 - 2,246m",rating-,rating-4,1034409
+['Neckertaler Höhenweg (Etappe 2)'],['difficult'],['Hiking'],17.13km,05:45h,"1,110hm","834 - 1,526m",rating-2,rating-6,130826
+['Valens - Muntaluna'],['difficult'],['Hiking'],22.81km,08:50h,"1,684hm","766 - 2,408m",rating-4,rating-5,307025
+['St. Gallen - Hundwiler Höhi - Gonten'],['medium'],['Hiking'],13.18km,05:30h,868hm,"607 - 1,306m",rating-2,rating-4,130805
+['Bodensee-Radweg Etappe 5/5'],['medium'],['Cycling'],45.85km,03:00h,257hm,392 - 505m,rating-3,rating-4,238938
+['Thurgauer Rundwanderweg (Altnau – Siegershausen)'],['easy'],['Hiking'],10.99km,02:45h,160hm,409 - 571m,rating-2,rating-2,130721
+['Rundwanderung Schiben Weissenberge'],['medium'],['Winter hiking'],4.82km,01:30h,214hm,"1,255 - 1,404m",rating-2,rating-3,286209
+['Durch unberührten Tiefschnee'],['difficult'],['Snowshoe'],8.32km,03:45h,335hm,640 - 845m,rating-,rating-5,1006946
+['Themenweg Alpwirtschaft'],['easy'],['Thematic route'],2.35km,00:39h,52hm,"1,312 - 1,364m",rating-,rating-1,593363
+['Schlittelweg Pizol - Wangs'],['easy'],['Sledge'],7.67km,00:20h,-,"535 - 1,520m",rating-2,rating-1,270372
+['Schaffhauser-Zürcher-Weg : Blumberg-Rapperswil'],[],['Pilgrimage'],83.28km,21:37h,806hm,345 - 688m,rating-,rating-0,157682
+['Sommerigweid (Tour 2)'],['easy'],['Snowshoe'],4.25km,03:00h,176hm,"1,099 - 1,246m",rating-,rating-2,130063
+['Schwabenweg: Rapperswil-Jona - Einsiedeln'],['difficult'],['Pilgrimage'],16.83km,05:00h,656hm,407 - 947m,rating-,rating-6,156746

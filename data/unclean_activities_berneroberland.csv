@@ -1,0 +1,501 @@
+title,difficulty,sport,length,time,climb,minmax,technique,fitness,ID
+['Isenfluh - Fauteuil des Berner Oberlands'],['medium'],['Hiking'],8.08km,03:10h,419hm,"1,085 - 1,883m",rating-3,rating-4,114264
+['Der Kander entlang ins Tal der Simme'],['easy'],['Hiking'],13.87km,03:20h,130hm,631 - 781m,rating-2,rating-2,57280
+['Saanenmöser – Schönried – Gstaad'],['easy'],['Hiking'],6.97km,02:00h,9hm,"1,049 - 1,274m",rating-1,rating-1,348116
+['Apollo Run (Mürren)'],['medium'],['Sledge'],3.41km,00:30h,2hm,"1,638 - 2,123m",rating-4,rating-3,288422
+['Sonnenweg (Alpen tower - Käserstatt)'],['medium'],['Hiking'],5.69km,02:00h,96hm,"1,830 - 2,233m",rating-3,rating-3,131938
+['Abenteuer Zulggraben'],['difficult'],['Hiking'],21.08km,06:00h,820hm,"586 - 1,028m",rating-3,rating-5,51390
+['First - Schwarzhorn - First Nr. 18'],['difficult'],['Hiking'],9.8km,04:50h,941hm,"2,078 - 2,924m",rating-5,rating-4,990998
+['Rellerli Bike Nr. 890: Saanen - Mittelberg - Rellerli - Saanen'],['medium'],['Mountainbike'],24.62km,03:15h,903hm,"1,010 - 1,862m",rating-3,rating-3,131689
+['Wetterhorn Trail - Grindelwald'],['medium'],['Snowshoe'],3.24km,01:20h,170hm,"1,229 - 1,399m",rating-3,rating-3,70017
+['Schönried - Rellerli - Grossi Vorschess – Schönried'],['medium'],['Winter hiking'],7.68km,02:50h,498hm,"1,241 - 1,739m",rating-3,rating-4,1002580
+['Durch das Wachseldornmoos'],['easy'],['Hiking'],5.74km,01:25h,50hm,"905 - 1,009m",rating-1,rating-1,508330
+['Axalphorn'],['medium'],['Snowshoe'],3.06km,04:00h,548hm,"1,885 - 2,308m",rating-,rating-3,131951
+['Der Winter Sonnentrail W3'],['difficult'],['Trailrunning'],17.9km,03:15h,532hm,"1,040 - 2,660m",rating-4,rating-5,524951
+['Allmenalp Klettersteig - Kandersteg'],['difficult'],['Via ferrata'],1.42km,03:30h,533hm,"1,187 - 1,720m",rating-,rating-3,76710
+['Sommerfrische im Wilden Westen'],['easy'],['Hiking'],5.71km,01:25h,100hm,555 - 650m,rating-2,rating-1,57566
+['Auf dem Niesenbänkli erholen sich nicht nur Kurgäste'],['easy'],['Hiking'],6.05km,01:50h,180hm,"966 - 1,175m",rating-2,rating-2,51254
+['Wandern am Wasser - Gäbelbach'],['easy'],['Hiking'],8.24km,02:15h,30hm,481 - 568m,rating-1,rating-2,174602
+['Auf Reben- und Pilgerwegen'],['medium'],['Hiking'],9.45km,03:00h,458hm,432 - 690m,rating-2,rating-3,49253
+['Schynige Platte - Männdlenen - Faulhorn - First Nr. 62'],['medium'],['Hiking'],15.96km,05:24h,835hm,"1,911 - 2,672m",rating-3,rating-4,131981
+['Schlittelweg Sparenmoos - Zweisimmen'],['medium'],['Sledge'],5.88km,01:20h,9hm,"974 - 1,660m",rating-3,rating-3,97609
+"['Lenk-Trütlisberg-Leiterli, Naturerlebnisse an der Lenk']",['medium'],['Hiking'],13.02km,04:50h,"1,000hm","1,079 - 2,079m",rating-3,rating-4,114192
+['Mürren - Sonnenberg - Allmendhubel'],['easy'],['Winter hiking'],2.05km,01:00h,278hm,"1,638 - 1,909m",rating-2,rating-2,131881
+['Rundweg Metschstand'],['easy'],['Hiking'],4.25km,01:24h,195hm,"1,899 - 2,094m",rating-,rating-2,306061
+['Zu einem der schönsten Amtssitze im Kanton Bern'],['easy'],['Hiking'],10.18km,02:25h,150hm,533 - 784m,rating-1,rating-2,50214
+"['Gibelweg - Von Alp zu Alp, hoch über dem Hasliberg']",['medium'],['Hiking'],7.07km,02:40h,365hm,"1,671 - 2,030m",rating-3,rating-3,50388
+['Karrenfelder und Tümpel'],['medium'],['Hiking'],14.25km,05:10h,950hm,"1,116 - 1,871m",rating-4,rating-4,62314
+['Berner-Oberländer-Weg: Brienz - Interlaken (Variante A)'],['difficult'],['Pilgrimage'],18.64km,05:35h,534hm,564 - 760m,rating-,rating-5,156735
+['Oeschinensee to Kandersteg'],['medium'],['Hiking'],10.83km,05:30h,315hm,"1,176 - 1,987m",rating-2,rating-3,277615
+['Sentier des Monts - Mont Crosin'],['easy'],['Hiking'],5.94km,01:40h,120hm,"1,172 - 1,290m",rating-1,rating-2,51393
+['Grindelwald - Schwendi - Burglauenen Nr. 102'],['easy'],['Hiking'],6.12km,01:35h,3hm,"893 - 1,043m",rating-1,rating-2,991006
+['Veloweg Lenk - Simmenfälle'],['easy'],['Cycling'],9.68km,00:40h,41hm,"1,064 - 1,105m",rating-1,rating-1,1034393
+['Alpwanderung hoch über dem Arnesee'],['difficult'],['Hiking'],11.01km,04:30h,"1,000hm","1,180 - 1,913m",rating-4,rating-5,50212
+['Berner-Oberländer- Weg: Thun - Amsoldingen (Variante B)'],['easy'],['Pilgrimage'],11.34km,03:00h,159hm,558 - 665m,rating-,rating-1,208213
+['Gsteig - Walliser Wispile (1982 M.ü.M)'],['medium'],['Ski tour'],5.1km,02:20h,802hm,"1,183 - 1,982m",rating-3,rating-3,917887
+['Winterwanderweg Saanenwald'],['medium'],['Winter hiking'],7.09km,02:45h,350hm,"1,265 - 1,589m",rating-3,rating-4,98482
+['Grütsch Trail'],['difficult'],['Mountainbike'],2.97km,00:17h,1hm,"882 - 1,484m",rating-5,rating-5,185138
+['Nachtschlitteln Mägisalp - Bidmi'],['medium'],['Sledge'],2.13km,00:10h,3hm,"1,426 - 1,707m",rating-3,rating-3,1000562
+['Wo ehemals Berndeutsch gesprochen wurde'],['easy'],['Hiking'],8.92km,02:10h,191hm,"1,014 - 1,208m",rating-2,rating-2,49281
+['Zum Ursprung der Emme'],['medium'],['Hiking'],14.26km,04:50h,800hm,"984 - 1,715m",rating-3,rating-3,50397
+['Obersimmentaler Hausweg'],['difficult'],['Thematic route'],20.57km,05:00h,600hm,"815 - 1,073m",rating-2,rating-5,131616
+['Der Aare entlang von Biel nach Büren an der Aare'],['easy'],['Cycling'],13.31km,01:00h,3hm,429 - 433m,rating-1,rating-1,1038367
+['Saxeten Trail'],['easy'],['Snowshoe'],3.07km,02:00h,140hm,"1,119 - 1,251m",rating-2,rating-2,96773
+['Route Aarwangen – Oberbuchsiten'],['medium'],['Hiking'],10.83km,02:48h,122hm,403 - 490m,rating-3,rating-3,71455
+['Unter dem Birg - Hinterengstligen - Engstligenalp'],['medium'],['Hiking'],4.07km,01:55h,692hm,"1,399 - 2,047m",rating-3,rating-4,875909
+['Sigriswiler Rothorn'],['medium'],['Hiking'],11.65km,04:46h,975hm,"1,077 - 2,050m",rating-2,rating-3,304176
+['Gros Mont: Saanen - Mittelberg - Abländschen - Jaun - Im Fang - Gros Mont - Saanen'],['difficult'],['Mountainbike'],52.55km,06:25h,"1,351hm","888 - 1,634m",rating-4,rating-6,950837
+['Der schönste Blick auf das Lauterbrunnental'],['medium'],['Winter hiking'],5.79km,02:15h,300hm,"1,253 - 1,542m",rating-4,rating-4,59116
+['Über die sonnigen Höhen Blasenflue und Moosegg'],['medium'],['Hiking'],14.19km,04:25h,680hm,"625 - 1,123m",rating-3,rating-4,49120
+['Gstaad Bergbahnen Tour'],['difficult'],['Mountainbike'],53.21km,08:00h,"2,749hm","941 - 2,078m",rating-6,rating-3,348108
+['Blüemlisalphütte'],['difficult'],['Hiking'],10.22km,05:30h,"1,663hm","1,171 - 2,833m",rating-,rating-6,718568
+['Herzschlaufe Napf Etappe Langnau - Entlebuch #399'],['medium'],['Cycling'],43.42km,03:30h,932hm,"673 - 1,210m",rating-1,rating-4,1013212
+['Mühlebach Trail Nr. 4'],['easy'],['Snowshoe'],2.8km,01:10h,170hm,"1,055 - 1,225m",rating-1,rating-1,532162
+['Bietenhorn Loop (7h)'],['difficult'],['Hiking'],19.21km,07:00h,"1,332hm","1,486 - 2,752m",rating-4,rating-6,131778
+['Auf uralten Wegen aufs Stockhorn'],['difficult'],['Hiking'],10.39km,05:30h,"1,800hm","660 - 2,177m",rating-4,rating-6,50314
+['Gällihorn'],['difficult'],['Hiking'],3.69km,01:15h,441hm,"1,887 - 2,283m",rating-5,rating-5,709664
+['Trailsummit Rotstock T5'],['difficult'],['Trailrunning'],13.15km,03:29h,"1,802hm","977 - 2,663m",rating-4,rating-5,309955
+['Lobhorn Trail'],['medium'],['Snowshoe'],3.96km,02:10h,440hm,"1,520 - 1,954m",rating-,rating-4,289447
+['Easy Männlichen - Holenstein (Nr. 61)'],['easy'],['Winter hiking'],5.88km,01:45h,-,"1,617 - 2,222m",rating-1,rating-2,524943
+['Napf-Landschaft für Geniesser'],['medium'],['Hiking'],14.95km,04:30h,800hm,"675 - 1,053m",rating-3,rating-4,50925
+['Lauenen - Chrinepass - Wispile'],['difficult'],['Snowshoe'],7.64km,04:00h,719hm,"1,238 - 1,938m",rating-5,rating-5,131734
+['Am wilden Trümmelbach'],['medium'],['Hiking'],12.23km,04:40h,"1,003hm","784 - 1,664m",rating-4,rating-4,49246
+['Trachselwald'],['easy'],['Hiking'],15.29km,04:00h,477hm,582 - 780m,rating-2,rating-2,110805
+"['Glecksteinhütte, 2316 m']",['medium'],['Hiking'],9.33km,05:00h,937hm,"1,229 - 2,318m",rating-4,rating-4,110620
+['Interlaken-Rotenegg Aussicht pur'],['medium'],['Mountainbike'],10.4km,03:30h,"1,288hm","613 - 1,792m",rating-3,rating-5,571941
+['Urtümliche Landschaft im Schwarzwasser- und Sensegraben'],['easy'],['Hiking'],10.43km,03:00h,232hm,555 - 863m,rating-2,rating-2,49442
+['Höhenwegvarianten am Hahnenmoospass'],['medium'],['Hiking'],15.2km,04:30h,"1,000hm","1,409 - 2,078m",rating-3,rating-4,70004
+['Uphilltrrail Spitzen U5'],['medium'],['Trailrunning'],4.21km,01:29h,"1,013hm","1,315 - 2,327m",rating-3,rating-4,309954
+['Kiental Trail - Kiental'],['medium'],['Snowshoe'],11.38km,04:50h,460hm,"922 - 1,205m",rating-4,rating-4,70020
+"['Emmentaler Höhen zwischen Luterbach, Biembach und Biglebach']",['medium'],['Hiking'],17.6km,05:00h,746hm,547 - 948m,rating-2,rating-4,49195
+['Zu Kulturstätten auf dem Längenberg'],['medium'],['Hiking'],12.92km,03:45h,602hm,"760 - 1,035m",rating-2,rating-3,49561
+['Zum wunderbaren Seebergsee'],['difficult'],['Hiking'],15.51km,06:15h,"1,400hm","788 - 2,065m",rating-4,rating-5,51573
+['Über die Rotache zu einem alten Bad und ins Tal der Zulg'],['easy'],['Hiking'],6.31km,01:40h,160hm,577 - 694m,rating-1,rating-1,48802
+['Gaseboden - Stierenberg - Gubi - Gestelegrat - Gaseboden'],['medium'],['Ski tour'],15.5km,04:00h,"1,010hm","1,328 - 1,987m",rating-3,rating-3,598193
+['WEN-HDW - Leiterhorn - Spätenalp'],['medium'],['Hiking'],7.5km,02:15h,291hm,"1,284 - 1,574m",rating-3,rating-3,110504
+['Flüeweg Burgdorf'],['easy'],['Hiking'],5.3km,02:00h,119hm,532 - 650m,rating-2,rating-2,147745
+['Liebliche Hügellandschaft Mänziwilegg'],['medium'],['Hiking'],11.82km,03:35h,410hm,582 - 934m,rating-2,rating-3,289470
+['Oeschinensee'],['medium'],['Hiking'],4.17km,01:35h,424hm,"1,171 - 1,594m",rating-3,rating-3,744920
+"['AlpnessTrail Etappe 2, Stierenberg - Färmel']",['medium'],['long-distance walking trail'],12.17km,04:50h,807hm,"1,342 - 2,075m",rating-3,rating-4,947000
+['Kleine Scheidegg nach Wengen'],['medium'],['Winter hiking'],6.92km,02:06h,5hm,"1,274 - 2,063m",rating-2,rating-3,65953
+"['AlpnessTrail Etappe 5, Simmenfälle - Iffigenalp']",['medium'],['long-distance walking trail'],8.31km,03:15h,797hm,"1,106 - 1,858m",rating-2,rating-3,1002878
+['Auf verschlungenen Wegen zum Niesenbänkli'],['medium'],['Hiking'],9.61km,03:10h,520hm,"946 - 1,172m",rating-3,rating-2,162934
+['Gasterntal'],['medium'],['Hiking'],11.76km,03:25h,465hm,"1,170 - 1,631m",rating-3,rating-3,744916
+['Rothore (2275 m ü. M.)'],['medium'],['Ski tour'],11.16km,02:15h,613hm,"1,271 - 2,274m",rating-,rating-3,940745
+['Sherlock Holmes Weg'],['medium'],['Thematic route'],7.95km,03:00h,366hm,596 - 912m,rating-3,rating-3,131935
+['Winterwanderweg Chrindi - Oberbärgli - Chrindi (Stockhorn)'],['medium'],['Winter hiking'],2.76km,01:10h,200hm,"1,616 - 1,787m",rating-2,rating-3,97940
+['Wandern in einer lieblichen Landschaft bei Huttwil'],['easy'],['Hiking'],5.87km,01:40h,270hm,640 - 813m,rating-2,rating-1,162697
+['Dampfromantik am Brienzer Rothorn'],['difficult'],['Hiking'],10.7km,05:15h,"1,778hm","567 - 2,345m",rating-4,rating-5,51297
+['Farnern - Bettlerküche - Hinteregg - Farnern'],['medium'],['Hiking'],9.04km,02:55h,432hm,"804 - 1,105m",rating-3,rating-3,978213
+['Weltcuptrail Chuenisbärgli'],['easy'],['Thematic route'],1.76km,01:20h,10hm,"1,312 - 1,727m",rating-2,rating-1,65312
+['«City Run - der Klassiker» Bussalp – Weidli (Nr. 57)'],['easy'],['Sledge'],5.38km,00:30h,-,"1,241 - 1,801m",rating-2,rating-2,522366
+['Viel Aussicht in den Buchsi- und Wynigenbergen'],['medium'],['Hiking'],16.16km,04:40h,606hm,464 - 716m,rating-2,rating-4,49293
+"['Rottalhütte, 2755 m']",['difficult'],['Hiking'],11.89km,09:30h,"1,957hm","911 - 2,759m",rating-6,rating-6,110619
+['Swissminiatur im Kandertal'],['medium'],['Hiking'],8.64km,03:30h,820hm,"1,596 - 2,165m",rating-3,rating-2,162905
+['Bort - Grindelwald Nr. 103'],['easy'],['Hiking'],6.14km,01:45h,4hm,"1,039 - 1,561m",rating-2,rating-2,991005
+['Panoramabike Tour - Habkern bis Thun'],['medium'],['Mountainbike'],41.41km,03:40h,874hm,"556 - 1,409m",rating-2,rating-3,172178
+['Rellerli Bike Nr. 890: Saanen - Mittelberg - Rellerli - Saanen'],['medium'],['Mountainbike'],24.62km,03:15h,903hm,"1,010 - 1,862m",rating-3,rating-3,131689
+['In der Schlucht von Court die Ruhe geniessen'],['easy'],['Hiking'],6.96km,01:50h,90hm,525 - 675m,rating-2,rating-2,508320
+['Strandweg Spiez-Faulensee'],['easy'],['Hiking'],2.33km,00:40h,2hm,558 - 564m,rating-1,rating-1,1025098
+['Schlosswanderung entlang dem Thunersee'],['easy'],['Hiking'],7.85km,02:05h,83hm,558 - 601m,rating-1,rating-1,1040603
+"['AlpnessTrail Etappe 6, Iffigenalp - Wildhornhütte']",['medium'],['long-distance walking trail'],8.86km,03:45h,"1,028hm","1,586 - 2,378m",rating-2,rating-4,1002879
+['Der Aare entlang von Biel nach Büren an der Aare'],['easy'],['Cycling'],13.31km,01:00h,3hm,429 - 433m,rating-1,rating-1,1038367
+['Zur Gedenkstätte der Schweizer Schulkarte'],['easy'],['Hiking'],10.41km,03:00h,170hm,"599 - 1,007m",rating-2,rating-2,162926
+['Gang doch e chli der aare naa'],['easy'],['Hiking'],7.04km,01:50h,50hm,482 - 520m,rating-1,rating-2,509377
+"['Wald-, Alp- und Wasserreichtum im Schallenberg-Gebiet']",['medium'],['Hiking'],14.46km,04:45h,832hm,"823 - 1,409m",rating-3,rating-3,49227
+['Durch die eindrückliche Combe Grède'],['medium'],['Hiking'],13.05km,04:50h,936hm,"741 - 1,543m",rating-4,rating-4,49279
+['Wervolle Baukunst und ein traditionsreicher Käse'],['easy'],['Hiking'],7.46km,02:15h,242hm,748 - 945m,rating-2,rating-2,51616
+['Goldtoni - Alpenbogen A048 Trübsee-Meiringen'],['medium'],['long-distance walking trail'],34.2km,10:44h,"1,858hm","608 - 2,650m",rating-3,rating-3,215754
+['Lauterbrunnen - Mürren Rundtour'],['medium'],['Mountainbike'],26.65km,03:00h,109hm,"796 - 1,679m",rating-2,rating-3,131863
+['Von der Ilfis an die Emme: Emmental pur'],['medium'],['Hiking'],11.74km,03:45h,500hm,"669 - 1,115m",rating-2,rating-3,51394
+['Grütschalp - Winteregg - Mürren (1h30)'],['easy'],['Hiking'],4.44km,01:30h,150hm,"1,490 - 1,650m",rating-1,rating-2,749188
+['Waldlehrpfad Arnensee (Rundwanderung)'],['easy'],['Thematic route'],3.39km,01:00h,18hm,"1,543 - 1,561m",rating-2,rating-2,131625
+['Quer durch die Grabenlandschaft am Geissrüggen'],['medium'],['Hiking'],12.74km,03:40h,561hm,"646 - 1,030m",rating-2,rating-3,49119
+['WEN-DW - Lauterbrunnen - Preech - Wengen'],[],['Hiking'],12.69km,04:29h,967hm,"784 - 1,684m",rating-,rating-0,383162
+['Gstaad - Oberbort - Turbach - Türli - Lauenen'],['difficult'],['Hiking'],17.82km,05:45h,939hm,"1,049 - 1,988m",rating-3,rating-6,131612
+['Über den Frienisberg'],['easy'],['Hiking'],11.1km,03:00h,280hm,448 - 796m,rating-2,rating-2,50929
+['«Royal Walk» Männlichen - Männlichengipfel Nr. 47'],['easy'],['Thematic route'],1.99km,00:42h,125hm,"2,221 - 2,342m",rating-2,rating-1,238987
+['Bergerlebnis Bunderchrinde'],['difficult'],['Hiking'],15.73km,06:30h,"1,300hm","1,174 - 2,386m",rating-5,rating-5,50392
+['Ortsrundgang Interlaken'],['easy'],['Hiking'],4.41km,01:05h,3hm,563 - 570m,rating-1,rating-1,297003
+['Gipfeltour Cheibehorn'],['medium'],['Snowshoe'],5.05km,03:00h,400hm,"1,637 - 1,952m",rating-3,rating-4,60656
+['Durchs Jahr wandern - Goldene Weinreben am Bielersee'],['easy'],['Hiking'],10.44km,03:00h,250hm,430 - 495m,rating-1,rating-2,525024
+['Sulwald Trail'],['easy'],['Snowshoe'],2.15km,01:00h,175hm,"1,514 - 1,685m",rating-,rating-2,131857
+['Auf dem Bielersee-Uferweg'],['difficult'],['Hiking'],19.85km,05:10h,406hm,426 - 554m,rating-2,rating-5,49254
+['Zum Berner «Naturschutz-Rütli»'],['easy'],['Hiking'],9.38km,02:50h,300hm,"566 - 1,134m",rating-2,rating-2,51088
+['Zu Kulturstätten auf dem Längenberg'],['medium'],['Hiking'],12.92km,03:45h,602hm,"760 - 1,035m",rating-2,rating-3,49561
+"[""Pays d’Enhaut Nr. 593: Rougemont - Château-d'Oex - Rougemont""]",['medium'],['Mountainbike'],40.25km,04:45h,738hm,"861 - 1,146m",rating-3,rating-2,210483
+['Zu Landsitzen und Schlössern'],['medium'],['Hiking'],9.95km,03:10h,500hm,555 - 746m,rating-2,rating-3,50209
+['Eiger Trail - Grindelwald'],['medium'],['Snowshoe'],5.28km,02:30h,160hm,"1,329 - 1,623m",rating-3,rating-3,52068
+['Durch Wälder und Wiesen von Attiswil nach Wangen. a. A.'],['medium'],['Hiking'],12.29km,03:25h,238hm,417 - 574m,rating-,rating-4,594406
+['Simmentaler Hausweg (Terrassenweg)'],['difficult'],['Thematic route'],20.21km,06:00h,"1,100hm","682 - 1,059m",rating-3,rating-5,58844
+['«Eiger Trail» Eigergletscher - Alpiglen Nr. 36'],['medium'],['Hiking'],6.14km,02:05h,78hm,"1,615 - 2,346m",rating-2,rating-3,131887
+"[""Via Alpina: Gstaad - L'Etivaz""]",['difficult'],['Hiking'],15.89km,06:00h,"1,059hm","1,041 - 1,953m",rating-2,rating-6,131629
+['Schonegg'],['difficult'],['Snowshoe'],11.59km,08:30h,"1,281hm","988 - 2,219m",rating-,rating-6,131957
+['Winterwanderweg Bühlberg - Metsch'],['easy'],['Winter hiking'],1.95km,00:40h,10hm,"1,464 - 1,658m",rating-2,rating-1,150615
+['Dorfrunde - Nr1'],['easy'],['Trailrunning'],7.89km,01:33h,393hm,"919 - 1,144m",rating-1,rating-2,290497
+['Via Alpina - Etappe 14 Kandersteg - Adelboden'],['easy'],['Hiking'],16.55km,06:45h,"1,400hm","1,171 - 2,382m",rating-1,rating-2,870928
+['Uphilltrrail Spitzen U5'],['medium'],['Trailrunning'],4.21km,01:29h,"1,013hm","1,315 - 2,327m",rating-3,rating-4,309954
+['Schneeschuhtrail Springenboden'],['medium'],['Snowshoe'],5.63km,03:00h,332hm,"1,325 - 1,657m",rating-3,rating-3,823056
+['Licht und Ruhe auf der Wätterlatte'],['difficult'],['Hiking'],14.84km,06:00h,"1,280hm","953 - 1,978m",rating-3,rating-5,50349
+['Eiger-Ostegghütte Klettersteig - Grindelwald'],['difficult'],['Via ferrata'],3.84km,03:30h,732hm,"1,617 - 2,316m",rating-,rating-0,114338
+['Waldspitz - Feld - Bussalp'],['easy'],['Hiking'],6.68km,02:30h,392hm,"1,796 - 2,171m",rating-2,rating-2,314649
+['Wandern im Gebiet vom Lauberhorn-Skirennen'],['easy'],['Hiking'],9.05km,02:35h,50hm,"1,276 - 2,322m",rating-2,rating-2,162913
+['Alp Botchen - Kulturlandschaftspreis 2014'],['medium'],['Hiking'],9.22km,03:30h,670hm,"989 - 1,516m",rating-2,rating-4,133938
+['Oberlaubhore (1999 m ü. M.)'],['medium'],['Ski tour'],8.58km,02:10h,729hm,"1,106 - 1,999m",rating-,rating-4,972279
+['Gibelweg'],['medium'],['Hiking'],8.66km,02:30h,160hm,"1,480 - 2,036m",rating-2,rating-3,131835
+['Rundwanderung Sausläger (5h)'],['medium'],['Hiking'],16.67km,05:00h,559hm,"1,482 - 1,893m",rating-2,rating-4,131772
+"['Wirtliche Landschaften, wildromantischer Schwarzwassergraben']",['easy'],['Thematic route'],8.2km,02:15h,130hm,587 - 837m,rating-2,rating-2,116842
+['Nachtschlittel-Highlight Bussalp (Nr. 57)'],['medium'],['Sledge'],5.38km,00:30h,-,"1,241 - 1,801m",rating-3,rating-2,522368
+['Lauenen - Lauenensee - Lauenen'],['medium'],['Winter hiking'],8.54km,02:30h,211hm,"1,237 - 1,409m",rating-3,rating-4,131733
+['Zuoberst im Langetetal'],[],['Hiking'],8.79km,02:45h,290hm,"738 - 1,023m",rating-,rating-0,114206
+['Durch das Schwarzenburgerland'],['medium'],['Hiking'],13.43km,04:15h,700hm,"648 - 1,012m",rating-2,rating-3,51012
+['Lenk - Eywald - Lenk'],['easy'],['Winter hiking'],4.38km,01:00h,18hm,"1,065 - 1,082m",rating-,rating-2,908572
+['Gantrisch-Panoramaweg – Eine Wanderung mit Erfolgsgarantie'],['medium'],['Hiking'],16.03km,04:50h,530hm,"869 - 1,720m",rating-3,rating-4,162702
+['WEN-DW - Lauterbrunnen - Preech - Wengen'],[],['Hiking'],12.69km,04:29h,967hm,"784 - 1,684m",rating-,rating-0,383162
+['Tanzbödeli Loop (6h30)'],['difficult'],['Hiking'],16.53km,06:38h,"1,449hm","1,119 - 2,133m",rating-4,rating-5,312287
+['Rundweg Leiterli-Loipe-Leiterli'],['medium'],['Winter hiking'],2.77km,01:15h,200hm,"1,850 - 2,050m",rating-,rating-3,974671
+"['Blumen, Kräuter und Alpkäse am Bäderhorn']",['medium'],['Hiking'],10.72km,03:10h,500hm,"1,511 - 1,748m",rating-3,rating-3,62375
+['Rinderberg - Hornberg - Horneggli'],['easy'],['Hiking'],5.79km,02:00h,77hm,"1,767 - 2,077m",rating-2,rating-2,131699
+['Lenk-Iffigfall-Langermatte-Rezliberg-Simmenfälle-Lenk'],[],['Mountainbike'],23.37km,03:30h,822hm,"1,063 - 1,858m",rating-,rating-0,691484
+['Alt und Neu im Grenzraum Bern–Solothurn'],['easy'],['Hiking'],9.92km,02:30h,237hm,419 - 503m,rating-1,rating-2,49291
+['Vom Chaltebrunnen-Hochmoor zur Rosenlaui'],['difficult'],['Hiking'],19.33km,06:00h,"1,142hm","1,212 - 2,112m",rating-4,rating-5,69999
+['Durch das Wachseldornmoos'],['easy'],['Hiking'],5.74km,01:25h,50hm,"905 - 1,009m",rating-1,rating-1,508330
+['Ryharts-Allmenalp'],['medium'],['Hiking'],3.98km,02:15h,624hm,"1,184 - 1,789m",rating-3,rating-3,709678
+['Durch die eindrückliche Combe Grède'],['medium'],['Hiking'],13.05km,04:50h,936hm,"741 - 1,543m",rating-4,rating-4,49279
+['Arnensee Rundwanderung'],['easy'],['Hiking'],3.4km,01:00h,19hm,"1,543 - 1,561m",rating-2,rating-1,348117
+['Rüwlispass – grüne Verbindung ins Saanenland'],['medium'],['Hiking'],14.2km,04:50h,850hm,"989 - 1,719m",rating-3,rating-4,50429
+['Schwarzwaldalp Route 1'],['easy'],['Snowshoe'],4.52km,01:45h,256hm,"1,452 - 1,706m",rating-,rating-2,131806
+['Grosses Moos - Wandern im Gemüsegarten'],['easy'],['Hiking'],9.88km,02:20h,10hm,433 - 445m,rating-1,rating-2,509379
+['Winterwanderweg Tschentenalp - Schärmtanne (Adelboden)'],['medium'],['Winter hiking'],3.96km,01:30h,10hm,"1,482 - 1,947m",rating-3,rating-2,157992
+['Die Winter Genuss Runde an der Sonnseite W1'],['medium'],['Trailrunning'],14.11km,02:45h,790hm,"1,543 - 2,275m",rating-4,rating-4,524950
+['Simmentaler Hausweg (Terrassenweg)'],['difficult'],['Thematic route'],20.21km,06:00h,"1,100hm","682 - 1,059m",rating-3,rating-5,58844
+['Trütlisbergpass – Hochmoore und Blumenreichtum'],['medium'],['Hiking'],14.75km,05:20h,"1,100hm","1,065 - 2,037m",rating-4,rating-4,50179
+"['AlpnessTrail Etappe 3, Färmel - Laubbärgli']",['medium'],['long-distance walking trail'],13km,04:55h,"1,059hm","1,326 - 2,085m",rating-2,rating-4,1002814
+['Einigen - der Weg'],['easy'],['Thematic route'],10.2km,01:00h,99hm,558 - 634m,rating-1,rating-1,84165
+['Entlang des Ober Frittenbachgrabens'],['medium'],['Hiking'],10.15km,03:45h,697hm,"675 - 1,188m",rating-2,rating-4,51530
+['Beatusweg - Beatenberg'],['easy'],['Thematic route'],3.39km,01:20h,103hm,"1,168 - 1,303m",rating-2,rating-2,76615
+['WEN-DW - Stechelberg - Schmadrihütte - Stechelberg'],['difficult'],['Hiking'],17.91km,07:10h,"1,396hm","907 - 2,260m",rating-,rating-5,553952
+['Schwendibiel Runde Nr. 12'],['easy'],['Trailrunning'],14.92km,03:04h,766hm,"1,028 - 1,646m",rating-2,rating-2,309494
+['Schlosswanderung entlang dem Thunersee'],['easy'],['Hiking'],7.85km,02:05h,83hm,558 - 601m,rating-1,rating-1,1040603
+['Grimselpass'],['medium'],['Racing'],38.59km,02:48h,"1,541hm","626 - 2,164m",rating-2,rating-4,374711
+['Fründenhütte'],['difficult'],['Hiking'],9.39km,05:05h,"1,389hm","1,170 - 2,559m",rating-,rating-6,718569
+['Rund ums Lauberhorn'],['medium'],['Winter hiking'],11.84km,04:25h,250hm,"1,275 - 2,219m",rating-4,rating-4,51344
+['Wandern in einer lieblichen Landschaft bei Huttwil'],['easy'],['Hiking'],5.87km,01:40h,270hm,640 - 813m,rating-2,rating-1,162697
+['Schynige Platte - Faulhorn - First'],['medium'],['Hiking'],16.19km,06:00h,825hm,"1,910 - 2,680m",rating-2,rating-3,131180
+['Vom Teuffenthal ins Eriz – idyllische Wanderung durch die Hügelwelt'],['medium'],['Hiking'],15.45km,05:10h,591hm,"791 - 1,411m",rating-3,rating-4,50255
+['«Romantikweg» Männlichen - Alpiglen Nr. 35'],['medium'],['Hiking'],7.35km,02:07h,-,"1,616 - 2,224m",rating-3,rating-3,593357
+['Bergwanderung über den Hochstollen'],['difficult'],['Hiking'],8.61km,03:40h,730hm,"1,826 - 2,445m",rating-5,rating-4,58603
+['Alpiner Hochweg am Üschenegrat'],['difficult'],['Hiking'],12.38km,04:50h,958hm,"1,870 - 2,454m",rating-5,rating-4,62317
+['Cable cars to Jochpass and walk to Meiringen'],['medium'],['Hiking'],21.52km,05:30h,1hm,"598 - 2,207m",rating-2,rating-4,219482
+['Winterwanderweg Eggli - Grund - Gstaad'],['medium'],['Winter hiking'],6.38km,02:00h,-,"1,042 - 1,557m",rating-2,rating-3,278066
+['Panoramaweg Hasliberg'],['medium'],['Hiking'],8.6km,03:00h,355hm,"979 - 1,263m",rating-2,rating-3,131936
+['Winter-Rundwanderweg Lauenensee'],['medium'],['Winter hiking'],8.56km,02:30h,180hm,"1,237 - 1,410m",rating-3,rating-4,49073
+['Interlaken-Rotenegg Aussicht pur'],['medium'],['Mountainbike'],10.4km,03:30h,"1,288hm","613 - 1,792m",rating-3,rating-5,571941
+['Bunderspitz'],['medium'],['Hiking'],9.77km,04:48h,726hm,"1,232 - 2,445m",rating-,rating-4,709680
+['Auf uralten Wegen aufs Stockhorn'],['difficult'],['Hiking'],10.39km,05:30h,"1,800hm","660 - 2,177m",rating-4,rating-6,50314
+['Vom Ruedihus zur Doldenhornhütte SAC'],['medium'],['Hiking'],10.79km,04:40h,961hm,"1,172 - 1,905m",rating-4,rating-4,62318
+['Durchs Jahr Wandern - Panorama-Winterwanderweg Wispile (Fondue-Tour)'],['medium'],['Winter hiking'],8.61km,02:40h,20hm,"1,175 - 1,917m",rating-3,rating-3,49060
+['Rund um Bern - rund um den Moossee'],['easy'],['Hiking'],6.47km,01:40h,90hm,521 - 571m,rating-1,rating-2,508339
+['Im Bann der Blüemlisalp (Oeschinenrundweg)'],['medium'],['Hiking'],10.65km,04:10h,809hm,"1,172 - 2,035m",rating-4,rating-4,48962
+"['AlpnessTrail Etappe 8, Lauenen - Gsteig']",['medium'],['long-distance walking trail'],13.12km,04:40h,726hm,"1,174 - 1,950m",rating-3,rating-4,1002979
+['Längs der schönsten schiffbaren Flussstrecke der Schweiz'],['medium'],['Hiking'],14.52km,03:30h,136hm,421 - 457m,rating-1,rating-3,49189
+['Mit dem Schiff auf den Chasseral'],['medium'],['Hiking'],15.39km,04:15h,60hm,"433 - 1,556m",rating-3,rating-3,67188
+['Uferwegerlebnis Brienzersee'],['easy'],['Hiking'],7.26km,02:00h,140hm,564 - 620m,rating-2,rating-2,508324
+['Kleine Scheidegg - Alpiglen «Eiger Run» (Nr. 64)'],['medium'],['Sledge'],4.94km,00:30h,-,"1,615 - 2,061m",rating-3,rating-3,536628
+['Obwaldner Höhenweg: Etappe 4'],['difficult'],['Hiking'],23.71km,08:32h,"1,671hm","967 - 2,225m",rating-3,rating-6,244083
+['Über den Schattenberg zur Bettlerküche'],['easy'],['Hiking'],6.09km,02:45h,107hm,"1,030 - 1,137m",rating-2,rating-2,1023805
+['Rund um Bern - durch die Aareauen'],['easy'],['Hiking'],8.87km,02:20h,20hm,499 - 521m,rating-1,rating-2,917869
+['Panorama-Bergwanderung Grimmiwasser'],['medium'],['Thematic route'],11.46km,04:00h,674hm,"1,222 - 1,843m",rating-3,rating-4,301337
+['Über Jurahöhen in ein stilles Tal'],['easy'],['Hiking'],8km,02:25h,420hm,598 - 921m,rating-2,rating-2,51348
+['In der Schlucht von Court die Ruhe geniessen'],['easy'],['Hiking'],6.96km,01:50h,90hm,525 - 675m,rating-2,rating-2,508320
+['Wengen: NM:  Trümmelbachfälle'],['medium'],['Hiking'],3.23km,00:50h,25hm,799 - 824m,rating-2,rating-3,109786
+['Von Hängebrücke zu Hängebrücke'],['easy'],['Hiking'],6.29km,01:40h,100hm,779 - 953m,rating-1,rating-2,508335
+['Am Steilbord des Aarelaufs'],['easy'],['Hiking'],11.98km,02:50h,52hm,521 - 545m,rating-2,rating-2,49199
+['Höhenwanderung von der Bussalp zum Bort'],['medium'],['Winter hiking'],7.2km,02:25h,90hm,"1,552 - 1,801m",rating-3,rating-3,51343
+['Durchs Jahr wandern - Türkenbund ob Grindelwald'],['medium'],['Hiking'],7.94km,02:40h,200hm,"1,560 - 2,279m",rating-3,rating-3,658329
+['Vom Brienzersee an die junge Emme'],['difficult'],['Hiking'],13.19km,06:00h,"1,420hm","577 - 1,910m",rating-4,rating-5,48959
+['Zweisimmen – Chumigalm (2125 M.ü.M)'],['medium'],['Ski tour'],6.11km,03:00h,"1,192hm","931 - 2,123m",rating-,rating-4,853410
+['Fernblicke auf dem Panoramaweg'],['medium'],['Hiking'],11.45km,03:20h,170hm,"780 - 1,834m",rating-3,rating-4,48851
+['Winterwanderweg Springenboden'],['medium'],['Winter hiking'],6.93km,02:30h,230hm,"1,285 - 1,499m",rating-2,rating-3,315071
+['Das Viertausender-Erlebnis für jedermann'],['easy'],['Hiking'],4.56km,01:30h,209hm,"2,062 - 2,221m",rating-2,rating-2,49224
+['Winterwanderweg Adelboden/Oey - Unter dem Birg'],['easy'],['Winter hiking'],4.42km,01:30h,170hm,"1,232 - 1,396m",rating-2,rating-2,49596
+['Auf dem Panoramaweg Elsigenalp - Frutigen'],['medium'],['Hiking'],10.84km,03:10h,160hm,"779 - 1,803m",rating-3,rating-3,162906
+['Lauenen – Walliser Wispile (1982 M.ü.M)'],['medium'],['Ski tour'],4.54km,02:05h,743hm,"1,239 - 1,982m",rating-3,rating-3,859945
+['Von Basel zum Mont Blanc  Etappe 8: Sonceboz–Chasseral'],['difficult'],['Hiking'],15.94km,05:15h,"1,020hm","652 - 1,607m",rating-1,rating-5,1040660
+['Durch Auenwälder zu einem imposanten Schloss'],['easy'],['Hiking'],10.43km,02:30h,110hm,482 - 694m,rating-2,rating-2,48769
+['Durch die eindrückliche Combe Grède'],['medium'],['Hiking'],13.05km,04:50h,936hm,"741 - 1,543m",rating-4,rating-4,49279
+['Jegertosse-Fisialp'],['medium'],['Hiking'],12.26km,05:50h,988hm,"1,170 - 2,157m",rating-4,rating-4,709668
+['Dschungel-Landschaft an Saane und Aare'],['medium'],['Hiking'],16.77km,04:20h,388hm,446 - 543m,rating-2,rating-4,49250
+"['Vom Jaunpass nach Boltigen - Blumen, Kräuter und Alpkäse']",['medium'],['Hiking'],12.75km,04:00h,340hm,"816 - 1,700m",rating-3,rating-3,48832
+['First - Bachalpsee - First Nr. 1'],['easy'],['Hiking'],5.85km,01:50h,202hm,"2,164 - 2,280m",rating-2,rating-2,984923
+['Panoramawanderung ins Saanenland'],['medium'],['Hiking'],6.32km,02:00h,200hm,"1,765 - 2,056m",rating-3,rating-3,48807
+['Gstaad - Wispile - Lauenensee (Nr. 24)'],['medium'],['Trailrunning'],13.45km,03:00h,968hm,"1,047 - 1,916m",rating-3,rating-4,185343
+['Männlichen - Kleine Scheidegg | Panoramaweg'],['easy'],['Hiking'],4.43km,01:16h,-,"2,061 - 2,222m",rating-1,rating-2,315062
+['Mürren - Allmendhubel mit Flower Trail (1h)'],['easy'],['Hiking'],2.13km,01:00h,260hm,"1,638 - 1,910m",rating-1,rating-2,131776
+['Winterwanderweg Justistal'],['medium'],['Winter hiking'],8.62km,02:24h,243hm,"1,124 - 1,368m",rating-1,rating-3,289429
+['Aus dem Zentrum des Oberaargaus ins Lueggebiet'],['difficult'],['Hiking'],20.92km,05:45h,820hm,482 - 859m,rating-2,rating-5,50353
+['Von der Insel des Philosophen in malerische Kleinstädte'],['medium'],['Hiking'],11.17km,02:45h,115hm,425 - 441m,rating-1,rating-3,49251
+"['SNOOC - Schlittenfahren ""Ritas Speedway"" Holenstein']",['easy'],['Sledge'],5.88km,00:20h,-,"1,617 - 2,222m",rating-2,rating-2,978197
+['Auf Wald- und Kirchwegen vom Stadtrand zum Frienisberger'],['easy'],['Hiking'],11.26km,03:00h,400hm,547 - 785m,rating-2,rating-2,70048
+['Grimmialp-Rundweg'],['easy'],['Winter hiking'],3.83km,01:30h,100hm,"1,163 - 1,236m",rating-2,rating-1,49169
+['Wildhornhütte (2303 m ü. M.) via Iffighore'],['difficult'],['Ski tour'],12.55km,03:59h,"1,427hm","1,207 - 2,372m",rating-,rating-5,940755
+['Wildstrubel Umrundung 4-Tage'],['medium'],['Hiking'],77km,-,"5,451hm","536 - 2,854m",rating-3,rating-4,499467
+['Schneeschuhtrail Wiriehorn'],['medium'],['Snowshoe'],3.3km,02:00h,308hm,"1,417 - 1,725m",rating-3,rating-3,315043
+['Passwanderung ins grüne Eriz'],['medium'],['Hiking'],10.28km,03:30h,590hm,"1,042 - 1,569m",rating-3,rating-3,50398
+['Die grosse Winter Faulhornrunde W4'],['difficult'],['Trailrunning'],27.37km,06:00h,"1,667hm","1,039 - 2,670m",rating-5,rating-6,529176
+"['Swiss Trail Tour Lenk, Strecke Sonntag, 2020']",['difficult'],['Trailrunning'],30.51km,06:45h,"1,976hm","1,065 - 2,653m",rating-4,rating-5,525059
+['Am Lombach entlang nach Interlaken Ost'],['easy'],['Hiking'],5.36km,01:22h,58hm,559 - 614m,rating-1,rating-2,387441
+['Vom Schattenhang zur alpinen Sonnenterrasse'],['medium'],['Hiking'],9.33km,04:00h,"1,000hm","893 - 1,609m",rating-3,rating-4,70033
+['Vom Ruedihus zur Doldenhornhütte SAC'],['medium'],['Hiking'],10.79km,04:40h,961hm,"1,172 - 1,905m",rating-4,rating-4,62318
+['Nods Trail - Nods'],['medium'],['Snowshoe'],6.19km,02:40h,310hm,"929 - 1,273m",rating-3,rating-3,49952
+['Leiterli - Haslerbar'],['medium'],['Winter hiking'],1.85km,00:45h,-,"1,773 - 1,946m",rating-,rating-3,972266
+['Weg der 3 Wasserfälle'],['medium'],['Hiking'],16.1km,05:30h,724hm,563 - 831m,rating-3,rating-3,6753
+['Lauterbrunnen - Trachsellauenen'],['easy'],['Cycling'],19.46km,02:30h,432hm,"781 - 1,203m",rating-1,rating-2,131855
+['Dschungel-Landschaft an Saane und Aare'],['medium'],['Hiking'],16.77km,04:20h,388hm,446 - 543m,rating-2,rating-4,49250
+['Rund um Simon Gfellers Heimisbach'],['difficult'],['Hiking'],19.71km,06:00h,718hm,"623 - 1,188m",rating-3,rating-5,49117
+['Grosse Scheidegg Loop'],['difficult'],['Cycling'],74.09km,06:00h,"1,792hm","564 - 1,962m",rating-3,rating-5,131926
+['Auf Du und Du mit den Eis- und Felsriesen'],['easy'],['Winter hiking'],4.41km,01:40h,320hm,"1,493 - 1,681m",rating-1,rating-2,49164
+['Holzbrücken am Emmeuferweg'],['easy'],['Hiking'],11.49km,02:50h,179hm,645 - 744m,rating-2,rating-2,49228
+['Grindelwald - Gletscherschlucht - Grindelwald Nr. 100'],['easy'],['Hiking'],4.77km,01:20h,132hm,"951 - 1,044m",rating-1,rating-2,991003
+['Emmentaler Käseroute - 2-Tagestour'],['medium'],['Cycling'],78km,06:25h,"1,381hm","532 - 1,017m",rating-1,rating-3,1013217
+['Schneeschuhtrail Springenboden'],['medium'],['Snowshoe'],5.63km,03:00h,332hm,"1,325 - 1,657m",rating-3,rating-3,823056
+['Bern-Ost: Vom Schlosspark zur Alpensicht'],['easy'],['Hiking'],7.63km,02:00h,210hm,736 - 888m,rating-2,rating-2,49038
+"['Wald-, Alp- und Wasserreichtum im Schallenberg-Gebiet']",['medium'],['Hiking'],14.46km,04:45h,832hm,"823 - 1,409m",rating-3,rating-3,49227
+['Die 3-Stein-Wanderung im Oberaargau'],['easy'],['Hiking'],6.93km,01:55h,140hm,456 - 553m,rating-2,rating-2,573706
+['Wanderung zu Schlachtdenkmälern'],['easy'],['Hiking'],10.52km,03:00h,170hm,488 - 649m,rating-1,rating-2,154457
+['Northface-Trail (2h30)'],['medium'],['Hiking'],6.51km,02:30h,390hm,"1,630 - 1,960m",rating-2,rating-3,131865
+['Männlichen - Männlichengipfel - Männlichen | Royal Walk'],['easy'],['Thematic route'],1.43km,01:00h,111hm,"2,230 - 2,341m",rating-2,rating-2,131155
+['Alpiner Hochweg am Üschenegrat'],['difficult'],['Hiking'],12.38km,04:50h,958hm,"1,870 - 2,454m",rating-5,rating-4,62317
+['Das Schüpbach-Wägli - Ein Geheimtip'],['easy'],['Hiking'],7.52km,02:15h,300hm,698 - 943m,rating-2,rating-2,509376
+['Preisgekrönter Wanderweg'],['medium'],['Hiking'],5.47km,01:45h,40hm,"1,156 - 1,951m",rating-3,rating-3,508323
+['Lötschberg-Panoramaweg'],['difficult'],['Hiking'],19.21km,07:00h,689hm,"923 - 1,563m",rating-5,rating-5,744927
+['Auf dem Panoramaweg Kiental–Thunersee'],['medium'],['Hiking'],12.06km,03:45h,640hm,"953 - 1,241m",rating-2,rating-3,50351
+['Über den Chapf - Emmental pur'],['easy'],['Hiking'],10.03km,03:10h,400hm,"726 - 1,095m",rating-2,rating-2,101588
+['Panoramaweg Aeschiried - Därligen'],['medium'],['Hiking'],9.12km,02:40h,230hm,"559 - 1,067m",rating-3,rating-2,162907
+['Kambly Erlebnis Tour #777'],['medium'],['Cycling'],28.63km,02:20h,739hm,"673 - 1,145m",rating-1,rating-3,1002739
+['Ryharts-Allmenalp'],['medium'],['Hiking'],3.98km,02:15h,624hm,"1,184 - 1,789m",rating-3,rating-3,709678
+['Rinderberg - Hornberg - Horneggli'],['easy'],['Hiking'],5.79km,02:00h,77hm,"1,767 - 2,077m",rating-2,rating-2,131699
+['Schwarzhorn Klettersteig - Grindelwald'],['medium'],['Via ferrata'],4.32km,05:00h,850hm,"2,078 - 2,928m",rating-,rating-0,92578
+['Panoramawanderung an der Südflanke des Frienisbergers'],['medium'],['Hiking'],15.95km,04:10h,446hm,555 - 828m,rating-2,rating-4,49230
+['Aussichtsreiche Hügel und stille Wälder'],['medium'],['Hiking'],13.76km,04:20h,640hm,"739 - 1,120m",rating-2,rating-4,51009
+['Schreckfeld - Bort'],['easy'],['Hiking'],2.29km,00:44h,-,"1,564 - 1,950m",rating-1,rating-2,131470
+['SNOOC - Schlittelweg Betelberg Pöschenried (Lenk)'],['easy'],['Sledge'],6.01km,00:18h,-,"1,270 - 1,929m",rating-2,rating-2,978202
+['Auf Du und Du mit den Eis- und Felsriesen'],['easy'],['Winter hiking'],4.41km,01:40h,320hm,"1,493 - 1,681m",rating-1,rating-2,49164
+['Über den Heitiberg zum Stockhorn'],['difficult'],['Hiking'],13.6km,06:00h,"1,800hm","614 - 2,138m",rating-4,rating-5,50185
+['Wildweg Sparenmoos (Rundwanderung)'],['easy'],['Thematic route'],1.95km,00:45h,66hm,"1,693 - 1,757m",rating-2,rating-2,131617
+['In der Bergwelt des Diablerets-Massivs'],['difficult'],['Hiking'],9.71km,04:45h,"1,400hm","1,181 - 2,515m",rating-5,rating-5,48809
+['Unterwegs im Napfbergland'],['difficult'],['Hiking'],18.55km,06:00h,744hm,"751 - 1,394m",rating-3,rating-5,49294
+['Zweilütschinen - Lauterbrunnen'],['easy'],['Hiking'],4.38km,01:10h,146hm,652 - 797m,rating-1,rating-2,315064
+['Grutschalp to Muerren via the Mountain View Trail'],['medium'],['Hiking'],6.48km,03:30h,450hm,"1,489 - 1,899m",rating-,rating-3,123946
+['Auf den Spuren von Emmentaler Dichtern'],['easy'],['Hiking'],9.17km,02:20h,140hm,582 - 838m,rating-1,rating-2,508355
+['Bort - Mühlebach (Nr. 59)'],['easy'],['Winter hiking'],2.53km,01:00h,-,"1,161 - 1,561m",rating-1,rating-2,526926
+['Durch das Naturparadies längs der Emme'],['difficult'],['Hiking'],19.34km,04:50h,249hm,532 - 656m,rating-2,rating-5,49334
+['Grauseeli Loop (7h30)'],['medium'],['Hiking'],11.06km,07:30h,967hm,"1,636 - 2,599m",rating-2,rating-4,131780
+['Beobachtungsweg Lägerstutz-Winterröscht-Färrich-Lägerstutz'],['easy'],['Hiking'],5.14km,02:00h,229hm,"1,558 - 1,759m",rating-2,rating-2,304811
+['Durch das Schwarzenburgerland'],['medium'],['Hiking'],13.43km,04:15h,700hm,"648 - 1,012m",rating-2,rating-3,51012
+['Sulwald Trail - Isenfluh'],['easy'],['Snowshoe'],2.11km,01:30h,170hm,"1,510 - 1,670m",rating-2,rating-2,93346
+['Zu den Osterglocken auf der Montagne du Droit'],['easy'],['Hiking'],6.79km,02:10h,270hm,"676 - 1,111m",rating-2,rating-2,508319
+['Hohtürli – Blümlisalphütte'],['medium'],['Hiking'],15.58km,07:45h,"1,682hm","1,173 - 2,838m",rating-4,rating-4,110723
+['Grimmifurggi – mit der Natur «auf du und du»'],['medium'],['Hiking'],15.39km,05:45h,"1,100hm","994 - 2,024m",rating-4,rating-4,50428
+['Mühlebach Trail Nr. 4'],['easy'],['Snowshoe'],2.8km,01:10h,170hm,"1,055 - 1,225m",rating-1,rating-1,532162
+['Pflanzenweg Stierebärgli'],['easy'],['Thematic route'],5.12km,01:27h,141hm,"1,814 - 1,939m",rating-,rating-2,733676
+['Schrybershörnli'],['difficult'],['Snowshoe'],5.86km,07:30h,"1,076hm","1,442 - 2,517m",rating-,rating-5,131953
+['Iffighore (2378 m ü. M.)'],['medium'],['Ski tour'],9.82km,02:17h,825hm,"1,207 - 2,376m",rating-,rating-3,940750
+['Von Interlaken über den Rugen nach Wilderswil'],['easy'],['Hiking'],3.21km,00:49h,53hm,563 - 615m,rating-1,rating-1,405259
+['Über lichte Alpweiden zum verträumten Arnesee'],['difficult'],['Hiking'],15.65km,05:15h,900hm,"1,131 - 1,848m",rating-3,rating-5,59952
+['WEN-WIW - Mürren'],[],['Winter hiking'],6.27km,01:44h,167hm,"1,492 - 1,657m",rating-,rating-0,641941
+['Zu uralten Kirchen am Thunersee'],['easy'],['Hiking'],11.12km,03:00h,270hm,557 - 666m,rating-2,rating-2,50211
+['Gällihorn'],['difficult'],['Hiking'],3.69km,01:15h,441hm,"1,887 - 2,283m",rating-5,rating-5,709664
+['First - Klettersteig Schwarzhorn - First'],['medium'],['Via ferrata'],8.28km,06:00h,937hm,"2,079 - 2,929m",rating-,rating-3,131464
+['Veloweg Lenk - Simmenfälle'],['easy'],['Cycling'],9.68km,00:40h,41hm,"1,064 - 1,105m",rating-1,rating-1,1034393
+['WEW-DW - Burglauenen - Spätenalp - Wengen'],[],['Hiking'],8.41km,03:14h,739hm,"894 - 1,575m",rating-,rating-0,552481
+['Gräben und Höhen am Weg nach Schwarzenburg'],['medium'],['Hiking'],14.83km,04:20h,655hm,587 - 863m,rating-2,rating-3,70036
+['Auf dem Ochsen-Rundweg über Morgetegrat und Grenchegalm'],['difficult'],['Hiking'],14.96km,05:30h,"1,210hm","1,389 - 1,949m",rating-4,rating-5,51963
+['Einzelhöfe und Blumenzier am Wanderweg'],['medium'],['Hiking'],10.41km,03:00h,470hm,577 - 921m,rating-2,rating-3,49184
+['Von der Schynige Platte zur First'],['difficult'],['Hiking'],15.91km,06:00h,889hm,"1,915 - 2,641m",rating-,rating-5,10196
+['Viel Emmental in kurzer Zeit'],['medium'],['Hiking'],9.4km,03:00h,420hm,"669 - 1,074m",rating-2,rating-3,48801
+"['Alpine Bike, Etappe 12: Grindelwald - Interlaken']",['medium'],['Mountainbike'],38.46km,04:00h,"1,183hm","567 - 2,061m",rating-2,rating-3,131895
+['Drei-Seen-Weg: Perrefitte - Bellelay'],['medium'],['Pilgrimage'],15.68km,04:51h,717hm,583 - 970m,rating-,rating-3,156784
+['Durch das Schwarzenburgerland'],['medium'],['Hiking'],13.43km,04:15h,700hm,"648 - 1,012m",rating-2,rating-3,51012
+['Viel Aussicht in den Buchsi- und Wynigenbergen'],['medium'],['Hiking'],16.16km,04:40h,606hm,464 - 716m,rating-2,rating-4,49293
+['Wengen - Wengernalp - Kleine Scheidegg'],['medium'],['Hiking'],6.74km,02:45h,785hm,"1,276 - 2,062m",rating-2,rating-3,314647
+['Schlittelweg Mägisalp - Bidmi (Hasliberg)'],['medium'],['Sledge'],3.29km,00:30h,1hm,"1,421 - 1,708m",rating-3,rating-2,97580
+['Grindelwald - Grosse Scheidegg'],['medium'],['Hiking'],8.5km,03:30h,950hm,"1,043 - 1,967m",rating-,rating-4,123934
+['Zum wunderbaren Seebergsee'],['difficult'],['Hiking'],15.51km,06:15h,"1,400hm","788 - 2,065m",rating-4,rating-5,51573
+['Ortsrundgang Interlaken'],['easy'],['Hiking'],4.41km,01:05h,3hm,563 - 570m,rating-1,rating-1,297003
+['Kleine Scheidegg - Alpiglen «Eiger Run» (Nr. 64)'],['medium'],['Sledge'],4.94km,00:30h,-,"1,615 - 2,061m",rating-3,rating-3,536628
+['Von der Ilfis an die Emme: Emmental pur'],['medium'],['Hiking'],11.74km,03:45h,500hm,"669 - 1,115m",rating-2,rating-3,51394
+['Auf dem Lötschberg-Panoramaweg'],['difficult'],['Hiking'],17.33km,05:30h,420hm,"1,093 - 1,564m",rating-3,rating-5,50350
+['«Zum Vreneli ab em Guggisbärg»'],['medium'],['Hiking'],7.58km,02:40h,527hm,"793 - 1,251m",rating-3,rating-3,70039
+['Muerren to Lauterbrunnen'],['easy'],['Hiking'],5.77km,02:40h,-,"803 - 1,653m",rating-2,rating-2,123944
+['Schönried - Rellerli - Hugeli - Grossi Vorschess - Schönried'],['difficult'],['Winter hiking'],9.95km,03:40h,657hm,"1,241 - 1,897m",rating-4,rating-5,943059
+['GFW 42 - Dolomiten im Oberhasli'],['medium'],['Hiking'],7.82km,04:00h,360hm,"1,728 - 2,117m",rating-,rating-4,864934
+['Talwanderung Fankhaus – Trub'],['easy'],['Hiking'],4.45km,01:15h,90hm,797 - 890m,rating-1,rating-1,508341
+['Grindelwald - Gletscherschlucht - Grindelwald Nr. 100'],['easy'],['Hiking'],4.77km,01:20h,132hm,"951 - 1,044m",rating-1,rating-2,991003
+['Die Winter Genuss Runde an der Sonnseite W1'],['medium'],['Trailrunning'],14.11km,02:45h,790hm,"1,543 - 2,275m",rating-4,rating-4,524950
+['Über die Lüderenalp auf den Napf'],['medium'],['Hiking'],11.82km,04:10h,865hm,"1,135 - 1,394m",rating-3,rating-3,49115
+['Zum originellen Freizeitpark am idyllischen Ditligsee'],['easy'],['Hiking'],10.4km,02:50h,250hm,554 - 677m,rating-2,rating-2,1002685
+['Rellerli Loop'],['difficult'],['Mountainbike'],11.56km,02:15h,640hm,"1,222 - 1,861m",rating-3,rating-5,831318
+['Viel Aussicht in den Buchsi- und Wynigenbergen'],['medium'],['Hiking'],16.16km,04:40h,606hm,464 - 716m,rating-2,rating-4,49293
+['Männlichen - Alpiglen | Romantikweg'],['medium'],['Hiking'],7.44km,02:50h,608hm,"1,616 - 2,223m",rating-2,rating-3,314650
+['Mediterranes Flair über dem Bielersee'],['easy'],['Hiking'],12.8km,03:30h,200hm,433 - 589m,rating-2,rating-2,526863
+['SNOOC - Apollo-Schlittenfahren (Mürren)'],['easy'],['Sledge'],5.67km,00:52h,271hm,"1,638 - 2,123m",rating-2,rating-2,978195
+['Uferwegerlebnis Brienzersee'],['easy'],['Hiking'],7.26km,02:00h,140hm,564 - 620m,rating-2,rating-2,508324
+['Route Tramelan – Le Bémont'],['medium'],['Hiking'],12.97km,03:32h,330hm,"894 - 1,051m",rating-3,rating-3,63072
+['Wandern am Wasser - Bielersee'],['medium'],['Hiking'],14.25km,03:30h,30hm,429 - 457m,rating-2,rating-3,174600
+['Über Stock und Stein auf die Fritzeflue'],['medium'],['Hiking'],12.86km,04:00h,500hm,"698 - 1,023m",rating-3,rating-3,57019
+['Schnitzlerweg'],['easy'],['Thematic route'],2.68km,01:00h,85hm,"1,515 - 1,620m",rating-,rating-2,133944
+['Bikeroute Nr. 11 Adelboden - Tschentenalp'],['medium'],['Mountainbike'],16.89km,01:30h,829hm,"1,263 - 1,940m",rating-4,rating-3,133092
+['First - Bachalpsee - Faulhorn - Bussalp (Nr. 50)'],['difficult'],['Winter hiking'],10.13km,04:00h,558hm,"1,797 - 2,678m",rating-3,rating-5,131891
+['Hoch über dem Thunersee: Thun - Interlaken'],['medium'],['Hiking'],28.48km,08:00h,691hm,557 - 795m,rating-1,rating-4,133919
+['Emmentaler Käseroute - 1-Tagestour'],['easy'],['Cycling'],34.78km,02:45h,521hm,533 - 853m,rating-1,rating-2,1013215
+['Horneggli - Hornberg - Rinderberg'],['easy'],['Hiking'],5.81km,02:30h,345hm,"1,771 - 2,078m",rating-2,rating-2,337168
+['Grosse Scheidegg'],['medium'],['Snowshoe'],8.55km,03:15h,557hm,"1,442 - 2,006m",rating-,rating-3,131812
+"['Vom Jaunpass nach Boltigen - Blumen, Kräuter und Alpkäse']",['medium'],['Hiking'],12.75km,04:00h,340hm,"816 - 1,700m",rating-3,rating-3,48832
+['Hüttentrekking Mürren-Kandersteg (Hintere Gasse) (11h)'],['medium'],['Hiking'],27.25km,11:07h,"2,298hm","1,582 - 2,833m",rating-4,rating-0,324667
+['WEN-DW - First - Bachalpsee - Fernandeshitta - Bussalp'],['easy'],['Hiking'],9.29km,03:12h,325hm,"1,796 - 2,404m",rating-,rating-2,563583
+['Gstaad - Oberbort - Turbach - Türli - Lauenen'],['difficult'],['Hiking'],17.82km,05:45h,939hm,"1,049 - 1,988m",rating-3,rating-6,131612
+"['Alpine Bike, Etappe 11: Meiringen - Grindelwald']",['medium'],['Mountainbike'],28.61km,03:30h,"1,426hm","595 - 2,006m",rating-1,rating-3,131897
+['Allmenalp Klettersteig - Kandersteg'],['difficult'],['Via ferrata'],1.42km,03:30h,533hm,"1,187 - 1,720m",rating-,rating-3,76710
+['Kleine Scheidegg - Wengen (Nr. 66)'],['medium'],['Winter hiking'],6.9km,02:30h,-,"1,274 - 2,062m",rating-1,rating-3,526953
+['Schlittelspass Leiterli – Stoss'],['easy'],['Sledge'],2.52km,00:09h,2hm,"1,637 - 1,962m",rating-2,rating-2,286179
+['Der schönste Blick auf das Lauterbrunnental'],['medium'],['Winter hiking'],5.79km,02:15h,300hm,"1,253 - 1,542m",rating-4,rating-4,59116
+"['Silleren - Hahnenmoos, ein Wanderparadies']",['medium'],['Hiking'],14.11km,04:45h,650hm,"1,262 - 2,078m",rating-3,rating-4,50390
+['Die Aussicht lohnt den Aufstieg'],['difficult'],['Hiking'],9.98km,05:40h,"1,500hm","579 - 1,735m",rating-5,rating-4,58273
+['Auf dem Panorama-Höhenweg Stockhorn–Gantrisch'],['medium'],['Hiking'],11.26km,04:00h,800hm,"1,579 - 2,142m",rating-4,rating-4,50184
+['Aellfluh-Runde Nr. 3'],['medium'],['Trailrunning'],8.26km,01:51h,552hm,"1,039 - 1,590m",rating-2,rating-3,309480
+['Zu den Steinböcken am Augstmatthorn'],['difficult'],['Hiking'],16.23km,06:30h,"1,113hm","1,040 - 2,135m",rating-4,rating-5,49273
+['Höhenwanderung über den Längenberg'],['medium'],['Hiking'],18.03km,05:00h,558hm,549 - 857m,rating-2,rating-4,49422
+"['AlpnessTrail Etappe 12, Grubenberg – Jaunpass']",['medium'],['long-distance walking trail'],12.47km,04:00h,411hm,"1,210 - 1,839m",rating-4,rating-4,1003289
+['Das Drama in der Kirche von Kirchdorf'],['easy'],['Hiking'],6.95km,01:50h,10hm,546 - 646m,rating-2,rating-1,167117
+['Zu James Bonds Piz Gloria'],['difficult'],['Hiking'],9.46km,05:30h,"1,443hm","1,636 - 2,934m",rating-5,rating-5,49181
+['Bütschelegg – immer eine Wanderung wert'],['easy'],['Hiking'],8.72km,02:25h,300hm,"764 - 1,055m",rating-2,rating-2,508316
+['Route Gurnigel – Wattenwil'],['medium'],['Hiking'],11.57km,03:24h,16hm,"594 - 1,596m",rating-3,rating-3,63186
+['Trailsummit Rotstock T5'],['difficult'],['Trailrunning'],13.15km,03:29h,"1,802hm","977 - 2,663m",rating-4,rating-5,309955
+['Wengen - Allmend - Mettlenalp - Biglenalp - Wengernalp'],['medium'],['Hiking'],6.99km,02:24h,609hm,"1,275 - 1,884m",rating-2,rating-3,131462
+['Auf der alten Poststrasse vom Langete-Tal ins Lueg-Gebiet'],['medium'],['Hiking'],12.7km,03:30h,539hm,556 - 815m,rating-2,rating-3,49313
+['Rund um Bern - am Gäbelbach & Wohlensee'],['easy'],['Hiking'],12.57km,03:20h,260hm,481 - 585m,rating-2,rating-2,917866
+['Wo die Eislawinen von der Jungfrau niederdonnern'],['medium'],['Hiking'],9.35km,03:10h,239hm,"1,206 - 1,890m",rating-3,rating-2,49225
+['Über Alpweiden am Fuss des Hohgant'],['medium'],['Hiking'],12km,04:10h,759hm,"982 - 1,455m",rating-2,rating-4,49191
+['Iffighore (2378 m ü. M.)'],['medium'],['Ski tour'],9.82km,02:17h,825hm,"1,207 - 2,376m",rating-,rating-3,940750
+['Schonegg'],['difficult'],['Snowshoe'],11.59km,08:30h,"1,281hm","988 - 2,219m",rating-,rating-6,131957
+['Rundwanderweg Spiez'],['medium'],['Hiking'],14.71km,04:15h,320hm,558 - 790m,rating-1,rating-3,133920
+['Lenk - Schadauli - Reka - Lenk'],['easy'],['Winter hiking'],5.34km,01:20h,62hm,"1,028 - 1,088m",rating-1,rating-2,908578
+['Nods Trail - Nods'],['medium'],['Snowshoe'],6.19km,02:40h,310hm,"929 - 1,273m",rating-3,rating-3,49952
+"['Alpenblumenweg Leiterli, Betelberg']",['easy'],['Thematic route'],1.38km,00:26h,55hm,"1,946 - 2,001m",rating-,rating-2,340189
+['Gipfeltour: Suld-Rengglipass-Morgenberghorn-Brunni-Suld'],['difficult'],['Hiking'],9.38km,07:00h,"1,134hm","1,084 - 2,212m",rating-4,rating-5,1000790
+['Hügelwanderung über den Rämsigummen'],['medium'],['Hiking'],14.5km,04:40h,690hm,"729 - 1,300m",rating-3,rating-4,56854
+['Montagne du Droit - Erlebnis Sonnen(energie)berg'],['medium'],['Hiking'],14.26km,03:45h,290hm,"887 - 1,290m",rating-2,rating-3,162745
+['WEN-DW - First - Bachalpsee - Fernandeshitta - Bussalp'],['easy'],['Hiking'],9.29km,03:12h,325hm,"1,796 - 2,404m",rating-,rating-2,563583
+['First - Bachalpsee - First'],['easy'],['Hiking'],5.88km,01:48h,188hm,"2,164 - 2,280m",rating-1,rating-2,306710
+['Pure Natur'],['medium'],['Cycling'],31.53km,02:50h,617hm,416 - 903m,rating-2,rating-3,682833
+['Auf den Spuren von Emmentaler Dichtern'],['easy'],['Hiking'],9.17km,02:20h,140hm,582 - 838m,rating-1,rating-2,508355
+['Von Grindelwald First zum Bachsee'],['easy'],['Hiking'],6.23km,02:00h,192hm,"2,164 - 2,280m",rating-2,rating-2,270365
+['Grimselpass'],['medium'],['Racing'],38.59km,02:48h,"1,541hm","626 - 2,164m",rating-2,rating-4,374711
+['Best of Bernese Oberland  by Private Selection Tours'],['medium'],['Cycling'],142.27km,14:00h,"2,730hm","557 - 2,062m",rating-3,rating-4,303365
+['Grindelwald - Weidli - Abbachfall - Weidli Nr. 104'],['easy'],['Hiking'],2.79km,00:55h,230hm,"1,028 - 1,257m",rating-2,rating-2,991007
+['Bergerlebnis Bunderchrinde'],['difficult'],['Hiking'],15.73km,06:30h,"1,300hm","1,174 - 2,386m",rating-5,rating-5,50392
+['«Panoramaweg» Männlichen - Kleine Scheidegg Nr. 33'],['easy'],['Hiking'],4.63km,01:14h,-,"2,061 - 2,222m",rating-2,rating-2,131907
+['Von Turbach via Giferspitz nach Wasserngrat'],['difficult'],['Hiking'],10.5km,05:15h,"1,500hm","1,330 - 2,541m",rating-4,rating-5,597407
+['WEN-WIW - Mürren'],[],['Winter hiking'],6.27km,01:44h,167hm,"1,492 - 1,657m",rating-,rating-0,641941
+['Lauenen - Tossenstand (1917 M.ü.M)'],['medium'],['Ski tour'],3.39km,01:45h,680hm,"1,237 - 1,917m",rating-3,rating-3,911345
+['Rüeggers Trail (Sigriswil)'],['easy'],['Snowshoe'],4.98km,02:45h,260hm,"1,078 - 1,326m",rating-2,rating-2,93350
+['Männlichen - Kleine Scheidegg | Panoramaweg'],['easy'],['Hiking'],4.43km,01:16h,-,"2,061 - 2,222m",rating-1,rating-2,315062
+['First - Schreckfeld - Bort (Nr. 53/55)'],['medium'],['Sledge'],4.61km,00:20h,3hm,"1,560 - 2,166m",rating-3,rating-2,518270
+['Hinteres Lauterbrunnental'],['medium'],['Hiking'],15.87km,07:15h,"1,345hm","909 - 2,146m",rating-4,rating-4,110613
+['Burgenweg Zweisimmen (Rundwanderung)'],['easy'],['Thematic route'],6.85km,02:00h,147hm,"918 - 1,007m",rating-2,rating-2,131683
+['Bussalp - Rasthysi - Bort (Nr. 56)'],['medium'],['Winter hiking'],6.82km,02:00h,141hm,"1,552 - 1,799m",rating-3,rating-3,289450
+['Trachselwald'],['easy'],['Hiking'],15.29km,04:00h,477hm,582 - 780m,rating-2,rating-2,110805
+['Lauenen - Arpelistock (3036 M.ü.M)'],['difficult'],['Ski tour'],11.43km,04:50h,"1,822hm","1,238 - 3,036m",rating-5,rating-5,917930
+['Veloweg Zweisimmen - Spiez'],['easy'],['Cycling'],39.35km,02:55h,218hm,564 - 940m,rating-1,rating-2,707149
+['Winterwanderweg Leiterli - Stoss'],['easy'],['Winter hiking'],2.97km,01:00h,7hm,"1,633 - 1,942m",rating-2,rating-2,432085
+['«Eiger Trail» Eigergletscher - Alpiglen Nr. 36'],['medium'],['Hiking'],6.14km,02:05h,78hm,"1,615 - 2,346m",rating-2,rating-3,131887
+['Durch Felder und Wälder am Bucheggberg'],['medium'],['Hiking'],18.25km,04:30h,409hm,445 - 576m,rating-2,rating-4,49854
+['Auf dem alten Schwefelbergweg'],['medium'],['Hiking'],10.78km,03:40h,857hm,"894 - 1,586m",rating-2,rating-3,49425
+['Zu einem der schönsten Amtssitze im Kanton Bern'],['easy'],['Hiking'],10.18km,02:25h,150hm,533 - 784m,rating-1,rating-2,50214
+['SNOOC - Schlittenbahn Saanersloch'],['easy'],['Sledge'],4.11km,00:12h,-,"1,273 - 1,940m",rating-2,rating-2,979140
+['Globi-Bergweg Engstligenalp'],['medium'],['Thematic route'],4.87km,02:00h,100hm,"1,937 - 2,011m",rating-3,rating-2,505584
+['Schneezauber im Saanenland'],['medium'],['Winter hiking'],7.15km,02:10h,159hm,"1,052 - 1,347m",rating-2,rating-3,49026
+['Simmentaler Hausweg (Terrassenweg)'],['difficult'],['Thematic route'],20.21km,06:00h,"1,100hm","682 - 1,059m",rating-3,rating-5,58844
+['Auf den Berg der Berge (Niesen)'],['difficult'],['Hiking'],11.06km,05:25h,"1,780hm","669 - 2,332m",rating-4,rating-5,58127
+['Bütschelegg - Weitsichten im Süden von Bern'],['medium'],['Hiking'],11.95km,03:15h,370hm,"742 - 1,055m",rating-2,rating-3,388152
+['Nachtschlittel-Highlight Bussalp (Nr. 57)'],['medium'],['Sledge'],5.38km,00:30h,-,"1,241 - 1,801m",rating-3,rating-2,522368
+"['Rund um den Thunersee, Därligen - Spiez']",['medium'],['Hiking'],16.54km,05:15h,500hm,"558 - 1,067m",rating-2,rating-4,159622
+['WEN-HDW - Rundweg Sud'],['medium'],['Hiking'],6.67km,02:18h,267hm,"1,222 - 1,485m",rating-2,rating-3,109622
+['Rund um Bern - rund um den Moossee'],['easy'],['Hiking'],6.47km,01:40h,90hm,521 - 571m,rating-1,rating-2,508339
+['Veloweg Lenk - Simmenfälle'],['easy'],['Cycling'],9.68km,00:40h,41hm,"1,064 - 1,105m",rating-1,rating-1,1034393
+['Hängebrückentour Sigriswil'],['easy'],['Cycling'],12.85km,01:23h,280hm,558 - 798m,rating-1,rating-2,133922
+['Zu Gast im Berner Jura'],['medium'],['Hiking'],12.63km,04:30h,859hm,"529 - 1,293m",rating-2,rating-4,130679
+['Zur weiten Alpensicht'],['medium'],['Hiking'],12.51km,03:45h,659hm,"677 - 1,104m",rating-2,rating-3,49183
+['Grimselpass'],['medium'],['Racing'],38.59km,02:48h,"1,541hm","626 - 2,164m",rating-2,rating-4,374711
+['Golitschenpass'],['difficult'],['Hiking'],12.05km,05:30h,"1,008hm","1,080 - 2,179m",rating-5,rating-5,709676
+['Der Talweg im Diemtigtal - Ein Erlebnis'],['medium'],['Hiking'],15.85km,04:30h,900hm,"670 - 1,227m",rating-2,rating-4,58128
+['Unesco-Themenweg: First - Grosse Scheidegg - Oberer Lauchbühl U1'],[],['Thematic route'],8.93km,02:40h,156hm,"1,756 - 2,181m",rating-,rating-0,1000662
+['Rüwlispass – grüne Verbindung ins Saanenland'],['medium'],['Hiking'],14.2km,04:50h,850hm,"989 - 1,719m",rating-3,rating-4,50429
+['Panoramaweg Kleine Scheidegg'],[],['Hiking'],11.96km,03:29h,12hm,"1,282 - 2,238m",rating-,rating-0,358900
+['Drei-Seen-Weg: Biel - La Neuveville'],['medium'],['Pilgrimage'],15.99km,04:25h,192hm,432 - 531m,rating-,rating-3,156781
+['Eiger Ultra Trail E16 – Genuss Trail Nr. 11'],['easy'],['Trailrunning'],16.76km,03:20h,753hm,"1,034 - 1,646m",rating-2,rating-2,183325
+['Vom Schattenhang zur alpinen Sonnenterrasse'],['medium'],['Hiking'],9.33km,04:00h,"1,000hm","893 - 1,609m",rating-3,rating-4,70033
+['Lauenen - Chrinepass - Wispile'],['difficult'],['Snowshoe'],7.64km,04:00h,719hm,"1,238 - 1,938m",rating-5,rating-5,131734
+['Winterwanderweg Wiriehorn'],['easy'],['Winter hiking'],6.26km,02:15h,5hm,"984 - 1,417m",rating-2,rating-2,132567
+['«Eiger Trail» Eigergletscher - Alpiglen Nr. 36'],['medium'],['Hiking'],6.14km,02:05h,78hm,"1,615 - 2,346m",rating-2,rating-3,131887
+['Felsenburg-Blausee'],['easy'],['Hiking'],7.75km,02:15h,35hm,"889 - 1,206m",rating-2,rating-2,744926
+['Wengen - In Gassen - Männlichen'],['medium'],['Hiking'],5.99km,02:40h,950hm,"1,275 - 2,224m",rating-2,rating-3,315538
+['Heiteres Auf und Ab im Kiental'],['medium'],['Hiking'],8.71km,03:00h,540hm,"1,201 - 1,511m",rating-3,rating-2,508336
+['Aus Berns Kornkammer ins Önz-Tal'],['medium'],['Hiking'],15.07km,03:40h,347hm,473 - 603m,rating-2,rating-3,49122
+['Bütschelegg - Weitsichten im Süden von Bern'],['medium'],['Hiking'],11.95km,03:15h,370hm,"742 - 1,055m",rating-2,rating-3,388152
+['Über die Falkenfluh'],['medium'],['Hiking'],13.26km,04:00h,420hm,"605 - 1,197m",rating-3,rating-3,276266
+['Grütschalp - Winteregg - Mürren (1h30)'],['easy'],['Hiking'],4.44km,01:30h,150hm,"1,490 - 1,650m",rating-1,rating-2,749188
+['Panoramaweg mit Gletschersicht'],['medium'],['Hiking'],5.59km,01:35h,181hm,"1,954 - 2,163m",rating-3,rating-2,48960
+['Feutersoey - Tuxberg - Schneeweid - Hindere Walig'],['easy'],['Snowshoe'],3.99km,02:05h,577hm,"1,130 - 1,706m",rating-2,rating-2,944240
+['Geopfad Wiriehorn'],['medium'],['Thematic route'],9.19km,03:30h,622hm,"1,410 - 2,032m",rating-2,rating-3,296988
+['Winterwanderweg Chrindi - Oberbärgli - Chrindi (Stockhorn)'],['medium'],['Winter hiking'],2.76km,01:10h,200hm,"1,616 - 1,787m",rating-2,rating-3,97940
+['Das Guggershorn – ein klassisches Ausflugsziel'],['medium'],['Hiking'],5.09km,02:00h,400hm,"959 - 1,295m",rating-3,rating-2,508350
+['Blick über die Wipfel hinweg zu den Gipfeln'],['easy'],['Hiking'],8.93km,02:30h,340hm,531 - 782m,rating-2,rating-2,48804
+['Käseweg'],['easy'],['Hiking'],2km,00:30h,310hm,"1,573 - 1,891m",rating-1,rating-1,3367
+['Karrenfelder und Tümpel'],['medium'],['Hiking'],14.25km,05:10h,950hm,"1,116 - 1,871m",rating-4,rating-4,62314
+['Höhenwanderung über den Churzenberg'],['medium'],['Hiking'],14.56km,04:45h,630hm,"605 - 1,190m",rating-2,rating-4,49186
+['Herzschlaufe Burgdorf West #899'],['medium'],['Cycling'],42.89km,03:25h,646hm,536 - 935m,rating-1,rating-3,1002736
+['Strandweg Spiez-Faulensee'],['easy'],['Hiking'],2.33km,00:40h,2hm,558 - 564m,rating-1,rating-1,1025098
+['WEN-DW - Marmottenwandeling met GrindelwaldBus'],['easy'],['Hiking'],13.46km,04:19h,422hm,"1,560 - 2,280m",rating-,rating-2,573676
+['Höhenwanderung rund um den Liechtguetgraben'],['medium'],['Hiking'],7.97km,02:35h,430hm,"747 - 1,033m",rating-2,rating-3,48806
+['Durch Auenwälder zu einem imposanten Schloss'],['easy'],['Hiking'],10.43km,02:30h,110hm,482 - 694m,rating-2,rating-2,48769
+['Aarwangen - Solothurn'],['easy'],['Cycling'],21.76km,01:30h,50hm,415 - 444m,rating-1,rating-1,1042429
+['Gletscherpracht und Eigernordwand zwischen First und Bort'],['medium'],['Winter hiking'],8.66km,03:20h,180hm,"1,560 - 2,276m",rating-4,rating-4,51346
+['Wengen - Allmend - Mettlenalp - Biglenalp - Wengernalp'],['medium'],['Hiking'],6.99km,02:24h,609hm,"1,275 - 1,884m",rating-2,rating-3,131462
+['Niederhorn - Wanderung mit traumhaften Aussichten'],['medium'],['Hiking'],5.09km,02:10h,5hm,"1,165 - 1,940m",rating-3,rating-2,114230
+['Geopfad Wiriehorn'],['medium'],['Thematic route'],9.19km,03:30h,622hm,"1,410 - 2,032m",rating-2,rating-3,296988
+['Auf dem Eiger Trail nach Grindelwald'],[],['Hiking'],13.74km,08:35h,243hm,"1,003 - 2,341m",rating-,rating-0,358910
+['Bellelay Trail (Sur Montbautier)'],['medium'],['Snowshoe'],9.05km,03:20h,260hm,"924 - 1,159m",rating-3,rating-3,49855
+['Bussalp - Bort Nr. 13'],['medium'],['Hiking'],7.44km,02:10h,135hm,"1,543 - 1,803m",rating-2,rating-3,131885
+['Flussidyllen und Kulturschätze'],['easy'],['Hiking'],7.5km,01:50h,70hm,400 - 437m,rating-1,rating-2,49037
+['Grimmialp-Rundweg'],['easy'],['Winter hiking'],3.83km,01:30h,100hm,"1,163 - 1,236m",rating-2,rating-1,49169
+['Einzelhöfe und Blumenzier am Wanderweg'],['medium'],['Hiking'],10.41km,03:00h,470hm,577 - 921m,rating-2,rating-3,49184
+['Der Suze entlang durch das Vallon de St-Imier'],['medium'],['Hiking'],16.26km,04:00h,213hm,650 - 809m,rating-2,rating-3,49280
+['Trailsummit Rotstock T5'],['difficult'],['Trailrunning'],13.15km,03:29h,"1,802hm","977 - 2,663m",rating-4,rating-5,309955
+['Goldtoni - Alpenbogen A048 Trübsee-Meiringen'],['medium'],['long-distance walking trail'],34.2km,10:44h,"1,858hm","608 - 2,650m",rating-3,rating-3,215754
+['Entlang des Ober Frittenbachgrabens'],['medium'],['Hiking'],10.15km,03:45h,697hm,"675 - 1,188m",rating-2,rating-4,51530
+['Grindelwald - Abbachfall - Bussalp'],['medium'],['Hiking'],5.66km,02:27h,774hm,"1,028 - 1,801m",rating-2,rating-3,131467
+['Brienz-Planalp'],['easy'],['Hiking'],6.25km,02:42h,832hm,"567 - 1,398m",rating-1,rating-2,293157
+['Leiterhorn Trail'],['easy'],['Snowshoe'],5.17km,01:30h,262hm,"1,275 - 1,523m",rating-,rating-2,131875
+['Sherlock Holmes'],['easy'],['Hiking'],6.46km,02:30h,200hm,595 - 975m,rating-2,rating-2,276172
+['Sommerwanderung am Brienzersee'],['medium'],['Hiking'],7.98km,02:50h,110hm,"563 - 1,062m",rating-3,rating-2,109937
+['Aellfluh-Runde Nr. 3'],['medium'],['Trailrunning'],8.26km,01:51h,552hm,"1,039 - 1,590m",rating-2,rating-3,309480
+['Wispile - Chrine - Gsteig'],['easy'],['Hiking'],8.89km,02:45h,21hm,"1,171 - 1,916m",rating-2,rating-2,131611
+['Walk to Grindelwald'],['difficult'],['Hiking'],27.76km,08:00h,"1,676hm","600 - 1,962m",rating-2,rating-5,219503
+['Zum wunderbaren Seebergsee'],['difficult'],['Hiking'],15.51km,06:15h,"1,400hm","788 - 2,065m",rating-4,rating-5,51573
+['Wengen - Allmend - Mettlenalp - Biglenalp - Wengernalp'],['medium'],['Hiking'],6.99km,02:24h,609hm,"1,275 - 1,884m",rating-2,rating-3,131462
+['Durch den Forst ins wehrhafte Laupen'],['easy'],['Hiking'],12.92km,03:15h,307hm,489 - 686m,rating-1,rating-2,49260
+['WEN-WEX - Schwarzwaldalp - Rosenlaui'],['easy'],['Hiking'],8.03km,02:34h,331hm,"1,302 - 1,537m",rating-,rating-2,563593
+['Der Moron – ein Höhepunkt im dreifachen Sinn'],['medium'],['Hiking'],17.94km,05:10h,670hm,"525 - 1,329m",rating-2,rating-4,162747
+['Schlittelweg Tschentenalp - Adelboden'],['medium'],['Sledge'],6.46km,01:10h,1hm,"1,350 - 1,941m",rating-2,rating-3,97598
+['Lauenensee Rundwanderung'],['easy'],['Hiking'],3.1km,00:45h,23hm,"1,377 - 1,401m",rating-1,rating-2,131619
+['WEN-WIW  - Hunnenfluh - Leiterhorn'],[],['Winter hiking'],4.14km,01:30h,271hm,"1,254 - 1,525m",rating-,rating-0,518298
+['Sparenmoos - Site Alp - Sparenmoos'],['easy'],['Winter hiking'],2.95km,01:00h,116hm,"1,571 - 1,660m",rating-,rating-2,532165
+['Zum Alpengarten auf der Schynigen Platte'],['medium'],['Hiking'],7.37km,04:10h,"1,350hm","651 - 1,975m",rating-3,rating-4,51214
+['Höhenwanderung im Angesicht des Wetterhorns'],['easy'],['Hiking'],5.4km,01:40h,74hm,"1,934 - 2,166m",rating-2,rating-1,162912
+['Wistätthore (2362 m ü. M.)'],['medium'],['Ski tour'],15.17km,04:05h,"1,366hm","993 - 2,359m",rating-1,rating-4,940747
+['Grindelwald - Bort Nr. 15'],['easy'],['Hiking'],3.66km,01:15h,529hm,"1,034 - 1,561m",rating-2,rating-2,593367
+['First - Schwarzhorn - First'],['medium'],['Hiking'],8.26km,05:45h,935hm,"2,079 - 2,927m",rating-4,rating-4,131469
+['Liebliche Hügellandschaft Mänziwilegg'],['medium'],['Hiking'],11.82km,03:35h,410hm,582 - 934m,rating-2,rating-3,289470
+['Heuberg Oeschinensee'],['medium'],['Hiking'],8.1km,03:00h,453hm,"1,583 - 1,987m",rating-4,rating-4,709666
