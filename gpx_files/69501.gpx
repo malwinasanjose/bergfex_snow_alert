@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-02-12T02:21:14.907Z</time>
+    <bounds minlat="47.127167000" minlon="7.045672000" maxlat="47.133362000" maxlon="7.060827000"/>
+  </metadata>
+  <trk>
+    <name>Lehrpfad zum Chasseralgrat</name>
+    <trkseg>
+      <trkpt lat="47.133362000" lon="7.060827000">
+        <ele>1569.000000</ele>
+      </trkpt>
+      <trkpt lat="47.133144000" lon="7.059864000">
+        <ele>1583.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132992000" lon="7.059674000">
+        <ele>1583.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132969000" lon="7.059061000">
+        <ele>1575.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132526000" lon="7.057129000">
+        <ele>1574.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132492000" lon="7.056662000">
+        <ele>1578.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132317000" lon="7.056076000">
+        <ele>1577.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132317000" lon="7.055321000">
+        <ele>1572.000000</ele>
+      </trkpt>
+      <trkpt lat="47.132076000" lon="7.054546000">
+        <ele>1572.000000</ele>
+      </trkpt>
+      <trkpt lat="47.131203000" lon="7.052436000">
+        <ele>1567.000000</ele>
+      </trkpt>
+      <trkpt lat="47.131046000" lon="7.051893000">
+        <ele>1557.000000</ele>
+      </trkpt>
+      <trkpt lat="47.130913000" lon="7.051617000">
+        <ele>1555.000000</ele>
+      </trkpt>
+      <trkpt lat="47.130657000" lon="7.051490000">
+        <ele>1561.000000</ele>
+      </trkpt>
+      <trkpt lat="47.130547000" lon="7.051316000">
+        <ele>1561.000000</ele>
+      </trkpt>
+      <trkpt lat="47.130093000" lon="7.050409000">
+        <ele>1559.000000</ele>
+      </trkpt>
+      <trkpt lat="47.130116000" lon="7.050221000">
+        <ele>1556.000000</ele>
+      </trkpt>
+      <trkpt lat="47.128540000" lon="7.047313000">
+        <ele>1533.000000</ele>
+      </trkpt>
+      <trkpt lat="47.127167000" lon="7.045672000">
+        <ele>1538.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

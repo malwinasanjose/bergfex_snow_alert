@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-03-25T10:34:16.658Z</time>
+    <bounds minlat="47.373589000" minlon="7.700150000" maxlat="47.376694000" maxlon="7.721795000"/>
+  </metadata>
+  <trk>
+    <name>Wandern mit Kinderwagen</name>
+    <trkseg>
+      <trkpt lat="47.373589000" lon="7.700150000">
+        <ele>929.000000</ele>
+      </trkpt>
+      <trkpt lat="47.373737000" lon="7.700366000">
+        <ele>932.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374126000" lon="7.700641000">
+        <ele>934.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374432000" lon="7.700547000">
+        <ele>928.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374573000" lon="7.700583000">
+        <ele>926.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374912000" lon="7.701806000">
+        <ele>940.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375179000" lon="7.702207000">
+        <ele>944.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375080000" lon="7.702364000">
+        <ele>952.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374905000" lon="7.702350000">
+        <ele>948.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374611000" lon="7.702062000">
+        <ele>946.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374538000" lon="7.702019000">
+        <ele>950.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374470000" lon="7.702074000">
+        <ele>953.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374542000" lon="7.702742000">
+        <ele>964.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374832000" lon="7.703242000">
+        <ele>971.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375107000" lon="7.703538000">
+        <ele>972.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375599000" lon="7.704280000">
+        <ele>972.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375797000" lon="7.704930000">
+        <ele>974.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375572000" lon="7.707491000">
+        <ele>981.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375172000" lon="7.709407000">
+        <ele>1007.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375202000" lon="7.710574000">
+        <ele>1017.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374706000" lon="7.713368000">
+        <ele>1039.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374676000" lon="7.713828000">
+        <ele>1041.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374760000" lon="7.714800000">
+        <ele>1043.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375156000" lon="7.716148000">
+        <ele>1042.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375217000" lon="7.716821000">
+        <ele>1040.000000</ele>
+      </trkpt>
+      <trkpt lat="47.375187000" lon="7.717271000">
+        <ele>1035.000000</ele>
+      </trkpt>
+      <trkpt lat="47.374859000" lon="7.717898000">
+        <ele>1028.000000</ele>
+      </trkpt>
+      <trkpt lat="47.376446000" lon="7.720885000">
+        <ele>1022.000000</ele>
+      </trkpt>
+      <trkpt lat="47.376694000" lon="7.721795000">
+        <ele>1020.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2020-10-19T03:50:23.723Z</time>
+    <bounds minlat="47.208336000" minlon="8.367327000" maxlat="47.211391000" maxlon="8.374412000"/>
+  </metadata>
+  <trk>
+    <name>Der Weg der Heiligen Bernarda in Auw</name>
+    <trkseg>
+      <trkpt lat="47.210033000" lon="8.367327000">
+        <ele>484.000000</ele>
+        <time>2012-05-01T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="47.210350000" lon="8.367331000">
+        <ele>484.000000</ele>
+        <time>2012-05-01T08:00:33Z</time>
+      </trkpt>
+      <trkpt lat="47.210274000" lon="8.367940000">
+        <ele>482.000000</ele>
+        <time>2012-05-01T08:01:06Z</time>
+      </trkpt>
+      <trkpt lat="47.210976000" lon="8.367973000">
+        <ele>481.000000</ele>
+        <time>2012-05-01T08:01:39Z</time>
+      </trkpt>
+      <trkpt lat="47.211246000" lon="8.368563000">
+        <ele>479.000000</ele>
+        <time>2012-05-01T08:02:12Z</time>
+      </trkpt>
+      <trkpt lat="47.211391000" lon="8.368629000">
+        <ele>480.000000</ele>
+        <time>2012-05-01T08:02:45Z</time>
+      </trkpt>
+      <trkpt lat="47.211231000" lon="8.371391000">
+        <ele>482.000000</ele>
+        <time>2012-05-01T08:03:18Z</time>
+      </trkpt>
+      <trkpt lat="47.210831000" lon="8.371318000">
+        <ele>483.000000</ele>
+        <time>2012-05-01T08:03:51Z</time>
+      </trkpt>
+      <trkpt lat="47.210617000" lon="8.371364000">
+        <ele>483.000000</ele>
+        <time>2012-05-01T08:04:24Z</time>
+      </trkpt>
+      <trkpt lat="47.211102000" lon="8.373435000">
+        <ele>489.000000</ele>
+        <time>2012-05-01T08:04:57Z</time>
+      </trkpt>
+      <trkpt lat="47.210899000" lon="8.373758000">
+        <ele>489.000000</ele>
+        <time>2012-05-01T08:05:30Z</time>
+      </trkpt>
+      <trkpt lat="47.209839000" lon="8.374226000">
+        <ele>490.000000</ele>
+        <time>2012-05-01T08:06:03Z</time>
+      </trkpt>
+      <trkpt lat="47.208523000" lon="8.374412000">
+        <ele>486.000000</ele>
+        <time>2012-05-01T08:06:36Z</time>
+      </trkpt>
+      <trkpt lat="47.208336000" lon="8.373289000">
+        <ele>486.000000</ele>
+        <time>2012-05-01T08:07:09Z</time>
+      </trkpt>
+      <trkpt lat="47.208851000" lon="8.371290000">
+        <ele>483.000000</ele>
+        <time>2012-05-01T08:07:42Z</time>
+      </trkpt>
+      <trkpt lat="47.209496000" lon="8.369608000">
+        <ele>481.000000</ele>
+        <time>2012-05-01T08:08:15Z</time>
+      </trkpt>
+      <trkpt lat="47.209694000" lon="8.369372000">
+        <ele>481.000000</ele>
+        <time>2012-05-01T08:08:48Z</time>
+      </trkpt>
+      <trkpt lat="47.210186000" lon="8.369065000">
+        <ele>480.000000</ele>
+        <time>2012-05-01T08:09:21Z</time>
+      </trkpt>
+      <trkpt lat="47.210110000" lon="8.368589000">
+        <ele>481.000000</ele>
+        <time>2012-05-01T08:09:54Z</time>
+      </trkpt>
+      <trkpt lat="47.210274000" lon="8.367939000">
+        <ele>482.000000</ele>
+        <time>2012-05-01T08:10:27Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

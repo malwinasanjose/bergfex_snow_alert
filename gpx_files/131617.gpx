@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-03-24T07:09:43.154Z</time>
+    <bounds minlat="46.550312000" minlon="7.320786000" maxlat="46.556492000" maxlon="7.328475000"/>
+  </metadata>
+  <trk>
+    <name>Wildweg Sparenmoos (Rundwanderung)</name>
+    <trkseg>
+      <trkpt lat="46.551697000" lon="7.328475000">
+        <ele>1698.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552151000" lon="7.328181000">
+        <ele>1696.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552483000" lon="7.327867000">
+        <ele>1696.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552761000" lon="7.327475000">
+        <ele>1697.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552956000" lon="7.326992000">
+        <ele>1697.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553280000" lon="7.326627000">
+        <ele>1700.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553722000" lon="7.326274000">
+        <ele>1703.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554432000" lon="7.325881000">
+        <ele>1710.000000</ele>
+      </trkpt>
+      <trkpt lat="46.556320000" lon="7.325369000">
+        <ele>1683.000000</ele>
+      </trkpt>
+      <trkpt lat="46.556492000" lon="7.325094000">
+        <ele>1683.000000</ele>
+      </trkpt>
+      <trkpt lat="46.556473000" lon="7.324690000">
+        <ele>1681.000000</ele>
+      </trkpt>
+      <trkpt lat="46.556156000" lon="7.324221000">
+        <ele>1691.000000</ele>
+      </trkpt>
+      <trkpt lat="46.555725000" lon="7.324053000">
+        <ele>1711.000000</ele>
+      </trkpt>
+      <trkpt lat="46.555058000" lon="7.324080000">
+        <ele>1735.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554688000" lon="7.322933000">
+        <ele>1737.000000</ele>
+      </trkpt>
+      <trkpt lat="46.554184000" lon="7.322113000">
+        <ele>1744.000000</ele>
+      </trkpt>
+      <trkpt lat="46.553661000" lon="7.321514000">
+        <ele>1753.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552734000" lon="7.320786000">
+        <ele>1753.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552681000" lon="7.320956000">
+        <ele>1753.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552322000" lon="7.321439000">
+        <ele>1752.000000</ele>
+      </trkpt>
+      <trkpt lat="46.552048000" lon="7.321496000">
+        <ele>1750.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551884000" lon="7.321715000">
+        <ele>1749.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551590000" lon="7.322763000">
+        <ele>1741.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551373000" lon="7.323046000">
+        <ele>1738.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551311000" lon="7.323554000">
+        <ele>1731.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551064000" lon="7.323732000">
+        <ele>1729.000000</ele>
+      </trkpt>
+      <trkpt lat="46.550316000" lon="7.324903000">
+        <ele>1720.000000</ele>
+      </trkpt>
+      <trkpt lat="46.550312000" lon="7.325582000">
+        <ele>1715.000000</ele>
+      </trkpt>
+      <trkpt lat="46.550625000" lon="7.326261000">
+        <ele>1709.000000</ele>
+      </trkpt>
+      <trkpt lat="46.550999000" lon="7.326824000">
+        <ele>1703.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551262000" lon="7.327654000">
+        <ele>1700.000000</ele>
+      </trkpt>
+      <trkpt lat="46.551666000" lon="7.328464000">
+        <ele>1698.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

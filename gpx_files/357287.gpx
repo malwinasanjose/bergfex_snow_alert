@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-02-23T02:49:50.835Z</time>
+    <bounds minlat="47.528339000" minlon="7.721146000" maxlat="47.534222000" maxlon="7.727326000"/>
+  </metadata>
+  <trk>
+    <name>Gesellschaft (Ausflug in die Vergangenheit)</name>
+    <trkseg>
+      <trkpt lat="47.533371000" lon="7.721897000">
+        <ele>289.000000</ele>
+      </trkpt>
+      <trkpt lat="47.533409000" lon="7.722166000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.534222000" lon="7.724344000">
+        <ele>286.000000</ele>
+      </trkpt>
+      <trkpt lat="47.533932000" lon="7.724944000">
+        <ele>287.000000</ele>
+      </trkpt>
+      <trkpt lat="47.533085000" lon="7.723517000">
+        <ele>294.000000</ele>
+      </trkpt>
+      <trkpt lat="47.532284000" lon="7.724698000">
+        <ele>295.000000</ele>
+      </trkpt>
+      <trkpt lat="47.531216000" lon="7.726500000">
+        <ele>296.000000</ele>
+      </trkpt>
+      <trkpt lat="47.529961000" lon="7.727326000">
+        <ele>296.000000</ele>
+      </trkpt>
+      <trkpt lat="47.529816000" lon="7.726479000">
+        <ele>296.000000</ele>
+      </trkpt>
+      <trkpt lat="47.528404000" lon="7.721930000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.528339000" lon="7.721318000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.529114000" lon="7.721146000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.528374000" lon="7.721329000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.528416000" lon="7.721908000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.528706000" lon="7.723013000">
+        <ele>290.000000</ele>
+      </trkpt>
+      <trkpt lat="47.530209000" lon="7.722176000">
+        <ele>289.000000</ele>
+      </trkpt>
+      <trkpt lat="47.530712000" lon="7.721554000">
+        <ele>287.000000</ele>
+      </trkpt>
+      <trkpt lat="47.532001000" lon="7.721672000">
+        <ele>289.000000</ele>
+      </trkpt>
+      <trkpt lat="47.532917000" lon="7.721640000">
+        <ele>288.000000</ele>
+      </trkpt>
+      <trkpt lat="47.533401000" lon="7.721458000">
+        <ele>287.000000</ele>
+      </trkpt>
+      <trkpt lat="47.533421000" lon="7.721391000">
+        <ele>287.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

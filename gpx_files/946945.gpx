@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-03-22T18:43:31.625Z</time>
+    <bounds minlat="46.206203000" minlon="6.866886000" maxlat="46.210205000" maxlon="6.872785000"/>
+  </metadata>
+  <trk>
+    <name>03. Champoussin Ecotrace</name>
+    <trkseg>
+      <trkpt lat="46.206608000" lon="6.866917000">
+        <ele>1525.000000</ele>
+      </trkpt>
+      <trkpt lat="46.206299000" lon="6.866886000">
+        <ele>1523.000000</ele>
+      </trkpt>
+      <trkpt lat="46.206203000" lon="6.867024000">
+        <ele>1524.000000</ele>
+      </trkpt>
+      <trkpt lat="46.206261000" lon="6.868189000">
+        <ele>1515.000000</ele>
+      </trkpt>
+      <trkpt lat="46.206455000" lon="6.869044000">
+        <ele>1509.000000</ele>
+      </trkpt>
+      <trkpt lat="46.207920000" lon="6.871805000">
+        <ele>1488.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208851000" lon="6.872550000">
+        <ele>1479.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209282000" lon="6.872785000">
+        <ele>1469.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209087000" lon="6.872067000">
+        <ele>1474.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208752000" lon="6.871797000">
+        <ele>1478.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208870000" lon="6.871590000">
+        <ele>1479.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209274000" lon="6.871243000">
+        <ele>1482.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209366000" lon="6.871036000">
+        <ele>1483.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209103000" lon="6.870456000">
+        <ele>1492.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209148000" lon="6.870113000">
+        <ele>1498.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209312000" lon="6.869802000">
+        <ele>1507.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209332000" lon="6.868808000">
+        <ele>1523.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209663000" lon="6.868256000">
+        <ele>1535.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209732000" lon="6.867947000">
+        <ele>1540.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209991000" lon="6.867704000">
+        <ele>1545.000000</ele>
+      </trkpt>
+      <trkpt lat="46.210087000" lon="6.867531000">
+        <ele>1547.000000</ele>
+      </trkpt>
+      <trkpt lat="46.210205000" lon="6.867153000">
+        <ele>1553.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209660000" lon="6.867227000">
+        <ele>1549.000000</ele>
+      </trkpt>
+      <trkpt lat="46.209301000" lon="6.867608000">
+        <ele>1543.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208878000" lon="6.867921000">
+        <ele>1531.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208687000" lon="6.867958000">
+        <ele>1527.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208305000" lon="6.867859000">
+        <ele>1522.000000</ele>
+      </trkpt>
+      <trkpt lat="46.208164000" lon="6.868340000">
+        <ele>1514.000000</ele>
+      </trkpt>
+      <trkpt lat="46.207569000" lon="6.868689000">
+        <ele>1505.000000</ele>
+      </trkpt>
+      <trkpt lat="46.207188000" lon="6.868453000">
+        <ele>1509.000000</ele>
+      </trkpt>
+      <trkpt lat="46.207115000" lon="6.868043000">
+        <ele>1514.000000</ele>
+      </trkpt>
+      <trkpt lat="46.206875000" lon="6.867805000">
+        <ele>1517.000000</ele>
+      </trkpt>
+      <trkpt lat="46.206730000" lon="6.866984000">
+        <ele>1524.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

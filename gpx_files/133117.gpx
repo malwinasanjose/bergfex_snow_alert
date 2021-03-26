@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2020-09-18T22:50:06.543Z</time>
+    <bounds minlat="47.461983000" minlon="8.249283000" maxlat="47.465786000" maxlon="8.260167000"/>
+  </metadata>
+  <trk>
+    <name>Birmenstorfer Naturlehrpfad</name>
+    <trkseg>
+      <trkpt lat="47.463585000" lon="8.249283000">
+        <ele>405.000000</ele>
+        <time>2012-05-01T08:00:00Z</time>
+      </trkpt>
+      <trkpt lat="47.464218000" lon="8.251164000">
+        <ele>421.000000</ele>
+        <time>2012-05-01T08:00:33Z</time>
+      </trkpt>
+      <trkpt lat="47.464348000" lon="8.251767000">
+        <ele>427.000000</ele>
+        <time>2012-05-01T08:01:06Z</time>
+      </trkpt>
+      <trkpt lat="47.464237000" lon="8.252141000">
+        <ele>425.000000</ele>
+        <time>2012-05-01T08:01:39Z</time>
+      </trkpt>
+      <trkpt lat="47.464211000" lon="8.252923000">
+        <ele>429.000000</ele>
+        <time>2012-05-01T08:02:12Z</time>
+      </trkpt>
+      <trkpt lat="47.463966000" lon="8.253256000">
+        <ele>429.000000</ele>
+        <time>2012-05-01T08:02:45Z</time>
+      </trkpt>
+      <trkpt lat="47.464577000" lon="8.255606000">
+        <ele>464.000000</ele>
+        <time>2012-05-01T08:03:18Z</time>
+      </trkpt>
+      <trkpt lat="47.464764000" lon="8.257477000">
+        <ele>486.000000</ele>
+        <time>2012-05-01T08:03:51Z</time>
+      </trkpt>
+      <trkpt lat="47.465786000" lon="8.260167000">
+        <ele>524.000000</ele>
+        <time>2012-05-01T08:04:24Z</time>
+      </trkpt>
+      <trkpt lat="47.465179000" lon="8.259870000">
+        <ele>513.000000</ele>
+        <time>2012-05-01T08:04:57Z</time>
+      </trkpt>
+      <trkpt lat="47.464046000" lon="8.258496000">
+        <ele>492.000000</ele>
+        <time>2012-05-01T08:05:30Z</time>
+      </trkpt>
+      <trkpt lat="47.464024000" lon="8.258058000">
+        <ele>485.000000</ele>
+        <time>2012-05-01T08:06:03Z</time>
+      </trkpt>
+      <trkpt lat="47.463676000" lon="8.257725000">
+        <ele>482.000000</ele>
+        <time>2012-05-01T08:06:36Z</time>
+      </trkpt>
+      <trkpt lat="47.463421000" lon="8.257699000">
+        <ele>488.000000</ele>
+        <time>2012-05-01T08:07:09Z</time>
+      </trkpt>
+      <trkpt lat="47.463337000" lon="8.256747000">
+        <ele>482.000000</ele>
+        <time>2012-05-01T08:07:42Z</time>
+      </trkpt>
+      <trkpt lat="47.463089000" lon="8.255727000">
+        <ele>478.000000</ele>
+        <time>2012-05-01T08:08:15Z</time>
+      </trkpt>
+      <trkpt lat="47.462856000" lon="8.253999000">
+        <ele>457.000000</ele>
+        <time>2012-05-01T08:08:48Z</time>
+      </trkpt>
+      <trkpt lat="47.462502000" lon="8.253087000">
+        <ele>449.000000</ele>
+        <time>2012-05-01T08:09:21Z</time>
+      </trkpt>
+      <trkpt lat="47.462357000" lon="8.252245000">
+        <ele>437.000000</ele>
+        <time>2012-05-01T08:09:54Z</time>
+      </trkpt>
+      <trkpt lat="47.462158000" lon="8.251938000">
+        <ele>431.000000</ele>
+        <time>2012-05-01T08:10:27Z</time>
+      </trkpt>
+      <trkpt lat="47.461990000" lon="8.251488000">
+        <ele>422.000000</ele>
+        <time>2012-05-01T08:11:00Z</time>
+      </trkpt>
+      <trkpt lat="47.462284000" lon="8.250295000">
+        <ele>405.000000</ele>
+        <time>2012-05-01T08:11:33Z</time>
+      </trkpt>
+      <trkpt lat="47.461983000" lon="8.250032000">
+        <ele>401.000000</ele>
+        <time>2012-05-01T08:12:06Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

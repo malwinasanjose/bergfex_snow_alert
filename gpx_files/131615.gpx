@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-03-24T12:57:18.762Z</time>
+    <bounds minlat="46.474525000" minlon="7.258973000" maxlat="46.490364000" maxlon="7.285674000"/>
+  </metadata>
+  <trk>
+    <name>Yehudi Menuhin Philosophenweg</name>
+    <trkseg>
+      <trkpt lat="46.474525000" lon="7.285674000">
+        <ele>1054.000000</ele>
+      </trkpt>
+      <trkpt lat="46.474865000" lon="7.285303000">
+        <ele>1053.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475330000" lon="7.284959000">
+        <ele>1052.000000</ele>
+      </trkpt>
+      <trkpt lat="46.476460000" lon="7.283771000">
+        <ele>1047.000000</ele>
+      </trkpt>
+      <trkpt lat="46.476273000" lon="7.283190000">
+        <ele>1046.000000</ele>
+      </trkpt>
+      <trkpt lat="46.476303000" lon="7.283046000">
+        <ele>1046.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475864000" lon="7.282387000">
+        <ele>1046.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475449000" lon="7.282025000">
+        <ele>1045.000000</ele>
+      </trkpt>
+      <trkpt lat="46.474937000" lon="7.281342000">
+        <ele>1044.000000</ele>
+      </trkpt>
+      <trkpt lat="46.474758000" lon="7.280722000">
+        <ele>1041.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475044000" lon="7.280428000">
+        <ele>1040.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475250000" lon="7.279902000">
+        <ele>1039.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475155000" lon="7.278759000">
+        <ele>1037.000000</ele>
+      </trkpt>
+      <trkpt lat="46.474949000" lon="7.278777000">
+        <ele>1036.000000</ele>
+      </trkpt>
+      <trkpt lat="46.474888000" lon="7.278664000">
+        <ele>1035.000000</ele>
+      </trkpt>
+      <trkpt lat="46.475758000" lon="7.277902000">
+        <ele>1033.000000</ele>
+      </trkpt>
+      <trkpt lat="46.477100000" lon="7.276215000">
+        <ele>1029.000000</ele>
+      </trkpt>
+      <trkpt lat="46.477726000" lon="7.275596000">
+        <ele>1030.000000</ele>
+      </trkpt>
+      <trkpt lat="46.479660000" lon="7.274219000">
+        <ele>1026.000000</ele>
+      </trkpt>
+      <trkpt lat="46.479614000" lon="7.274114000">
+        <ele>1026.000000</ele>
+      </trkpt>
+      <trkpt lat="46.480438000" lon="7.273379000">
+        <ele>1024.000000</ele>
+      </trkpt>
+      <trkpt lat="46.483089000" lon="7.270643000">
+        <ele>1025.000000</ele>
+      </trkpt>
+      <trkpt lat="46.483768000" lon="7.269859000">
+        <ele>1024.000000</ele>
+      </trkpt>
+      <trkpt lat="46.484772000" lon="7.268614000">
+        <ele>1020.000000</ele>
+      </trkpt>
+      <trkpt lat="46.485920000" lon="7.266876000">
+        <ele>1016.000000</ele>
+      </trkpt>
+      <trkpt lat="46.487778000" lon="7.263313000">
+        <ele>1012.000000</ele>
+      </trkpt>
+      <trkpt lat="46.488171000" lon="7.264024000">
+        <ele>1013.000000</ele>
+      </trkpt>
+      <trkpt lat="46.488667000" lon="7.264449000">
+        <ele>1012.000000</ele>
+      </trkpt>
+      <trkpt lat="46.489262000" lon="7.263363000">
+        <ele>1016.000000</ele>
+      </trkpt>
+      <trkpt lat="46.489395000" lon="7.263344000">
+        <ele>1016.000000</ele>
+      </trkpt>
+      <trkpt lat="46.489632000" lon="7.261681000">
+        <ele>1019.000000</ele>
+      </trkpt>
+      <trkpt lat="46.489784000" lon="7.261273000">
+        <ele>1021.000000</ele>
+      </trkpt>
+      <trkpt lat="46.489712000" lon="7.260335000">
+        <ele>1016.000000</ele>
+      </trkpt>
+      <trkpt lat="46.489758000" lon="7.259071000">
+        <ele>1017.000000</ele>
+      </trkpt>
+      <trkpt lat="46.490364000" lon="7.258973000">
+        <ele>1024.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

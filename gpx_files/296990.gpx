@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-01-06T19:22:57.083Z</time>
+    <bounds minlat="47.228840000" minlon="8.345859000" maxlat="47.232700000" maxlon="8.354850000"/>
+  </metadata>
+  <trk>
+    <name>St. Burkards-Pilgerweg in Beinwil/Freiamt</name>
+    <trkseg>
+      <trkpt lat="47.230152000" lon="8.345985000">
+        <ele>577.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230370000" lon="8.345936000">
+        <ele>577.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230438000" lon="8.345859000">
+        <ele>577.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230595000" lon="8.346058000">
+        <ele>576.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230801000" lon="8.346196000">
+        <ele>576.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231609000" lon="8.346288000">
+        <ele>573.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231789000" lon="8.346403000">
+        <ele>573.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231983000" lon="8.346680000">
+        <ele>571.000000</ele>
+      </trkpt>
+      <trkpt lat="47.232056000" lon="8.346847000">
+        <ele>570.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231812000" lon="8.346895000">
+        <ele>570.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231968000" lon="8.347404000">
+        <ele>567.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231964000" lon="8.347592000">
+        <ele>566.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231628000" lon="8.347905000">
+        <ele>564.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231583000" lon="8.348019000">
+        <ele>564.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231567000" lon="8.350281000">
+        <ele>556.000000</ele>
+      </trkpt>
+      <trkpt lat="47.232498000" lon="8.350310000">
+        <ele>553.000000</ele>
+      </trkpt>
+      <trkpt lat="47.232628000" lon="8.350580000">
+        <ele>552.000000</ele>
+      </trkpt>
+      <trkpt lat="47.232700000" lon="8.350948000">
+        <ele>550.000000</ele>
+      </trkpt>
+      <trkpt lat="47.232597000" lon="8.351776000">
+        <ele>555.000000</ele>
+      </trkpt>
+      <trkpt lat="47.232426000" lon="8.352377000">
+        <ele>557.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231838000" lon="8.353365000">
+        <ele>559.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231533000" lon="8.354057000">
+        <ele>557.000000</ele>
+      </trkpt>
+      <trkpt lat="47.231354000" lon="8.354262000">
+        <ele>557.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230839000" lon="8.354463000">
+        <ele>553.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230560000" lon="8.354850000">
+        <ele>550.000000</ele>
+      </trkpt>
+      <trkpt lat="47.229080000" lon="8.354195000">
+        <ele>551.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230110000" lon="8.350249000">
+        <ele>557.000000</ele>
+      </trkpt>
+      <trkpt lat="47.228840000" lon="8.349540000">
+        <ele>559.000000</ele>
+      </trkpt>
+      <trkpt lat="47.229225000" lon="8.347690000">
+        <ele>568.000000</ele>
+      </trkpt>
+      <trkpt lat="47.229179000" lon="8.346202000">
+        <ele>575.000000</ele>
+      </trkpt>
+      <trkpt lat="47.229809000" lon="8.346136000">
+        <ele>577.000000</ele>
+      </trkpt>
+      <trkpt lat="47.230152000" lon="8.345985000">
+        <ele>577.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

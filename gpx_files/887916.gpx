@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-03-24T13:44:23.895Z</time>
+    <bounds minlat="46.786621000" minlon="8.040643000" maxlat="46.787640000" maxlon="8.047193000"/>
+  </metadata>
+  <trk>
+    <name>190822 Brienzer Rothorn  1,2  km  + 125 m  -120 m</name>
+    <trkseg>
+      <trkpt lat="46.787117000" lon="8.044187000">
+        <ele>2268.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786892000" lon="8.045723000">
+        <ele>2299.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786652000" lon="8.046878000">
+        <ele>2314.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786659000" lon="8.047193000">
+        <ele>2301.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786991000" lon="8.046589000">
+        <ele>2328.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786976000" lon="8.046905000">
+        <ele>2329.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787090000" lon="8.046826000">
+        <ele>2333.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786983000" lon="8.046905000">
+        <ele>2329.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786957000" lon="8.046642000">
+        <ele>2327.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786678000" lon="8.047167000">
+        <ele>2304.000000</ele>
+      </trkpt>
+      <trkpt lat="46.786621000" lon="8.047167000">
+        <ele>2300.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787136000" lon="8.044227000">
+        <ele>2275.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787209000" lon="8.043111000">
+        <ele>2270.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787502000" lon="8.042009000">
+        <ele>2256.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787422000" lon="8.042035000">
+        <ele>2253.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787609000" lon="8.040919000">
+        <ele>2247.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787567000" lon="8.040643000">
+        <ele>2239.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787640000" lon="8.040867000">
+        <ele>2249.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787434000" lon="8.041995000">
+        <ele>2253.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787533000" lon="8.041956000">
+        <ele>2257.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787209000" lon="8.043137000">
+        <ele>2270.000000</ele>
+      </trkpt>
+      <trkpt lat="46.787136000" lon="8.044096000">
+        <ele>2273.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

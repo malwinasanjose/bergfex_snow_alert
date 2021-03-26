@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-01-15T01:55:56.313Z</time>
+    <bounds minlat="46.590096000" minlon="7.335791000" maxlat="46.591476000" maxlon="7.340177000"/>
+  </metadata>
+  <trk>
+    <name>Elebnisweg Bruchmandli - Jaunpass</name>
+    <trkseg>
+      <trkpt lat="46.591404000" lon="7.337232000">
+        <ele>1511.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591476000" lon="7.337712000">
+        <ele>1512.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591175000" lon="7.337839000">
+        <ele>1511.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591087000" lon="7.338077000">
+        <ele>1514.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591122000" lon="7.338663000">
+        <ele>1510.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591015000" lon="7.339425000">
+        <ele>1515.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591133000" lon="7.340177000">
+        <ele>1513.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590908000" lon="7.339778000">
+        <ele>1515.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590862000" lon="7.339552000">
+        <ele>1517.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590778000" lon="7.339442000">
+        <ele>1520.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590759000" lon="7.339140000">
+        <ele>1520.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590462000" lon="7.338483000">
+        <ele>1522.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590584000" lon="7.337321000">
+        <ele>1519.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590492000" lon="7.336998000">
+        <ele>1520.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590351000" lon="7.337098000">
+        <ele>1522.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590176000" lon="7.336737000">
+        <ele>1522.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590096000" lon="7.336325000">
+        <ele>1522.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590195000" lon="7.335791000">
+        <ele>1521.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590336000" lon="7.335807000">
+        <ele>1520.000000</ele>
+      </trkpt>
+      <trkpt lat="46.590652000" lon="7.336087000">
+        <ele>1518.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591244000" lon="7.337196000">
+        <ele>1511.000000</ele>
+      </trkpt>
+      <trkpt lat="46.591404000" lon="7.337222000">
+        <ele>1511.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

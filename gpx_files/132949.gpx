@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-01-02T07:22:30.314Z</time>
+    <bounds minlat="47.490749000" minlon="7.624037000" maxlat="47.492702000" maxlon="7.628821000"/>
+  </metadata>
+  <trk>
+    <name>Audio Tour Ermitage</name>
+    <trkseg>
+      <trkpt lat="47.492702000" lon="7.624037000">
+        <ele>344.000000</ele>
+      </trkpt>
+      <trkpt lat="47.492207000" lon="7.625086000">
+        <ele>346.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491924000" lon="7.626063000">
+        <ele>351.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491692000" lon="7.626583000">
+        <ele>357.000000</ele>
+      </trkpt>
+      <trkpt lat="47.490749000" lon="7.627776000">
+        <ele>369.000000</ele>
+      </trkpt>
+      <trkpt lat="47.490978000" lon="7.627642000">
+        <ele>376.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491177000" lon="7.627417000">
+        <ele>370.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491386000" lon="7.627329000">
+        <ele>371.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491177000" lon="7.627770000">
+        <ele>377.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491634000" lon="7.627409000">
+        <ele>375.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491943000" lon="7.627601000">
+        <ele>385.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491638000" lon="7.627772000">
+        <ele>380.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491428000" lon="7.628236000">
+        <ele>390.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491787000" lon="7.628768000">
+        <ele>393.000000</ele>
+      </trkpt>
+      <trkpt lat="47.491943000" lon="7.628821000">
+        <ele>396.000000</ele>
+      </trkpt>
+      <trkpt lat="47.492104000" lon="7.628315000">
+        <ele>400.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
