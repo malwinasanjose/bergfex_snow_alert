@@ -17,7 +17,7 @@ Partners
 
 Project description
 -------------------
-Planning a winter time hikes can be complicated in Switzerland. Sometimes hiking in the snow is an exciting adventure, but it can also be an unexpected surprise. There is no shortage of trail databases that contain information about how long or how difficult a trail is, however finding up to date information about snowfall data on these trails can be tedious. This notebook solves the snowline problem by scraping GPX data from bergfex.com and meteocentrale.ch. 
+Planning hikes in winter time can be complicated in Switzerland. Sometimes hiking in the snow is an exciting adventure, but it can also be an unexpected surprise. There is no shortage of trail databases that contain information about how long or how difficult a trail is, however finding up to date information about snowfall data on these trails can be tedious. This notebook solves the snowline problem by scraping GPX data from bergfex.com and meteocentrale.ch. 
 
 Weather GPS data is obtained from multiple weather towers across Switzerland that publicly provide current weather data. Since these towers are located in a specific latitude and longitude, an approximate chance of snowfall was assumed based on the distance from the tower and altitude. If a trail is within a certain distance from a tower, and is also at a certain altitude then it will be tagged with a snow alert. This was implemented by finding the closest hiking trails to a tower that has reported snow.
 
