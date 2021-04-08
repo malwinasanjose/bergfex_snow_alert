@@ -21,13 +21,14 @@ Planning hikes in winter time can be complicated in Switzerland. Sometimes hikin
 
 Weather GPS data is obtained from multiple weather towers across Switzerland that publicly provide current weather data. Since these towers are located in a specific latitude and longitude, an approximate chance of snowfall was assumed based on the distance from the tower and altitude. If a trail is within a certain distance from a tower, and is also at a certain altitude then it will be tagged with a snow alert. This was implemented by finding the closest hiking trails to a tower that has reported snow.
 
-XXX potentially show visualization / dashboard...
+A dashboard to visualize and select specific activities is created with Tableau in our [next project] (https://github.com/SarahDutschke/bergfex_snowalert_part_II).
 
 Project Milestones
 -------------------
 ### Milestone 1
 Scraping the Bergfex.com website in order to create Pandas dataframes that contain important information about each trail. This code uses BeautifulSoup to parse the html tags into json, which is easier to work with. A for-loop iterates over each html tag and adds the corresponding information into empty lists. Data is cleaned and an initial data analysis is performed.
 Finally, also the corresponding GPS data is downloaded and scraped.
+The functions created in this notebook allow to easily repeat the steps or perform them for different regions.
 
  ### Milestone 2
  Scraping the snow level data from meteocentrale.ch website in order to create Pandas dataframes that contain the snow level for 91 weather stations around Switzerland.
@@ -41,7 +42,7 @@ Finally, also the corresponding GPS data is downloaded and scraped.
  
  Outcomes
  ---------
-As the final outcome of this project, we created three jupyter notebooks (one for each Milestone). With the help of these, XXXX for the entire data base can be created with one command. 
+As the final outcome of this project, we created three jupyter notebooks (one for each Milestone). With the help of these, we create a data base of 3'000+ activities in Switzerland, for each one indicating if there is a 'snow alert'. 
 
 Example plots
 ---------
