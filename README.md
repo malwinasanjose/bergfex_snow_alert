@@ -27,12 +27,17 @@ Project Milestones
 -------------------
 ### Milestone 1
 Scraping the Bergfex.com website in order to create Pandas dataframes that contain important information about each trail. This code uses BeautifulSoup to parse the html tags into json, which is easier to work with. A for-loop iterates over each html tag and adds the corresponding information into empty lists. Data is cleaned and an initial data analysis is performed.
+Finally, also the corresponding GPS data is downloaded and scraped.
 
  ### Milestone 2
- Scraping the snow level data from XXX website in order to create Pandas dataframes that contain the snow level for XXX weather stations around Switzerland.
+ Scraping the snow level data from meteocentrale.ch website in order to create Pandas dataframes that contain the snow level for 91 weather stations around Switzerland.
+ This code uses BeautifulSoup to parse the html tags. A for-loop iterates over each html tag and adds the corresponding information into empty lists. Afterwards the data is cleaned.
+ Finally, we add the GPS coordinates of each weather station.
  
  ### Milestone 3
- Overlay the data form Milestone 1 and 2 to assess whether a certain activity has a snow alert or not.
+ In this part our aim is to find the nearest known snow level for our activities and to create a "snow alert" if necessary. Therefore, we use the files from Milestones 1 & 2 and compare the GPS coordinates. 
+ We then classify based on two conditions if a snow alert exists and add the 'snow status' to each activity.
+ 
  
  Outcomes
  ---------
@@ -59,5 +64,6 @@ Repository Structure
     ├── README.md       <- top-level README file for anybody interested in this project
     ├── notebooks       <- one notebook for each Milestone
     ├── data            <- csv files, created based on each of the notebooks
+    ├── gpx_files       <- gpx files for each activity, created based on notebook I
     ├── environment.yml <- environment file that lists the channels and dependencies needed for this project
     ├── environment2.yml <- detailed environment file that contains specific versions used for this project
