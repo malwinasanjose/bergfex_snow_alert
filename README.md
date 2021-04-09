@@ -21,7 +21,7 @@ Planning hikes in winter time can be complicated in Switzerland. Sometimes hikin
 
 Weather GPS data is obtained from multiple weather towers across Switzerland that publicly provide current weather data. Since these towers are located in a specific latitude and longitude, an approximate chance of snowfall was assumed based on the distance from the tower and altitude. If a trail is within a certain distance from a tower, and is also at a certain altitude then it will be tagged with a snow alert. This was implemented by finding the closest hiking trails to a tower that has reported snow.
 
-A dashboard to visualize and select specific activities is created with Tableau in our [next project] (https://github.com/SarahDutschke/bergfex_snowalert_part_II).
+A dashboard to visualize and select specific activities is created with Tableau in our [next project](https://github.com/SarahDutschke/bergfex_snowalert_part_II).
 
 Project Milestones
 -------------------
@@ -44,12 +44,14 @@ The functions created in this notebook allow to easily repeat the steps or perfo
  ---------
 As the final outcome of this project, we created three jupyter notebooks (one for each Milestone). With the help of these, we create a data base of 3'000+ activities in Switzerland, for each one indicating if there is a 'snow alert'. 
 
-Example plots
+Examples
 ---------
-![](barplot_1.png)
-![](treemap_1.png)
-![](barplot_2.png)
-![](treemap_2.png)
+![](scraping.jpeg)
+![](clean_df.jpeg)
+![](barchart.jpeg)
+![](../examples/scatter_plot.jpeg)
+![](box_plot.jpeg)
+![](correlation_matrix.jpeg)
 
 Requirements
 ------------
