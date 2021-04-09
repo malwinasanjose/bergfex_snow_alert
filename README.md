@@ -1,6 +1,6 @@
 # Webscraping with spatial data - Bergfex
 
-![](Teaser_Bergfex.png)
+![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/Teaser_Bergfex.png)
 
 This repository documents the webscraping of Bergfex webpage adding snow level information to each activity. It was elaborated by Malwina San José, Tiffany Carruthers and Sarah Dutschke. The information presented here is not approved for any kind of commercial use.
 
@@ -46,13 +46,13 @@ As the final outcome of this project, we created three jupyter notebooks (one fo
 
 Examples
 ---------
-![](scraping.jpeg)
-![](clean_df.jpeg)
-![](barchart.jpeg)
-![](../examples/scatter_plot.jpeg)
+![](/examples/scraping.jpeg)
+![](/examples/clean_df.jpeg)
+![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/barchart.jpeg)
 ![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/scatter_plot.jpeg)
-![](box_plot.jpeg)
-![](correlation_matrix.jpeg)
+![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/box_plot.jpeg)
+![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/correlation_matrix.jpeg)
+[](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/GoogleEarth.jpeg)
 
 Requirements
 ------------
@@ -66,8 +66,9 @@ XXX to update
 Repository Structure
 ------------
     ├── README.md       <- top-level README file for anybody interested in this project
-    ├── notebooks       <- one notebook for each Milestone
     ├── data            <- csv files, created based on each of the notebooks
+    ├── examples        <- jpeg files, showing the step by step results
     ├── gpx_files       <- gpx files for each activity, created based on notebook I
+    ├── notebooks       <- one notebook for each Milestone
     ├── environment.yml <- environment file that lists the channels and dependencies needed for this project
     ├── environment2.yml <- detailed environment file that contains specific versions used for this project
