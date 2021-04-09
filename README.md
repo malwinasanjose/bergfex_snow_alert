@@ -50,6 +50,7 @@ Examples
 ![](clean_df.jpeg)
 ![](barchart.jpeg)
 ![](../examples/scatter_plot.jpeg)
+![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/scatter_plot.jpeg)
 ![](box_plot.jpeg)
 ![](correlation_matrix.jpeg)
 
