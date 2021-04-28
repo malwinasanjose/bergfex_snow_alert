@@ -1,0 +1,19 @@
+name: bergfex_I
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - beautifulsoup4
+  - requests
+  - matplotlib
+  - seaborn
+  - time
+  - glob2
+  - gpxpy
+  - pillow
+  - pip:
+    - numpy
+    - setuptools
+prefix: /opt/anaconda3/envs/bergfex_I
