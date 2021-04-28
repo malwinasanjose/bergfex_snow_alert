@@ -1,6 +1,6 @@
 # Webscraping with spatial data - Bergfex
 
-![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/Teaser_Bergfex.png)
+![](/examples/Teaser_Bergfex.png)
 
 This repository documents the webscraping of Bergfex webpage adding snow level information to each activity. It was elaborated by Malwina San José, Tiffany Carruthers and Sarah Dutschke. The information presented here is not approved for any kind of commercial use.
 
@@ -13,7 +13,7 @@ Project Team
 
 Partners
  -------
-[Bergex](https://www.bergfex.com/) is a company that provides a wide range of information about mountains (such as mountain activities, weather information, accommodation options etc.).
+[Bergfex](https://www.bergfex.com/) is a company that provides a wide range of information about mountains (such as mountain activities, weather information, accommodation options etc.).
 
 Project description
 -------------------
@@ -42,17 +42,17 @@ The functions created in this notebook allow to easily repeat the steps or perfo
  
  Outcomes
  ---------
-As the final outcome of this project, we created three jupyter notebooks (one for each Milestone). With the help of these, we create a data base of 3'000+ activities in Switzerland, for each one indicating if there is a 'snow alert'. 
+As the final outcome of this project, we created three jupyter notebooks (one for each Milestone). With the help of these, we create a data base of 3'500+ activities in Switzerland, for each one indicating if there is a 'snow alert'. 
 
 Examples
 ---------
 ![](/examples/scraping.jpeg)
 ![](/examples/clean_df.jpeg)
-![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/barchart.jpeg)
-![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/scatter_plot.jpeg)
-![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/box_plot.jpeg)
-![](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/correlation_matrix.jpeg)
-[](https://github.com/malwinasanjose/bergfex_snow_alert/blob/master/examples/GoogleEarth.jpeg)
+![](/examples/barchart.jpeg)
+![](/examples/scatter_plot.jpeg)
+![](/examples/box_plot.jpeg)
+![](/examples/correlation_matrix.jpeg)
+![](/examples/GoogleEarth.jpeg)
 
 Requirements
 ------------
