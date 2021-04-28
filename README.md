@@ -1,4 +1,4 @@
-# Webscraping with spatial data - Bergfex
+# bergfex_snow_alert_part_I
 
 ![](/examples/Teaser_Bergfex.png)
 
@@ -59,9 +59,17 @@ Requirements
 The libraries required to run this product are the following (details in environment.yml and environment2.yml):
   - ipykernel
   - pandas
-
-XXX to update
-  
+  - beautifulsoup4
+  - requests
+  - matplotlib
+  - seaborn
+  - time
+  - glob2
+  - gpxpy
+  - pillow
+  - pip:
+    - numpy
+    - setuptools
   
 Repository Structure
 ------------
