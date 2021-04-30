@@ -9,14 +9,17 @@ dependencies:
   - beautifulsoup4=4.9.3=pyhb0f4dca_0
   - blas=1.0=openblas
   - brotlipy=0.7.0=py38haf1e3a3_1000
-  - ca-certificates=2020.10.14=0
-  - certifi=2020.6.20=py38_0
+  - ca-certificates=2020.12.5=h033912b_0
+  - certifi=2020.12.5=py38h50d1736_1
   - cffi=1.14.3=py38hed5b41f_0
   - chardet=3.0.4=py38_1003
   - cryptography=3.1.1=py38hddc9c9b_0
   - cycler=0.10.0=py_2
   - decorator=4.4.2=py_0
   - freetype=2.10.4=h4cff582_1
+  - geographiclib=1.50=py_0
+  - geopy=2.1.0=pyhd3deb0d_0
+  - geos=3.9.1=he49afe7_2
   - glob2=0.7=py_0
   - gpxpy=1.4.2=py_0
   - idna=2.10=py_0
@@ -46,8 +49,9 @@ dependencies:
   - matplotlib=3.2.2=1
   - matplotlib-base=3.2.2=py38h1300a51_1
   - ncurses=6.2=h0a44026_1
+  - numpy=1.20.2=py38had91d27_0
   - olefile=0.46=py_0
-  - openssl=1.1.1h=haf1e3a3_0
+  - openssl=1.1.1k=h0d85af4_0
   - pandas=1.0.1=py38h4f17bb1_0
   - parso=0.8.0=py_0
   - pexpect=4.8.0=py38_1
@@ -70,6 +74,7 @@ dependencies:
   - requests=2.24.0=py_0
   - scipy=1.6.3=py38h431c0a8_0
   - seaborn=0.11.0=py_0
+  - shapely=1.7.1=py38h08f9a40_4
   - six=1.15.0=py_0
   - soupsieve=2.0.1=py_0
   - sqlite=3.33.0=hffcf06c_0
@@ -85,6 +90,5 @@ dependencies:
   - zlib=1.2.11=h1de35cc_3
   - zstd=1.4.4=h1990bb4_3
   - pip:
-    - numpy==1.20.2
     - setuptools==56.0.0
 prefix: /opt/anaconda3/envs/bergfex_I

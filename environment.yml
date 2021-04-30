@@ -7,13 +7,13 @@ dependencies:
   - pandas
   - beautifulsoup4
   - requests
+  - numpy
   - matplotlib
   - seaborn
   - time
   - glob2
   - gpxpy
   - pillow
-  - pip:
-    - numpy
-    - setuptools
+  - shapely
+  - geopy
 prefix: /opt/anaconda3/envs/bergfex_I
