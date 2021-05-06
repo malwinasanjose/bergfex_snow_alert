@@ -36,8 +36,8 @@ The functions created in this notebook allow to easily repeat the steps or perfo
  Finally, we add the GPS coordinates of each weather station.
  
  ### Milestone 3
- In this part our aim is to find the nearest known snow level for our activities and to create a "snow alert" if necessary. Therefore, we use the files from Milestones 1 & 2 and compare the GPS coordinates. 
- We then classify based on two conditions if a snow alert exists and add the 'snow status' to each activity.
+ In this part, our aim is to find the nearest known snow level for our activities and to create a "snow alert" if necessary. Therefore, we use the files from Milestones 1 & 2 and compare the GPS coordinates. 
+ We then classify based on two conditions if a snow alert exists or not. Finally, we add the 'snow status' to each activity.
  
  
  Outcomes
